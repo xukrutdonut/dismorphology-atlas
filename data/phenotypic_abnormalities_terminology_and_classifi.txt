@@ -1,0 +1,1447 @@
+                                               American Journal of Medical Genetics 123A:211– 230 (2003)
+
+
+
+
+Phenotypic Abnormalities:
+Terminology and Classification
+Johannes H.M. Merks,1* Clara D.M. van Karnebeek,2 Hubert N. Caron,1 and Raoul C.M. Hennekam2
+1
+ Department of Pediatric Oncology/Emma Children’s Hospital, Academic Medical Center, Amsterdam, The Netherlands
+2
+ Department of Clinical Genetics and Pediatrics/Emma Children’s Hospital, Academic Medical Center, Amsterdam,
+The Netherlands
+
+
+    Clinical morphology has proved essential for                group. The lack of published consensus in
+    the successful delineation of hundreds of                   the literature led us to produce a classifica-
+    syndromes and as a powerful instrument for                  tion list with a twofold goal. First, we wanted
+    detecting (candidate) genes (Gorlin et al.                  to enhance uniformity in the scoring and
+    [2001]; Syndromes of the Head and Neck;                     classification of apparently abnormal physi-
+    Oxford: Oxford University Press. 1 p]. The                  cal findings by a nomenclature for errors of
+    major approach to reach this has been care-                 morphogenesis detectable on surface exam-
+    ful clinical evaluations of patients, focused               ination, and secondly a uniform classifica-
+    on congenital anomalies. A similar careful                  tion system. This should allow investigators
+    physical examination performed in patients,                 to evaluate systematically the presence of
+    who have been treated for childhood cancer,                 patterns in phenotypic anomalies, in the
+    may allow detection of concurrent patterns                  general population, and in patients with
+    of anomalies and provide clues for causative                various disorders, suspected to be a devel-
+    genes. In the past, several studies were per-               opmental anomaly. Also, normal values may
+    formed describing the prevalence of anoma-                  be obtained this way. Second, the list will
+    lies in patients with cancer. However, in                   allow a determination of the importance of
+    most studies, it was not possible to indicate               the collected symptoms in a study popula-
+    the biologic relevance of the recorded ano-                 tion. We tested the feasibility of the applica-
+    malies, or to judge their relative importance.              tion of the classification list in a study
+    Are the detected anomalies common var-                      population: the list was piloted in a group
+    iants, and should they thus be regarded as                  of patients who have had cancer as a child, to
+    normal, or are they minor anomalies or true                 detect patterns of anomalies related to spe-
+    abnormalities, indicating a possible devel-                 cific types of tumors. ß 2003 Wiley-Liss, Inc.
+    opmental cause? Classification of items in
+    the categories of common variants (distur-                  KEY WORDS: phenotypic abnormalities;
+    bances of phenogenesis with a prevalence                               terminology; classification;
+    >4%), minor anomalies (disturbances of phe-                            pediatric cancer; congenital;
+    nogenesis with a prevalence 4%), and mal-                             abnormality; minor anomaly;
+    formations (disturbances of embryogenesis)                             normal variant; embryogen-
+    should allow weighing the importance of the                            esis; phenogenesis; defor-
+    scored items in the population under study,                            mity; disruption; dysplasia;
+    and should facilitate assessment of devel-                             clinical morphology
+    opmental disturbances (if any) in a study
+                                                                                INTRODUCTION
+                                                                                   Terminology
+                                                                 Prior to the study, it was paramount to set definitions
+                                                              of all manifestations. Aase [1990a] subdivided all items
+                                                              into two categories: abnormalities and minor variants.
+  *Correspondence to: Dr. Hans H.M. Merks, M.D., Department   Abnormalities were further subdivided in malforma-
+of Pediatric Oncology, Floor F8-Room 245, Emma Children’s     tions, deformations, disruptions, and dysplasias accord-
+Hospital, Academic Medical Center, Meibergdreef 9, 1105 AZ    ing to their suspected cause [Spranger et al., 1982].
+Amsterdam, The Netherlands. E-mail: j.h.merks@amc.uva.nl      Minor variants were subdivided in two categories, minor
+  Received 15 October 2002; Accepted 6 March 2003             anomalies and common variants, based upon their
+  DOI 10.1002/ajmg.a.20249                                    implication and prevalence.
+
+ß 2003 Wiley-Liss, Inc.
+212      Merks et al.
+
+                     Abnormalities                             disorders, the latter being confirmed by other groups
+                                                               [Marden et al., 1964; Hook, 1971; Leppig et al., 1987].
+   A malformation was defined as a disturbance of
+                                                               Merlob et al. [1985] divided minor abnormalities into
+embryogenesis (morphogenesis) [Opitz, 1985], and was
+                                                               three groups: (1) minor congenital malformations, ana-
+classified as ‘‘mild’’ if it had little effect on normal
+                                                               tomic defects due to errors of organogenesis, not being of
+functioning of the affected individual. All other mal-
+                                                               medical significance; (2) minor variants, phenotypic
+formations were called major malformations. Examples
+                                                               variations, not present in multiple congenital anomaly
+of mild malformations are ear pits and supernumerary
+                                                               syndromes, often present in the family or the patient’s
+nipples. Malformations are, by definition, results of
+                                                               ethnic group; and (3) transient developmental disorders,
+early events, which are often oligogenic (although they
+                                                               minor defects in embryonic development which disap-
+can also be polygenic), leading to qualitatively different
+                                                               pear by themselves. Opitz [1985] divided the so-called
+developmental endproducts within the individual. As
+                                                               minor congenital anomalies into two categories primar-
+the threshold principle is frequently involved in mor-
+                                                               ily based on the particular phase in which the develop-
+phogenesis, defects in this process lead to all-or-none
+                                                               mental abnormality occurred: (1) mild malformations,
+traits [Opitz, 1985]. Although malformations may be
+                                                               which arise during embryogenesis, and should always
+mild and have little or no effect on the functioning of the
+                                                               be considered malformations, whether primary or
+individual, they are always abnormal.
+                                                               secondary; (2) minor anomalies, which are defects of
+   Deformations are produced by aberrant mechanical
+                                                               phenogenesis, arising during fetal or early postnatal
+forces that distort otherwise normal structures, result-
+                                                               life. Opitz further specified a minor anomaly as a poly-
+ing from maternal or fetal factors, occurring at any time
+                                                               genic event, in contrast to mild malformations. Defects
+in gestation.
+                                                               in phenogenesis lead to quantitative differences be-
+   Disruptions are structural defects caused by inter-
+                                                               tween individuals; phenogenesis represents a process of
+ference with the development of genetically normal
+                                                               developmental fine-tuning. It does not involve threshold
+primordia, resulting from destructive events, caused
+                                                               decisions but only shades of differences [Opitz, 1985].
+by problems of various origin (for instance of vas-
+                                                               In their review, Frı́as and Carey [1996] conclude by
+cular, infectious, or mechanical origin), commonly
+                                                               complimenting Merlob [1994] for introducing the term
+affecting several tissue types in a well-demarcated
+                                                               mild errors of morphogenesis (MEM) as ‘‘an excellent
+anatomic region; the structural damage does not con-
+                                                               substitute for minor congenital anomalies’’ in as much
+form to the boundaries normally imposed by embryonic
+                                                               as MEM encompasses both the errors of organogenesis,
+development.
+                                                               including mild malformations, disruptions, and dyspla-
+   The term dysplasia refers to abnormal histogenesis or
+                                                               sias, and the errors of phenogenesis, or minor anomalies.
+function of a specific tissue type, which can be focal or
+                                                               However, for studies like ours, describing patterns of
+distributed throughout the body, resulting in clinically
+                                                               anomalies in a specific study population, searching for a
+apparent structural changes, which have a continuing
+                                                               possible developmental etiology in the specific patient
+course. Since the tissue itself is intrinsically abnormal,
+                                                               group, abnormalities of organogenesis and phenogen-
+the effect on the clinical symptom may persist or worsen
+                                                               esis should not be covered by a single term such as
+as long as the tissue continues to grow or function. In
+                                                               ‘‘mild errors of morphogenesis.’’ In order to assign the
+this way, dysplasias differ from the other three cate-
+                                                               appropriate weight to the findings scored in a popula-
+gories, where the actions causing it are relatively brief in
+                                                               tion, defects of organogenesis and phenogenesis should
+duration [Aase, 1990a].
+                                                               be classified as two separate categories: (1) malforma-
+                                                               tions, either mild or major, representing defects of
+                                                               organogenesis and (2) minor variants, either common
+                    Minor Variants
+                                                               variants or minor anomalies, representing defects of
+  Aase subdivided minor variants into two categories,          phenogenesis.
+minor anomalies and spectrum variants [Aase, 1990b].              Two factors discriminate minor anomalies from com-
+Minor congenital anomalies have been widely discussed.         mon (or phenotypic) variants: prevalence and implica-
+Frı́as and Carey [1996] described the history of the           tion. In larger scale studies, minor anomalies appeared
+definitions used in the major studies performed. Marden        to have a prevalence of 4% or lower [Marden et al., 1964;
+et al. [1964] arbitrarily divided congenital anomalies         Méhes, 1983; Leppig et al., 1987]. Therefore, deviations
+into two categories according to their severity: Major         of phenogenesis with an expected prevalence in the
+anomalies have an adverse effect on either function            normal population above 4% are called, by definition,
+or social acceptability of the individual, while minor         normal phenotypic variants. The presence of multiple
+anomalies are not of medical or cosmetic consequence           minor anomalies should alert the attending physician
+to the patient. Anomalies observed in more than 4% of          for the prevalence of a major malformation: all four
+infants were considered normal phenotypic variants.            (newborn) population studies on minor anomalies show-
+Hook [1971] used the same definitions, referring to            ed that the presence of three or more minor anomalies in
+minor congenital anomalies as morphological anatomi-           a newborn makes the neonate more likely to have a
+cal variations. Méhes [1983] followed the nomenclature        major malformation, the likelihood ranging in the dif-
+set by Marden et al. [1964], pointing out that many            ferent studies from 19.6 to 90% [Marden et al., 1964;
+apparent minor anomalies represent extreme normal              Méhes, 1983; Merlob et al., 1985; Leppig et al., 1987].
+variants rather than true birth defects. However, their        Multiple minor anomalies may imply an effect of
+frequency is much higher in subjects with congenital           aneuploidy [Opitz, 1985].
+                                                    Phenotypic Abnormalities: Terminology and Classification                          213
+
+                          Normal Values                                       ing a possible genetic defect and (2) common variants
+                                                                              having a prevalence of >4% in the normal population.
+   Until now, large-scale studies on the prevalence of
+minor anomalies have been performed in newborn
+infants only [Marden et al., 1964; Méhes, 1983; Merlob                                              METHODS
+et al., 1985; Leppig et al., 1987]. As changes in anomalies
+                                                                                 In selecting the abnormal physical findings for
+occur with growth, and the detection rate may be
+                                                                              definition and classification, we used two sources: Aase’s
+different at different ages [Myrianthopoulos and Chung,
+                                                                              text on dysmorphology which provides definitions of
+1974; Méhes, 1977], these prevalence figures may not be
+                                                                              minor and major anomalies [Aase, 1990b], and the
+correct in other age groups. This makes it more difficult
+                                                                              London Dysmorphology DataBase (LDDB) [Winter and
+to predict which of these should be tagged as minor
+                                                                              Baraitser, 2001] which is nowadays the most commonly
+anomaly in older children and adults. Based on our
+                                                                              used database providing an overview and definitions of
+mutual clinical experience in older children and adults,
+                                                                              anomalies. From both sources, we selected all anoma-
+we selected a number of anomalies of which we expected
+                                                                              lies, which can be evaluated during surface examination
+the prevalence in the normal population of older
+                                                                              by a physician trained in clinical morphology. Func-
+children and adults to be 4% or below, and tagged these
+                                                                              tional symptoms (e.g., lactorrhea) were not scored, as
+minor anomalies. All other minor variants were ex-
+                                                                              abnormal functioning may well be the result of a disturb-
+pected to have a prevalence of more than 4% and were
+                                                                              ed physiological process, rather than of an abnormal
+registered as common variants.
+                                                                              organogenesis or phenogenesis. The indexes of all 2000–
+                                                                              2002 issues of this journal were scanned for possible
+                              Summary                                         missing items; those were added to the list.
+   The classification of physical anomalies as proposed in                       Using the LDDB as a model, a tree was built with
+our list is based on the following principle. According to                    29 major areas defined by either anatomy or function,
+their (suspected) pathogenesis, all anomalies are sub-                        5 areas less than the total of 34 in the LDDB, as in our
+divided in two main categories (depicted in Fig. 1): (1)                      study, only findings picked up by surface examination
+abnormalities and (2) minor variants, of which the                            can be scored, making the headings ‘‘urinary system,’’
+former more strongly suggest abnormal pre- or post-                           ‘‘blood vessels,’’ ‘‘endocrine,’’ ‘‘hematology/immunol-
+natal development. According to their suspected patho-                        ogy,’’ and ‘‘skeletal’’ inappropriate for our list. As in the
+genesis, abnormalities are subdivided into ‘‘A’’ malfor-                      LDDB, the 29 major areas were further subdivided into
+mations and ‘‘B’’ deformations, disruptions, dysplasias,                      a total of 98 smaller areas, which were finally divided
+and other abnormalities, the latter being secondary to                        into a total of 683 single anomalies, describing all
+abnormal morphogenesis and/or function of other im-                           individual abnormalities and minor variants that can be
+portant structures and which cannot be classified as                          scored by surface examination.
+deformations, disruptions, or dysplasias. Minor var-                             We classified the physical findings in the earlier de-
+iants, deviations of phenogenesis, are subdivided into                        scribed categories. However, the same abnormality can
+two categories, based on their prevalence and implica-                        be classified in different subgroups according to its
+tion: (1) minor anomalies having an expected prevalence                       cause: for example, absence of a finger may be the result
+in the general population of 4% and generally indicat-                       in one child of intrauterine vascular dysfunction, as has
+                                                                              been suggested in Adams–Oliver syndrome and fetal
+                                                                              thalidomide syndrome, and should then be scored as a
+                                                                              disruption, while the same absence in a child with oral-
+                                                                              facial-digital syndrome should be scored as a malforma-
+                                                                              tion. Since sub-classification of anomalies according
+                                                                              to pathogenesis was often only possible after careful
+                                                                              individual evaluation, which was not the goal of our
+                                                                              (population) study, we decided to use the term abnorm-
+                                                                              alities as defined by Aase. Abnormalities were then sub-
+                                                                              classified into ‘‘A:’’ malformations which are true defects
+                                                                              of morphogenesis, such as cyclopia; and ‘‘B’’: disrup-
+                                                                              tions, dysplasias, deformations, and abnormalities
+                                                                              which are secondary to abnormal morphogenesis and/
+                                                                              or function of other important structures. An example of
+                                                                              the latter is nystagmus, which in all cases is secondary,
+                                                                              whether to a serious vision deficit, a neurologic abnorm-
+                                                                              ality, or albinism. Abnormalities, which can be present
+                                                                              as either or both of the two subcategories, depending on
+                                                                              the pathogenesis in a specific case, were marked as ‘‘A,
+                                                                              B,’’ for example a hoarse voice in a person with Williams’
+                                                                              syndrome, which may be the result of abnormal mor-
+                                                                              phogenesis of the larynx (A), but may also be the result of
+   Fig. 1. Schematic depiction of the terminology and classification system   abnormal elastin in the vocal cords, in fact a dysplasia
+of phenotypic abnormalities.                                                  (B). As this classification list is developed for population
+214      Merks et al.
+
+studies, we used the basic principle that the classifica-    dystrophic nails it points to an ectodermal dysplasia. In
+tion should be pathogenetically correct for the most         general, it may be stated that the relative weight of a
+prevalent appearance of the anomaly in the general           single minor anomaly is higher than that of a common
+Caucasian population.                                        variant. A combination of items in a single individual,
+   Frequently, a finding in its usual presentation is        however, either minor anomalies or common variants,
+a common variant, but the same finding in a more             may point to a more generalized defect such as a dys-
+expressed form might be regarded a minor anomaly. For        plasia, which may have larger implications for the
+example, mild micrognathia is often seen in the general      individual.
+population, making micrognathia in general a common             Although the classifications in the present list apply to
+variant. However, if the mandible is extremely small         the Caucasian population, one should still realize that
+but normally formed, it is a growth anomaly of pheno-        even within the Caucasian population differences exist.
+genesis, and, therefore, classified a minor anomaly, as in   For example, brachycephaly is normal in persons of
+the Robin sequence. If it is small and malformed, as in      Turkish descent and most persons with other Eastern
+the Hanhart anomaly, it is a malformation. Unfortu-          European background, but should be regarded a com-
+nately, despite this clear distinction from a causal point   mon variant in persons of North-Western European
+of view, clinically it may be very difficult to discern.     descent.
+Similarly, an extreme presentation of a minor anomaly           Furthermore, a finding may be scored differently in
+can sometimes be considered a malformation, for              different age groups: facial hirsutism in an adult male is
+example microcephaly, defined as a head circumference        different from the same hirsutism in a child. Findings to
+below two standard deviations for age, in its most           which this principle applies are marked in the classifica-
+prevalent appearance is classified as minor anomaly,         tion list (Table I) by an asterisk (*).
+but in its extreme presentation, when secondary to
+decreased brain size, should be characterized as
+                                                                                    PATIENTS
+an abnormality. Hypoplasia of a structure is generally
+regarded a minor anomaly, but when extreme it                   In 1996, the Emma Children’s Hospital, Academic
+should be scored as an aplasia, which is classified an       Medical Center started an Outpatient Clinic for Late
+abnormality.                                                 Effects of Childhood Cancer. All children with cancer
+   Size-related findings were regarded as minor anoma-       who have completed the therapeutic regimen, and who
+lies when size was below the 2nd centile (or <2 SD below     were in remission for at least 5 years, are under regular
+the mean value) or above the 98th centile (or >2 SD          control of the clinic. Patients are checked for possible
+above the mean value). For example, height above the         symptoms, directed to the tumor itself, the side effects of
+98th centile in its most prevalent appearance is scored      the treatment, as on the psychosocial consequences of
+a minor anomaly. However, when part of a general             cancer in infancy and childhood, and its treatment.
+dysplasia, such as Marfan syndrome, it should be                All consecutive patients who visited the clinic were
+considered an abnormality. Of certain findings, like         invited to participate in the study. Patients entered
+height below the 2nd centile, there is a presentation that   the study only after written permission was obtained
+is a minor anomaly, but the most prevalent presentation      from the patients themselves, or the parents in children
+is as part of a syndrome, mainly hypochondroplasia. In       and adolescents. The oncological case histories were
+this specific case, the general rule that a measurable       extracted from the original medical records, and in-
+item with a size below the 2nd centile should be tagged a    cluded the exact nature of the tumor and therapeutic
+minor anomaly does not hold: if the growth anomaly is        regimens and family history. The family history per-
+part of a syndrome, it is always abnormal. For every size-   taining to first- and second-degree relatives (extended
+related item, this principle was considered. For normal      if necessary) was also gathered directly from the
+values of all listed anomalies, we refer to Hall et al.      patient and family (if present), with special attention
+[1989].                                                      for the presence of cancer, miscarriages, and congenital
+   Anomalies that are part of either a general or a very     anomalies.
+localized dysplasia, should all be classified as such,          All newly diagnosed children with cancer were enter-
+hamartomas being scored as dysplasias. However, when         ed in this study prospectively; the work-up of the two
+differentiating between a minor variant and an abnorm-       groups was identical.
+ality, the frequency of certain findings should also be         The primary investigator (JHMM) was a pediatrician,
+taken into account. For example, a small nevus is a          who was trained in the scoring of phenotypic findings by
+hamartoma and thus should in fact be classified a            a pediatrician-clinical geneticist (RCMH).
+dysplasia, which is an abnormality. However, the pre-           The patients had a careful physical examination
+valence is that high in the general population that this     directed to abnormalities, minor anomalies, and com-
+hamartoma can be classified as a common variant.             mon variants. It was a surface examination, so neither
+   Isolated common variants will not alert physicians to     auscultation of the heart, nor abdominal palpation was
+search for an underlying developmental problem, and          performed. Any anomaly possibly caused by the tumor
+can thus be considered as less important. However, a         or the ensuing treatments, such as microcephaly fol-
+combination of common variants may still point to a          lowing cranial irradiation or a leg length difference after
+common defect. For example, the presence of isolated         abdominal irradiation, was not scored. If the examiner
+sparse hair in an otherwise normal individual should be      remained in doubt whether an anomaly was a result of
+regarded a common variant, but in combination with           therapy or not, the anomaly was not scored.
+                                       Phenotypic Abnormalities: Terminology and Classification                      215
+
+                                                TABLE I. Classification List
+
+                                                                   Common       Minor
+Structure                               Trait                      variant     anomaly   Abnormality   Comment
+
+Build                   Truncal obesity                                          X                          2
+                        Generalized obesity                                      X                          1
+                        Thin/slender build                                       X                          2
+                        Muscular build                                 X                                    3
+Stature                 Short stature (proportionate)                                       A, B           11
+                        Short stature (short limbs)                                         A, B          5, 6
+                        Short stature (short trunk)                                         A, B          5, 6
+                        Tall stature (proportionate)                             X                          2
+                        Tall stature (long limbs)                                X                          2
+Neurocranium: size      Microcephaly                                             X                          2
+                        Macrocephaly                                             X                          2
+Neurocranium: shape     Brachycephaly                                            X                        4, 12
+                        Dolichocephaly                                           X                        4, 12
+                        Plagiocephaly                                  X                                  3, 12
+                        Trigonocephaly                                                      A, B       5, 8, 9, 13
+                        Turricephaly                                                        A, B       5, 8, 9, 13
+                        Kleeblattschedel                                                     A            5, 13
+Neurocranium: sutures   Ridged sutures                                           X                          4
+                        Wide sutures                                             X                          4
+                        Small anterior fontanel                                  X                          2
+                        Early closure fontanels                                  X                          4
+                        Delayed closure fontanels                                X                          4
+                        Extra fontanels                                                      A              5
+Hair: growth            Alopecia totalis                                                    A, B         5, 6, 9
+                        Alopecia areata                                           X                         4
+                        Sparse implantation                            X                                    3
+                        Slow growth                                                          B            6, 9
+                        Frontal balding/male pattern baldness          X*                                   3
+                        High anterior hairline                         X                                    3
+                        Low anterior hairline                          X                                    3
+                        Widow’s peak                                             X                          4
+                        Cow’s lick                                     X                                    3
+                        Abnormal whorl (not-frontal)                   X                                    3
+Hair: structure         Fine                                           X                                    3
+                        Dry                                            X                                    3
+                        Soft                                           X                                    3
+                        Coarse                                         X                                    3
+                        Brittle                                                  X                          4
+                        Uncombable                                               X                          4
+                        Kinky                                                    X                          4
+Hair: pigmentation      Generalized hypopigmentation                                         A              5
+                        Patchy depigmentation                                                A              5
+                        Premature graying                              X                                    3
+                        Unusual color                                            X                          4
+Face                    Facial cleft                                                         A              5
+                        Asymmetry                                                X                          4
+                        Coarse face                                              X                          4
+                        Small                                          X                                    3
+                        Narrow/elongated                               X                                    3
+                        Broad                                          X                                    3
+                        Round-shaped                                   X                                    3
+                        Square-shaped                                  X                                    3
+                        Triangular-shaped                                        X                          4
+                        Flat                                                     X                          4
+                        Lipodystrophy                                                        A              5
+                        Premature aging                                                      A              5
+                        Prominent creases                                        X*                         4
+                        Expressionless/dull                                                  B            9, 10
+                        Hypotonic                                                            B            9, 10
+                        Hypoplastic malae                                        X                          4
+                        Midface hypoplasia                                       X                          4
+                        Midface hyperplasia                                      X                          4
+                        Full cheeks                                    X                                    3
+                        Sunken cheeks                                  X*                                   3
+                        Broad lower 1/3 part                                     X                          4
+Nervus Facialis         Peripheral asymmetry                                                 B             10
+                        Central asymmetry                                                    B             10
+                                                                                                          (Continued)
+216          Merks et al.
+
+                                                     TABLE I. (Continued)
+
+                                                                    Common     Minor
+Structure                                    Trait                  variant   anomaly   Abnormality   Comment
+
+Forehead                    Metopic ridge                                       X                          4
+                            Frontal bossing                                     X                          4
+                            Prominent                                           X                          4
+                            Prominent glabella                                              A              5
+                            Glabella bone defect                                            A              5
+                            Sloping                                             X                          4
+                            Ridged                                     X*                                  3
+                            Broad/wide                                 X                                   3
+                            Short                                               X                          4
+                            Biparietal narrowing                                X                          4
+                            Hyperplastic supra-orbital ridges          X                                   3
+                            Hypoplastic supra-orbital ridges                    X                          4
+Eyes: general               Cyclopia                                                        A              5
+                            Asymmetry                                           X                          4
+                            Strabismus                                 X                                   3
+                            Nystagmus                                                       B            9, 1
+                            Duane (retraction) anomaly                                      B              9
+                            Deeply-set                                          X*                         4
+                            Proptosis                                           X                          4
+                            Microphthalmos                                                  A              5
+                            Buphthalmos                                                     A              5
+                            Cryptophthalmos                                                 A              5
+                            Orbital cysts                                                   A              5
+Eyes: iris                  Aniridia                                                        A              5
+                            Hypoplasia                                                      A              5
+                            Atrophy/dysplasia                                              A, B          5, 6
+                            Coloboma (uni-/bilaterally)                                     A              5
+                            Brushfield spots                           X                                   3
+                            Heterochromia                                                   A              5
+                            Hypopigmentation                                                A              5
+                            Iris stellata                              X                                   3
+Eyes: pupils                Ectopic pupils                                                  A              5
+                            Abnormal size or movement                                       B           9, 10
+                            Asymmetry                                           X                          4
+                            Persistent pupillary membrane                                   A              5
+Eyes: lens                  Ectopia lentis                                                  A              5
+                            Size/shape abnormality                                          A              5
+                            Cataract                                                       A, B        5, 6, 9
+Eyes: cornea                Microcornea                                         X                          2
+                            Macrocornea                                         X                          2
+                            Cloudy cornea                                                  A, B        5, 6, 9
+                            Anesthesia                                                      B             10
+Eyes: conjunctivae          Noduli                                     X                                   3
+                            Teleangiectasia                                     X                          4
+                            Epibulbar dermoids                                              A              5
+Eyes: sclerae               Blue colored                                                    B              6
+                            Naevus of ota                                                   A              5
+Eyes: eyelids               Ptosis                                              X                          4
+                            Coloboma upper-/lower lid                                       A              5
+                            Ectropion                                           X                          4
+                            Entropion                                           X                          4
+                            Synechiae/ankyloblepharon                                       A              5
+                            Edema                                               X                          4
+                            Fullness                                   X                                   3
+                            Full lateral parts                         X                                   3
+Palpebral fissures          Blepharophimosis                                    X                          2
+                            Short                                               X                          2
+                            Wide                                                X                          2
+                            Asymmetry                                           X                          4
+                            Mongoloid slant                                     X                          2
+                            Antimongoloid slant                                 X                          2
+                            Almond-shaped                              X                                   3
+                            Bow-shaped                                          X                          4
+Peri-orbital skin           Epicanthi                                           X                          4
+                            Telecanthi                                          X                          4
+                            Blepharochalasis                                    X                          4
+                            Skin tag                                                        A              5
+                            Infra-orbital skin folds                            X                          4
+                                       Phenotypic Abnormalities: Terminology and Classification             217
+
+                                                TABLE I. (Continued)
+
+                                                               Common     Minor
+Structure                               Trait                  variant   anomaly   Abnormality   Comment
+
+Intercanthal distance   Hypotelorism                                       X                         2
+                        Hypertelorism                                      X                         2
+Eyelashes               Absent                                                         A             5
+                        Sparsely implanted                        X                                  3
+                        Prominent                                 X                                  3
+                        Double                                                         A             5
+                        Coloboma                                                       A             5
+                        Two-colored                                        X                         4
+Eyebrows                Absent                                                         A             5
+                        Hypoplasia                                X                                  3
+                        Sparse                                    X                                  3
+                        Double                                                         A             5
+                        Synophrys                                 X                                  3
+                        Medial flare                              X                                  3
+                        Lateral flare                             X                                  3
+                        Medial & lateral flare                    X                                  3
+                        Narrow laterally                          X                                  3
+                        Arched                                    X                                  3
+                        Continuing far laterally                  X                                  3
+Lacrimal glands         Decreased tear production                                     A, B        5, 6, 9
+Nasolacrimal ducts      Absent                                                         A             5
+                        Extra                                                          A             5
+                        Abnormal position                                              A             5
+Nose: general           Absent                                                         A             5
+                        Choanal atresia/stenosis                                       A             5
+                        Cleft                                                          A             5
+                        Large                                     X*                                 3
+                        Flat                                               X*                        2
+                        Small/short                                        X                         2
+                        Long                                               X                         2
+                        Broad                                     X                                  3
+                        Pinched                                            X                         4
+                        Low hanging columella                     X                                  3
+                        Profile convex                            X                                  3
+                        Profile concave                           X                                  3
+                        Nasal tip deviated                                 X                         4
+                        Septum deviation                                   X                         4
+                        Hairy polyp                                                    B             6
+Nose: alae              Hypoplasia                                X                                  3
+                        Coloboma                                                       A             5
+Nose: nares             Broad                                     X                                  3
+                        Single                                                         A             5
+                        Flare                                     X                                  3
+                        Anteversion                                        X                         4
+                        Asymmetry                                          X                         4
+                        Supernumerary                                                  A             5
+Nose: bridge            Flat                                               X*                        4
+                        Prominent/high                            X                                  3
+                        Wide                                      X                                  3
+Nose: tip               Bifid                                              X                         4
+                        Broad                                     X                                  3
+                        Flat                                               X                         4
+                        Bulbous                                   X                                  3
+                        Overhanging                                        X                         4
+Nose: septum            Absent cartilage                                               A             5
+                        Short                                              X                         4
+                        Broad                                              X                         4
+                        Narrow                                             X                         4
+Nose: base              Broad                                     X                                  3
+                        Narrow                                    X                                  3
+Upper jaw               Cleft                                                          A             5
+                        Hypoplastic                                        X                         4
+                        Prominent                                          X                         4
+                        Narrow                                    X                                  3
+                        Asymmetry                                          X                         4
+                        Absent premaxilla                                              A             5
+                        Prominent premaxilla                               X                         4
+                                                                                                   (Continued)
+218         Merks et al.
+
+                                                     TABLE I. (Continued)
+
+                                                                    Common     Minor
+Structure                                   Trait                   variant   anomaly   Abnormality   Comment
+
+Lower jaw                  Absent                                                           A              5
+                           Cleft                                                            A              5
+                           Asymmetry                                            X                          4
+                           Prominent                                   X                                   3
+                           Retro-/micrognathia                         X                                   3
+Chin                       Dimpled/grooved                             X                                   3
+                           Pointed                                              X                          4
+Voice                      Aphonia                                                         A, B        5, 9, 10
+                           Nasal                                                            B            9, 10
+                           Dysarthria                                                       B            9, 10
+                           Hoarse                                                          A, B       5, 6, 9, 10
+                           Cat’s cry/high-pitched                                           B          6, 9, 10
+                           Low-pitched                                                      B          6, 9, 10
+Philtrum                   Long                                                 X                          2
+                           Short                                                X                          2
+                           Smooth                                      X                                   3
+                           Prominent/deep                              X                                   3
+Oral region                Extra oral frenulae                                              A              5
+                           Oral synechiae                                                   A              5
+                           Prominent nasolabial folds                  X*                                  3
+                           Oral pigmentation                                    X                          4
+                           Peri-oral pigmentation                               X                          4
+Mouth                      Microstomia                                          X                          2
+                           Macrostomia                                          X                          2
+                           Asymmetry                                            X                          4
+                           Open mouth appearance                                            B            9, 10
+                           Pouting                                              X                          4
+                           Upturned corners                                     X                          4
+                           Downturned corners                                   X                          4
+Upper lip                  Cleft (midline vs. non-midline)                                  A              5
+                           Thin                                        X                                   3
+                           Full/thick                                  X                                   3
+                           Tight                                                X                          4
+                           Everted                                              X                          4
+                           Pit(s)                                                           A              5
+                           Cupid bow                                            X                          4
+Lower lip                  Cleft                                                            A              5
+                           Pit(s)                                                           A              5
+                           Full/thick                                  X                                   3
+                           Thin                                        X                                   3
+                           Tight                                                X                          4
+                           Everted/drooping                                     X                          4
+Alveolar ridges            Fusion gums and/or jaw                                           A              5
+                           Hypertrophy                                                     A, B         5, 6, 9
+Palate                     Cleft                                                            A              5
+                           High/narrow                                          X                          2
+                           Short                                                X                          2
+                           Wide                                                 X                          2
+                           Fistulae                                                         A              5
+                           Cleft uvula                                                      A              5
+                           Absent                                                           A              5
+                           Hypoplastic uvula                                    X                          4
+                           Long uvula                                           X                          4
+                           Prominent lateral ridges/rugae                       X                          4
+Alveolar ridges            Thick/wide                                           X                          4
+                           Cleft                                                            A              5
+Tongue                     Aplasia                                                          A              5
+                           Hypoplasia                                           X                          4
+                           Cleft                                                            A              5
+                           Large                                                X                          4
+                           Lobulated                                                        A              5
+                           Smooth                                               X                          4
+                           Prominent groove(s)                                             A, B         5, 6, 9
+                           Ankyloglossia                                        X                          4
+                           Glossoptosis                                                    A, B          5, 10
+                           Protruding tongue                                                B             10
+                           Fasciculations                                                   B             10
+                              Phenotypic Abnormalities: Terminology and Classification             219
+
+                                       TABLE I. (Continued)
+
+                                                      Common     Minor
+Structure                      Trait                  variant   anomaly   Abnormality   Comment
+
+Teeth           Macrodontia                                       X                         2
+                Microdontia                                       X                         2
+                Supernumerary teeth                                           A             5
+                Oligodontia                                                   A             5
+                Single central incisor                                        A             5
+                Advanced eruption                                 X                         2
+                Delayed eruption                                  X                         2
+                Neonatal teeth                                                A             5
+                Premature loss teeth                                         A, B        5, 6, 9
+                Dental crowding                          X                                  3
+                Malocclusion                             X                                  3
+                Widely spaced                            X                                  1
+                Abnormally shaped teeth                                       A             5
+                Asymmetry                                         X                         4
+                Fusion incisors                                               A             5
+                Diastema                                 X                                  3
+                Dentin anomalies                                              B             6
+                Enamel anomalies                                              B             6
+Ears: general   Agenesis                                                      A             5
+                Small                                             X                         2
+                Aplasia/microtia                                              A             5
+                Large                                             X                         2
+                Asymmetry                                         X                         4
+                Long ears                                         X                         2
+                Flat ears                                X                                  3
+                Increased A–P diameter (¼round)                   X                         2
+                Decreased A–P diameter (¼narrow)                  X                         2
+                Dysplastic ears                                   X                         4
+                Simple ear                                        X                         4
+                Cupshaped                                                     A           5, 10
+                Lop ear                                                       A             5
+                Crumpled                                                      B           6, 8
+                Low-set                                           X                         2
+                Posteriorly rotated                               X                         2
+                Prominent                                X                                  1
+                Cystic pinna                                                 A, B        6, 8, 9
+                Calcification cartilage                           X                         4
+Ears: helices   Hypoplastic/thin                         X                                  3
+                Abnormally modeled                                X                         4
+                Overfolded                               X                                  3
+                No fold                                  X                                  3
+                Notched                                  X                                  3
+                Horizontal upper ridge                   X                                  3
+                Darwin ‘‘Lump’’                          X                                  3
+                Pit(s)                                                        A             5
+Ears: lobules   Absent/hypoplastic                       X                                  3
+                Large/hyperplastic                       X                                  3
+                Attached                                 X                                  3
+                Uplift                                   X                                  3
+                Crease                                            X                         4
+                Cleft                                                         A             5
+Ears: tragus    Absent                                                        A             5
+                Hypoplastic                                       X                         4
+Ears: meatus    Absent                                                        A             5
+                Atresia                                                       A             5
+                Narrow                                            X                         4
+Ears: pits      Unilateral                                                    A             5
+                Bilateral                                                     A             5
+Ears: tags      Unilateral                                                    A             5
+                Bilateral                                                     A             5
+Neck            Branchial cyst/cleft/sinus                                    A             5
+                Webbing                                                      A, B         5, 9
+                Cystic hygroma                                               A, B         5, 9
+                Long                                     X                                  3
+                Short                                    X                                  3
+                Thick/broad                              X                                  3
+                Torticollis                                                   B           9, 10
+                                                                                          (Continued)
+220         Merks et al.
+
+                                                   TABLE I. (Continued)
+
+                                                                  Common     Minor
+Structure                                  Trait                  variant   anomaly   Abnormality   Comment
+
+                           Loose skinfolds                                    X                         4
+                           Goiter                                                        A, B         5, 9
+Thorax                     Broad                                              X                         2
+                           Narrow                                             X                         2
+                           Increased A–P diameter                             X                         2
+                           Asymmetry                                          X                         4
+                           Short                                              X                         4
+                           Long                                               X                         4
+                           Flat                                      X                                  3
+                           Flaring                                            X                         4
+                           Xiphisternum                                                   A             5
+                           Pectus Carinatum                                   X                         4
+                           Pectus Excavatum                                   X                         4
+                           Short sternum                                      X                         2
+                           Sternum asymmetry                                  X                         4
+Mammae                     Absent                                                         A             5
+                           Hypoplasia                                         X                         4
+                           Hypertrophy                               X                                  3
+                           Asymmetry                                          X                         4
+                           Gynecomastia                                                  A, B         5, 9
+                           Pseudo-gynecomastia                                X                         4
+                           Premature development                     X                                 16
+Nipples                    Absent                                                         A             5
+                           Hypoplastic                                        X                         4
+                           Large/hyperplastic                                 X                         4
+                           Asymmetry                                          X                         4
+                           Supernumerary                                                  A             5
+                           Wide-spaced                                        X                         2
+                           Inverted                                  X                                  3
+Shoulders                  Broad                                     X                                  3
+                           Narrow                                    X                                  3
+                           Sloping                                   X                                  3
+                           Anteriorly rotated                                             B             9
+Clavicles                  Absent                                                         A             5
+                           Hypoplastic                                        X                         4
+                           Long                                               X                         4
+                           Horizontal                                X                                  3
+Scapulae                   Absent                                                         A             5
+                           Small                                              X                         4
+                           High/sprengel                                                  A             5
+                           Winged                                             X                         4
+M. pectoralis              Absent                                                         A             5
+                           Hypoplasia                                         X                         4
+Ribs                       Absent                                                         A             5
+                           Prominent bows                                     X                         4
+Abdomen                    Diastasis recti                                    X*                        4
+                           Muscle aplasia                                                 A             5
+                           Muscle hypoplasia                                  X                         4
+                           Protruberant                              X                                  3
+                           Gastroschisis                                                  A             5
+                           Abnormal umbilicus position                        X                         4
+                           Hernia umbilicalis                                             B           6, 9
+                           Omphalocele                                                   A, B         5, 9
+                           Hernia inguinalis                                              B           6, 9
+Anus                       Atresia                                                        A             5
+                           Stenosis                                                      A, B         5, 9
+                           Abnormal position                                  X                         4
+                           Fistula                                                       A, B         5, 7
+Genitalia: general         Ambiguous                                                      A             5
+                           Pubertas praecox                          X                                 16
+                           Pubertas tarda                            X                                 16
+Genitalia: female          Prominent clitoris                                 X                         4
+                           Prominent labia majora                             X                         4
+                           Prominent labia minora                             X                         4
+                           Hypoplasia labia majora                            X                         4
+                           Hypoplasia labia minora                            X                         4
+                           Fusion labia                                                   A             5
+                                  Phenotypic Abnormalities: Terminology and Classification                 221
+
+                                           TABLE I. (Continued)
+
+                                                          Common     Minor
+Structure                         Trait                   variant   anomaly   Abnormality    Comment
+
+                  Vaginal atresia                                                 A               5
+                  Vaginal hypoplasia                                  X                           4
+                  Vaginal septum                                                  A               5
+                  Rectovaginal fistels                                           A, B          5, 7, 9
+                  Cloaca                                                          A               5
+Genitalia: male   Small penis                                         X                           2
+                  Large penis                                         X                           2
+                  Burried penis                              X                                    3
+                  Hypoplasia preputium                                X                           4
+                  Hypospadia                                                      A               5
+                  Epispadia                                                       A               5
+                  Large testes                                        X                           2
+                  Small testes                                        X                           2
+                  Cryptorchid testes                                              A               5
+                  Hydrocele testis                                    X                           4
+                  Supernumerary testes                                            A               5
+                  Hypoplasia scrotum                                  X                           4
+                  Overriding/shawl scrotum                   X                                    3
+                  Bifid scrotum                                                   A               5
+Back              Decreased lumbar lordosis                  X                                    3
+                  Decreased thoracic kyphosis/straight                X                           4
+                    back
+                  Increased lumbar lordosis                  X                                     3
+                  Increased thoracic kyphosis                         X*                           4
+                  Scoliosis                                                      A, B       5, 6, 8, 9, 10
+                  Rigid spine                                                    A, B            5, 6
+                  Buffalo hump                                        X                            4
+Spinal cord       Spina bifida                                                    A                5
+                  Meningocele/myelomeningocele                                    A                5
+                  Syringomyelia                                                   A                5
+                  Pilonidal cyst                                      X                            4
+                  Tethered cord                                                  A, B            5, 6
+Sacrum            Sacral dimple/sinus                        X                                     3
+                  Caudal appendage                                                A                5
+                  Asymmetric crease                                   X                            4
+                  Fat pads                                            X                            4
+Upper limbs       Absent                                                          A                5
+                  Proportionally short arms                           X                            2
+                  Rhizomelia                                                      A                5
+                  Mesomelia                                                       A                5
+                  Acromelia                                                       A                5
+                  Overgrowth                                          X                            4
+                  Hemihypertrophy                                     X                            4
+                  Reduction deformity/deficiency                                 A, B            5, 7
+                    (some digits)
+                  Reduction deformity/deficiency                                 A, B           5, 7
+                    (no digits)
+                  Constriction rings                                              B               7
+                  Asymmetry                                           X                           4
+Humerus           Absent                                                          A               5
+                  Bowed                                                          A, B          5, 6, 8
+Elbows            Valgus                                     X                                    3
+                  Webbing                                                         B               9
+                  Acromial dimple                                                 B               8
+Forearm           Absent                                                          A               5
+                  Bowed                                                          A, B          5, 6, 8
+                  Madelung deformity                                              A               5
+Hands             Absent                                                         A, B           5, 7
+                  Malproportionate small                              X                           2
+                  Malproportionate large                              X                           2
+                  Narrow                                              X                           2
+                  Broad                                               X                           2
+                  Asymmetry                                           X                           4
+                  Ectrodactyly                                                    A               5
+                  Syndactyly                                          X                           4
+                  Trident hand                                        X                           4
+                  Clubhands                                                      A, B        5, 8, 9, 10
+                                                                                                (Continued)
+222         Merks et al.
+
+                                                    TABLE I. (Continued)
+
+                                                                   Common     Minor
+Structure                                  Trait                   variant   anomaly   Abnormality   Comment
+
+                           Clenched                                                        B              10
+                           Ulnar/radial deviation                                          B         5, 8, 9, 10
+                           Long handpalm                                       X                           2
+                           Thenar hypoplasia                                   X                           4
+                           Hypothenar hypoplasia                               X                           4
+                           Edema dorsum hands                                  X*                          4
+                           Isolated metacarpal shortening                      X                           2
+Palmar creases             Sydney crease                                       X                           4
+                           Simian crease                                       X                           4
+                           Bridging crease                                     X                           4
+                           Absent                                                          B            9, 10
+                           Decreased flexion creases                           X                           4
+                           Deep creases                                        X                           4
+Fingers                    Absent/oligodactyly                                            A, B           5, 7
+                           Hypoplastic                                         X                           2
+                           Polydactyly (pre-axial)                                         A               5
+                           Polydactyly (post-axial)                                        A               5
+                           Polydactyly (meso-axial)                                        A               5
+                           Mirror image polydactyly                                        A               5
+                           Long fingers                                        X                           2
+                           Arachnodactyly                                                  B               6
+                           Short fingers                                       X                           2
+                           Brachydactyly (Bell’s types)                                   A, B           5, 6
+                           Macrodactyly                                        X                           2
+                           Broad fingers                              X                                    3
+                           Camptodactyly                                       X                           4
+                           Clinodactyly                               X                                    3
+                           Ulnar deviation dig II–III                 X                                    3
+                           Ulnar deviation dig V                               X                           4
+                           Radial deviation dig IV–V                  X                                    3
+                           Overlapping                                                     B          8, 9, 10
+                           Symphalangism                                                   A               5
+                           Syndactyly                                          X                           4
+                           Tapering                                            X                           4
+                           Clubbing                                                        B               9
+                           Wide fingertips                                     X                           4
+                           Fetal pads                                 X                                    3
+                           Short endophalanges                                 X                           4
+                           Absent phalanges                                               A, B           5, 7
+                           Constriction rings                                              B               7
+Thumbs                     Absent                                                         A, B           5, 7
+                           Hypoplasia                                          X                           4
+                           Asymmetry                                           X                           4
+                           Broad                                               X                           4
+                           Adducted                                                        B            9, 10
+                           Proximal placement                                  X                           4
+                           Hitch-Hiker’s thumb                                             B               6
+                           Triphalangeal                                                   A               5
+                           Short endphalanges                                  X                           4
+Pelvis                     Broad                                               X                           2
+                           Narrow                                              X                           2
+                           Hip dislocation                                                A, B       5, 6, 9, 10
+Lower limbs                Absent                                                         A, B           5, 7
+                           Proportionally short legs                           X                           2
+                           Rhizomelia                                                      A               5
+                           Mesomelia                                                       A               5
+                           Acromelia                                                       A               5
+                           Sirenomelia                                                     A               5
+                           Duplication                                                     A               5
+                           Asymmetry                                           X                           4
+                           Overgrowth                                          X                           4
+                           Hemihypertrophy                                     X                           4
+                           Reduction deformity/deficiency                                 A, B           5, 7
+                             (no digits)
+                           Reduction deformity/deficiency                                 A, B          5, 7
+                             (some digits)
+                           Constriction rings                                              B             7
+                            Phenotypic Abnormalities: Terminology and Classification                223
+
+                                      TABLE I. (Continued)
+
+                                                     Common     Minor
+Structure                    Trait                   variant   anomaly   Abnormality    Comment
+
+Femur       Absent                                                           A                5
+            Bowed                                                           A, B           5, 6, 8
+Patella     Absent                                                           A                5
+            Hypoplastic                                          X                            4
+Knee        Varum                                                X*                           4
+            Valgum                                               X*                           4
+            Webbing                                                          B              9, 10
+Tibia       Absent                                                           A                5
+            Bowed                                                           A, B           5, 6, 8
+Feet        Absent                                                          A, B            5, 7
+            Malproportionately small                             X                            2
+            Malproportionately large                             X                            2
+            Short                                                X                            2
+            Long                                                 X                            2
+            Narrow                                               X                            2
+            Broad                                                X                            2
+            Asymmetry                                            X                            4
+            Pes planus                                  X                                     3
+            Pes cavus                                   X                                     3
+            Talipes equinovarus                                             A, B            5, 10
+            Ectrodactyly                                                     A                5
+            Prominent heel                                       X                            4
+            Rockerbottom                                                     A                5
+            Deep plantar creases                                 X                            4
+            Fetal pads                                  X                                     3
+            Edema dorsum feet                                    X*                           4
+            Isolated metacarpal shortening                       X                            4
+Toes        Absent                                                          A, B            5, 7
+            Hypoplastic                                          X                            4
+            Pre-axial polydactyly                                            A                5
+            Meso-axial polydactyly                                           A                5
+            Post-axial polydactyly                                           A                5
+            Mirror-image polydactyly                                         A                5
+            Long                                                 X                            4
+            Short                                                X                            4
+            Broad                                       X                                     3
+            Short terminal phalanges                             X                            4
+            Syndactyly II–III                                                A                5
+            Partial syndactyly II–III                            X                          4, 14
+            Syndactyly (not II–III)                                          A                5
+            Partial syndactyly (not II–III)                      X                          4, 14
+            Symphalangism                                                    A                5
+            Widely spaced                               X                                     3
+            Sandal gap                                  X                                     3
+            Overriding                                  X                                     3
+            Clinodactyly dig V                          X                                     3
+            Hammertoes                                           X                            4
+            2nd toe longer than 1st                     X                                     1
+            Fetal pads                                  X                                     3
+Halluces    Absent                                                          A, B            5, 7
+            Hypoplasia                                           X                            4
+            Short                                                X                            4
+            Long                                                 X                            4
+            Asymmetry                                            X                            4
+            Broad                                                X                            4
+            Narrow                                               X                            4
+            Varus                                                X*                           4
+            Valgus                                               X*                           4
+            Proximal implantation                       X                                     3
+            Dorsiflexed/hammertoe                                X                            4
+Joints      Contracture                                                     A, B        5, 8, 9, 10
+            Contractures (incl. arthrogryposis)                             A, B       5, 6, 8, 9, 10
+            Dislocation                                                     A, B        5, 8, 9, 10
+            Dislocations                                                     B          6, 8, 9, 10
+            Enlargement                                          X                            4
+            Hypomobility small joints                            X                            4
+
+
+                                                                                           (Continued)
+224         Merks et al.
+
+                                                    TABLE I. (Continued)
+
+                                                                   Common     Minor
+Structure                                  Trait                   variant   anomaly   Abnormality     Comment
+
+                           Hypomobility large joints                           X                               4
+                           Hypomobility small and large joints                             B            6, 8, 9, 10
+                           Hypermobility small joints                          X                               4
+                           Hypermobility large joints                          X                               4
+                           Hypermobility small and large joints                            B            6, 8, 9, 10
+Muscles                    Isolated agenesis                                               A                   5
+                           Hypoplasia                                          X                               4
+                           Atrophy/dystrophy                                               B              6, 9, 10
+                           Hypertrophy                                                    A, B            5, 9, 10
+                           Hypotonia                                                       B                  10
+                           Hypertonia                                                      B                  10
+                           Muscle weakness                                                A, B              5, 10
+                           Fasciculation                                                   B                  10
+                           Myotonia                                                       A, B              5, 10
+Neurology                  Hemiplegia/paresis                                              B                  10
+                           Diplegia/paresis                                                B                  10
+                           Tetraplegia/paresis                                             B                  10
+                           Spasticity                                                     A, B            5, 7, 10
+                           Cranial nerve palsy                                            A, B            5, 7, 10
+                           Tremor                                                          B                  10
+                           Developmental delay                                            A, B       5, 6, 7, 8, 9, 10
+Skin: general              Atrophy                                                        A, B           5, 6, 8, 9
+                           Thin, translucent skin                              X                               4
+                           Thick                                               X                               4
+                           Hyperkeratosis                                      X                               4
+                           Ichtyosis                                                       B                   6
+                           Dry skin                                   X                                        3
+                           Cutis laxa                                                      B                   6
+                           Hyperelasticity                                     X                               4
+                           Excessive skin folds                                           A, B             5, 6, 8
+                           Slow healing                                                    B                 6, 9
+                           Abnormal scarring                                               B                 6, 9
+                           Photosensitivity                                                B                 6, 9
+                           Lipodystrophy                                                  A, B               5, 6
+                           Cutis marmorata                            X                                        3
+                           Poikiloderma                               X                                        3
+                           Lymphedema                                                     A, B             5, 6, 9
+                           Calcification                                                   B                 6, 9
+                           Dimples                                             X                               4
+Skin: localized            Hypoplasia/aplasia                                             A, B           5, 6, 8, 9
+                           Atrophy                                                        A, B               5, 6
+                           Striae                                     X*                                       3
+                           Bullae                                                         A, B             5, 6, 9
+                           Scleroderma                                                     B                   6
+                           Fibromata                                  X                                        3
+                           Lipomata                                                        B                   6
+                           Xanthomata                                                      B*               6, 16
+                           Scalp defects                                                  A, B             5, 6, 7
+Skin: pigmentation         Albinism                                                        A                   5
+                           Generalized hypopigmentation                        X                               4
+                           Generalized hyperpigmentation                       X                               4
+                           Hypo-/depigmentation patches                        X                               4
+                           Hyperpigmentation patches                           X                               4
+                           Cafe au lait (solitary)                    X                                        3
+                           Cafe au lait (multiple)                                         A                   5
+                           Solitary naevus (size >0.5 cm)             X                                        1
+                           Multiple naevi (size >0.5 cm)                       X                               2
+                           Linear sebaceus naevus                                          A                   5
+                           Axillary freckling                                  X                               4
+                           Acanthosis nigricans                                           A, B               5, 6
+Skin: vascular             Capillary hemangioma                                            A                   5
+                           Hemangioma plana                                                A                   5
+                           AV malformation                                                 A                   5
+                           Stork bite                                 X                                        3
+                           Angel’s kiss                               X                                        3
+                           Multiple telangiectiasia                                       A, B             5, 6, 9
+                           Prominent vessels                          X                                        3
+                           Multiple haematoma                                              B                 6, 9
+                                                   Phenotypic Abnormalities: Terminology and Classification                                       225
+
+                                                              TABLE I. (Continued)
+
+                                                                                  Common          Minor
+Structure                                           Trait                         variant        anomaly       Abnormality            Comment
+
+Skin: body hair                  Generalized                                          X*                                                   3
+                                 Localized                                            X*                                                   3
+Nails                            Absent                                                                            A, B                   5, 7
+                                 Hypoplasia                                                         X                                      4
+                                 Short                                                              X                                      4
+                                 Narrow                                                             X                                      4
+                                 Concave                                                            X                                      4
+                                 Hyperconvex                                                        X                                      4
+                                 Thin/brittle                                                       X                                      4
+                                 Thickened                                                          X*                                     4
+                                 Pits                                                 X                                                    3
+                                 Striped                                              X                                                    3
+                                 Bifid/double                                                                        A                     5
+                                 Fused                                                                               A                     5
+                                 Abnormal color                                                     X                                      4
+*Dependent on age.
+A ¼ malformation; B ¼ deformation, disruption, dysplasia, or other abnormality secondary to abnormal morphogenesis or function of other structures.
+The numbers given under the column head Comments connote:
+1. Anomaly resulting from a defect in phenogenesis, is measurable, shows a Gaussian distribution. The most prevalent appearance has a frequency of more
+than 4%.
+2. Anomaly resulting from a defect in phenogenesis, is measurable, shows a Gaussian distribution. The most prevalent appearance has a frequency of 4%
+or less.
+3. Anomaly resulting from of a defect in phenogenesis, either is measurable but normal values are lacking or is not measurable. The most prevalent
+appearance has a frequency more than 4%.
+4. Anomaly resulting from of a defect in phenogenesis, either is measurable but normal values are lacking or is not measurable. The most prevalent
+appearance has a frequency of 4% or less.
+5. Malformation secondary to a defect in the embryogenesis.
+6. Dysplasia.
+7. Disruption.
+8. Deformation.
+9. Abnormality secondary to dysfunction of other structures/other disorders.
+10. Abnormality secondary to neurologic dysfunction.
+11. Although height is a measurable feature with a Gaussian distribution, height below P3 is not scored as a minor anomaly, as the most prevalent
+presentation is as a dysplasia or malformation syndrome.
+12. The most prevalent appearance is a variation of normal not caused by a craniosynostosis.
+13. Always the result of a craniosynostosis.
+14. Defined as 1/3 or more from the base of the toe.
+15. Should only be scored in children, as it is very common in adults.
+16. The most prevalent presentation is as a variation of normal physiology with a frequency of more than 4%.
+
+
+
+  The scoring of findings was on a single sheet in-                          subdivided into 98 smaller areas which are finally divid-
+dicating only the general body parts. To prevent over-                       ed into a total of 683 single anomalies, each categorized
+scoring, the findings were not listed separately. All                        as a common variant, minor anomaly, or abnormality.
+patients were scored by a single investigator (JHMM). A                        Every one of the 683 findings was first considered in
+second investigator (RCMH) scored 10% of all patients                        a similar manner by three investigators (JHMM,
+over the course of the study, to allow determination of                      CDMvK, and RCMH) independently. Every item on
+interobserver variation. If the first investigator re-                       which either of us disagreed was discussed until con-
+mained in doubt as to the presence of an anomaly,                            sensus was reached based on the same basic principles.
+photographs were taken and discussed with the second                           Again it should be mentioned that as this list was
+investigator.                                                                developed for population studies, we used the basic
+  All data were entered in the ‘‘Amsterdam Dysmor-                           principle that the classification should be correct for the
+phology Database,’’ an SPSS database (SPSS Data                              most prevalent appearance of the finding in the general
+Entry 3.0) designed specifically for entry and analysis                      Caucasian population. An example demonstrating the
+of data regarding phenotype, clinical history, family                        application of this principle is the item ‘‘neurocranium
+history, and results of additional investigations. All                       (shape)’’ which encompasses (1) brachy-, (2) plagio-, (3)
+anomalies can be scored under 98 subheadings or items,                       dolicho-, (4) trigono-, and (5) turri-cephaly. Brachy- and
+based on our classification list.                                            plagio-cephaly are considered common variants based
+                                                                             on their expected prevalence in the normal population
+                             RESULTS                                         of >4%. However, dolichocephaly is regarded a minor
+                                                                             anomaly as it is seldomly seen. Neither brachy- nor
+                       Classification List
+                                                                             plagio- or dolicho-cephaly are considered abnormalities
+  Table I shows the list classifying the collected series of                 since in their most prevalent appearance they result
+abnormal morphological findings. The 29 major anato-                         from abnormal phenogenesis or developmental fine-
+mical or functional areas (not shown in the list) are                        tuning. However, trigonocephaly and turricephaly are
+226        Merks et al.
+
+always the result of pathology, i.e., craniosynostosis,                   of study populations with a suspected developmental
+and should, therefore, be regarded abnormalities.                         pathogenesis. Furthermore, it may allow discriminat-
+                                                                          ing different subgroups of patients in heterogeneous
+                      Pilot Application                                   patient populations, subgroups, which may have their
+                                                                          own specific pathogenesis, treatment, and prognosis.
+  During a 3-month period, 102 consecutive former                         Numerous investigators have reported an apparently
+patients were seen at the late effects clinic, of whom only               increased incidence of congenital anomalies in a variety
+two refused participation in our study. The reason for                    of disorders. However, almost all are hampered by their
+refusal in both cases was an actual psychological revival                 inability to consider the biologic relevance of the
+of the period during which they had been intensely                        individual items scored [Frı́as and Carey, 1996]. In their
+treated, which made them afraid of all hospital related                   review on ‘‘mild errors of morphogenesis (MEM)’’ Frı́as
+matters. In fact, both patients totally refused any                       and Carey strongly encourage future studies to consider
+further follow up at the late effects clinic. The medical                 the biologic relevance of each recorded MEM and give it
+records of both former patients were checked for possible                 an appropriate weight [Frı́as and Carey, 1996]. There-
+congenital anomalies or syndromes, which could have                       fore, we started our study by creating this list of all
+made them ashamed of their physical appearance and                        physical anomalies detectable by surface examination.
+thereby could have introduced a selection bias, but no                    We realize that creating a uniform classification system
+anomaly or syndrome was found. Of the remaining 100                       will induce generalizations. Although this might be
+persons, 95 were white Caucasians, 1 was from North-                      a drawback for the study of an individual patient, a
+ern Africa, and 4 had a mixed racial background. Mean                     uniform system is an advantage and considered even a
+age of the population was 25 years, 53 were males and                     conditio sine qua non when studying populations as it is
+47 females. Forty-four were treated for leukemia or                       the only way to consider the biologic relevance of the
+lymphoma and 56 for a solid tumor.                                        items scored. One might argue that the creation of a list
+  Although our aim was to determine the interobserver                     based on the pathogenesis of all anomalies is impossible,
+variation in 10%, in the first 100 persons, we determined                 as the exact pathogenesis of many findings still remains
+possible variation in 31. In total, 3,038 items were scored               to be elucidated. However, for a large number of ano-
+(Fig. 2), 126 items were tagged positive and 2,885                        malies the pathogenesis is known and for many others
+negative by both examiners. The examiners disagreed                       there are strong indications of a suspected pathogenesis,
+on 27 items: observer A regarded 18 items positive,                       allowing the creation of a classification based on current
+where observer B did not, observer B scored 9 items                       knowledge. However, it will be a dynamic list that will be
+positive, where observer A did not. So in 31 of the first                 adjusted as new theories on pathogenesis develop.
+100 persons, the interobserver variation was deter-                          Although the definitions of all items in our list are
+mined, yielding a kappa score of 0.89.                                    based on the nomenclature as used in the LDDB, it
+                                                                          should be realized that the definitions as given by
+                         DISCUSSION                                       Winter and Baraitser [2001] still leave room for inter-
+   We created a list of all physical anomalies detectable                 pretation of the individual anomalies. We agree with
+by surface examination, based on a generally accepted                     Frı́as and Carey [1996] that standardization of the
+nomenclature [Winter and Baraitser, 2001] and uniform                     current nomenclature of all individual items by a group
+classification system [Aase, 1990b]. The list will enhance                of international experts would greatly improve and
+uniformity in the scoring and classification of physical                  facilitate future studies on the epidemiologic behavior of
+abnormalities, allowing investigators to generate nor-                    both abnormalities and minor variants.
+mal values and to evaluate systematically the presence                       The list was created to study several populations of
+of patterns in phenotypic anomalies, both in the general                  interest at our institution, all with a suspected develop-
+population as well as in patient populations with various                 mental etiology: children with cancer, with mental
+disorders. The classification system is based on two                      retardation, and with autism. To determine the feasi-
+criteria: the (suspected) pathogenesis of a finding and                   bility of the list in a patient group, a pilot study on
+the prevalence in the normal population. This will allow                  patients who had cancer as a child is shown in this paper.
+weighing the importance of the scored items in the                        In a 3-month period, we performed a surface examina-
+population under study, and will facilitate assessment                    tion directed at morphological anomalies in 100 former
+of possible developmental problems in a large variety                     cancer patients. Using our list, the interobserver varia-
+                                                                          tion was determined in 31 patients leading to an
+                                                                          excellent agreement. This also shows that morphologi-
+                                                                          cal anomalies can be screened accurately also by non-
+                                                                          clinical geneticists if trained in clinical morphology, as
+                                                                          was shown earlier in two studies [Hook, 1971; Méhes,
+                                                                          1988]. Hook [1971] reported less than 1%, and Holmes
+                                                                          [1982] less than 2% disagreement between two non-
+                                                                          clinical geneticists in the identification of surface
+                                                                          morphological anomalies. However, in a later study,
+                                                                          Holmes et al. [1987] found markedly greater interob-
+  Fig. 2. Cross-table summarizing the number of items scored normal and   server differences in the detection of subjective and even
+abnormal by two observers in 31 patients.                                 in objective anomalies. During a 2-year period, 444
+                                          Phenotypic Abnormalities: Terminology and Classification                   227
+
+infants were examined separately by two examiners—a            genes that may be involved in the processes of malig-
+physician and a non-physician—looking for the pre-             nancy and disturbed morphogenesis as well’’ [Méhes
+valence of 114 ‘‘minor physical features.’’ The kappa          et al., 1998]. Arguing along this line, familial occurring
+analysis showed an excellent agreement for six findings        anomalies should not be excluded from analysis, while
+(kappa 1.0–0.75); the agreement was good for 33 (kappa         studying a specific patient group: familial anomalies
+0.75–0.5), but poor for the remaining 77 anomalies             should be regarded as valuable as their non-familial
+(kappa <0.5). Although the prevalence of objective ano-        occurring counterparts, as they might point to patterns
+malies in the first group (kappa 1.0–0.75) will have been      induced by aberrant developmental genes, with a low
+higher, it is hard to understand the large difference in       penetrance for cancer in childhood.
+scoring of relatively objective anomalies such as Sydney          An early Japanese study seems to confirm the findings
+creases and epicanthal folds (kappa 0.33 and 0.28).            of the Swiss group, the major drawback of the study
+Taking a close look at their table, it seems that one of the   being that patients were not examined personally by
+two examiners consistently had a higher score through-         the investigators [Kobayashi et al., 1968]. From 1966 to
+out the different types of anomalies. The reason for this      1968, 371 cases of childhood malignancy were registered
+discrepancy remains unclear as the training in clinical        at the Childhood Cancer Registry of the Tokyo Metro-
+morphology of the non-physician is not discussed in the        politan Area. A table of major and minor congenital
+article [Leppig et al., 1987].                                 anomalies was sent to the hospitals and data were
+   Until now, seven earlier studies were performed             provided by each of the pediatricians in charge. It is not
+describing the prevalence of minor physical anomalies          clear from the paper whether the patients were
+in pediatric cancer patients [Kobayashi et al., 1968;          especially examined by the pediatricians with specific
+Stojimirovic, 1981; Méhes et al., 1985, 1994, 1998;           attention for congenital anomalies. A control group of
+Fekete et al., 1987; Roganovic et al., 2002]. Méhes et al.    123 cases without malignancies or congenital malforma-
+[1985] was able to examine 106 pediatric cancer                tions was examined on major and minor anomalies while
+patients. An equal number of age-matched controls with         they were visiting the outpatient clinic of the University
+acute infectious diseases and 81 healthy sibs of 62 index      of Tokyo Hospital. The incidence of anomalies in
+patients were examined in a similar way. Anthropo-             children with a malignancy was 41%, 20% having a
+metric indices of patients did not differ from those of the    major and 32% having a minor anomaly. In the control
+controls. The frequency of ‘‘major congenital anomalies’’      group, the incidence of anomalies (major and/or minor
+was about equal in all three groups. However, minor            grouped together) was 13% (P < 0.001). Numbers were
+anomalies were significantly more prevalent in the             too small to allow any correlation between specific
+pediatric cancer patients and their sibs compared to           childhood tumors and individual or patterns of anoma-
+controls: 69.2% of patients, 63.0% of sibs, and 34.6% of       lies. The higher incidence of minor anomalies in the
+the control subjects had at least one apparent minor           Swiss group may be explained by three factors: since
+anomaly. This shows the advantage of the study of minor        the list of minor anomalies was not published in
+anomalies: their prevalence is much higher than the            the Japanese study, they might have checked for less
+prevalence of major anomalies and specific patterns of         traits than the 57 traits used by the Swiss group.
+anomalies are more easily detected. In the first Méhes        Furthermore, in the Japanese study the patients may
+study, the total group of patients was composed of 18          not be specifically examined by the pediatrician focused
+different malignancy groups, preventing the detection of       on congenital anomalies, which also might underscore
+specific associations of anomalies or patterns of anoma-       the existence of minor anomalies. And, finally, the
+lies. In a later study, Méhes specifically focused on 54      pediatricians may have been less trained compared to
+acute lymphoblastic leukemia (ALL) patients and their          the Swiss investigators to score for minor anomalies.
+families [Méhes et al., 1994], confirming the increased          Fekete et al. [1987] studied 55 minor anomalies in 51
+prevalence of minor anomalies in ALL patients and their        children with leukemia, and 49 with different solid
+sibs. The study was extended and reported in 1998              tumors. The prevalence in the patient-group (85%) was
+[Méhes et al., 1998]: 100 leukemia patients, the majority     significantly higher than in a group of 100 healthy
+of their parents, and sibs were examined. In 40% of the        controls (66%). Two or more anomalies were found in
+subjects, the interobserver variation was determined           58% of the patients, versus 23% in controls, a significant
+revealing a concordance rate of 79%, which is reliable.        difference. No significant tumor specific association of a
+Again, a significantly higher prevalence of anomalies          given pattern of anomalies could be demonstrated.
+was found in ALL-patients and their sibs, compared to             Only recently, a 7th study was undertaken describing
+parents and controls. When age-dependent anomalies             the frequency and type of anomalies in 64 children with
+were removed, the difference remained significant.             hematological malignancies treated between 1983 and
+However, when both age-dependent and familial ano-             1997 [Roganovic et al., 2002]. Eighty-six percent had at
+malies were excluded from the analysis, the statistical        least one minor anomaly compared to 67% in 64 age and
+difference disappeared. No specific association of ALL         gender matched controls. Unfortunately, a different list
+with a particular anomaly was found. Méhes concluded          was used and definitions of what to consider a minor
+that an increased prevalence of anomalies in sibs of           anomaly were not given. From the seven studies one can
+children with ALL ‘‘cannot be regarded as a sign of pre-       conclude: (1) patients with malignancies appear to have
+disposition for leukemia. One can only speculate on a          more congenital anomalies than control children, sug-
+possible recessive association of MEM’s with ALL, on           gesting the existence of prenatal factors causing both
+possible maternal inheritance, or on developmental             anomalies and cancer, (2) each time the numbers were
+228       Merks et al.
+
+too small to determine any significant correlation be-          when studying groups of patients with that disorder.
+tween tumor types and (combinations of) individual              Therefore, in our classification system, designed for
+anomalies, and (3) the studies did not provide definitions      population studies, anomalies that arise during pheno-
+of each minor or major anomaly, and subsequently using          genesis with a prevalence of 4% will be classified minor
+different lists of anomalies were used making com-              anomalies, regardless of familial occurrence. Sorting
+parison very difficult.                                         phenogenetic anomalies into different categories defined
+   In the past three decades, numerous studies reported         by their prevalence in the general population might
+the incidence of minor physical anomalies in a variety          seem artificial in the individual patient as they basically
+of disorders: diabetes [Méhes et al., 1986], metabolic         refer to the same phenomenon of abnormal phenogen-
+diseases [Méhes, 1991], isolated urinary tract malfor-         esis [Opitz, 2000]. However, a very low prevalence of an
+mations [Méhes and Pinter, 1990], mental retardation           anomaly in the general population indicates that its
+[Smith and Bostian, 1964; Firestone et al., 1978;               presence in an individual is exceptional and should be
+Meggyessy et al., 1980; Van Karnebeek et al., 2002a],           regarded as more important than the presence of a more
+cerebral palsy [Miller, 1989; Coorssen et al., 1991],           commonly occurring anomaly of phenogenesis, a com-
+hyperactivity [Waldrop and Goering, 1971; Quinn and             mon variant in our classification system.
+Rapoport, 1974; Firestone et al., 1978], autism [Links             Many earlier studies on minor physical anomalies in
+et al., 1980; Accardo et al., 1991; Miles and Hillman,          autism and schizophrenia are hampered by the use of
+2000; Van Karnebeek et al., 2002b], and schizophrenia           the Waldrop scale [Waldrop et al., 1968] (or a modified
+and mood disorders [Gualtieri et al., 1982; Guy et al.,         version), a short list of 16 minor physical anomalies and
+1983; Green et al., 1989, 1994a,b; Lohr and Flynn, 1993;        their weighted scores, mostly reflecting the findings
+Alexander et al., 1994; O’Callaghan et al., 1995; Lane          found in Down syndrome, which limits its value as a
+et al., 1997; Trixler et al., 1997; Griffiths et al., 1998;     checklist for a broad variety of disorders.
+Ismail et al., 1998, 2000; Lawrie et al., 2001; Trixler            Different from the earlier discussed studies on the
+et al., 2001; Scutt et al., 2001; McGrath et al., 2002]. A      prevalence of congenital anomalies in pediatric malig-
+few studies deserve more attention here. Miles and              nancies, in all other studies the investigators did not
+Hillman [2000] did an exemplary study on minor                  submit the children to a careful physical examination
+physical anomalies in 133 autistic individuals, most of         directed at clinical morphology and so they were only
+their parents, and a substantial number of grand-               able to detect associations with major anomalies as they
+parents and sibs. Each physical finding was standar-            were based on the study of death certificates [Miller,
+dized according to the LDDB [Winter and Baraitser,              1969], cancer registry records [Narod et al., 1997; Nishi
+2001], and divided into three groups: (1) minor anoma-          et al., 2000], interviews [Mann et al., 1993; Mertens
+lies, ‘‘structural anomalies that occur in <5% of the           et al., 1998], and record linkage studies [Windham et al.,
+population,’’ (2) measurement abnormalities that are            1985; Mili et al., 1993a,b; Altmann et al., 1998]. Since
+beyond 2 SD from the mean, (3) descriptive traits (often        major anomalies have a much lower frequency than
+called spectrum variants), with a prevalence of >4%,            minor anomalies associations with specific tumors will
+which are often familial and cannot be accurately               be more difficult to detect. The only significant relation-
+measured, and (4) malformations. This classification            ships observed were the higher incidence of leukemia
+system closely resembles our list, although in our system       in children with Down syndrome, and the increased
+minor anomalies and measurement anomalies are                   prevalence of brain tumors in children with central
+grouped in one category and collectively called minor           nervous system anomalies [Altmann et al., 1998]. In
+anomalies. Descriptive traits or spectrum variants              many syndromes, and also in Down syndrome, the
+resemble our common variants. Nothing is stated about           diagnosis is rarely based on the accompanying major
+dysplasias, disruptions, or deformations. Using this            malformations but rather on the specific pattern of
+classification system, the subjects were categorized            minor anomalies. Indeed most diagnostic indices for
+from ‘‘normal,’’ to ‘‘minimal,’’ ‘‘mild,’’ ‘‘moderate,’’ and    Down syndrome use only minor anomalies [Preus,
+‘‘severe,’’ or to ‘‘syndrome,’’ thus weighing the severity of   1977].
+the findings in all individuals. Individuals categorized           An important factor hampering the elucidation of any
+from moderate to severe were called ‘‘phenotypically            statistically significant data in earlier studies is the lack
+abnormal.’’ In this subgroup (20% of the total group), five     of normal values for morphological anomalies in normal
+established syndromes were diagnosed compared to one            children and adults. Only four studies emerge from
+in the remaining 80%, suggesting that this subgroup             literature that forms the basis of our current knowledge
+has a different cause from the phenotypically normal            regarding the epidemiology of morphological anomalies
+to intermediate group of autistic individuals. In his           [Marden et al., 1964; Méhes, 1983; Merlob et al., 1985;
+editorial comment, Opitz [2000] complimented the                Leppig et al., 1987]. Lack of standardization of the
+authors on using the method of analysis of family re-           nomenclature and the absence of uniform diagnostic
+semblance, and indeed family resemblance is of great            criteria hinders the comparison of these studies [Frı́as
+importance in the individual patient. However, as stated        and Carey, 1996]. A second and even more important
+earlier, familial occurring minor anomalies, categorized        drawback is that the studies have been performed in
+as ‘‘descriptive traits’’ in the study by Miles and Hillman     newborn infants only. Several specific anomalies, such
+[2000], might point to patterns induced by aberrant             as vascular malformations, can be transitory, and minor
+developmental genes, with a low penetrance for the              anomalies can become more or less obvious with age,
+specific disorder, and thus might be of great importance        as the evolution of anomalies in many syndromes has
+                                                    Phenotypic Abnormalities: Terminology and Classification                                         229
+
+shown. Especially, only after early childhood the com-                        Holmes LB, Kleiner BC, Leppig KA, Cann CI, Munoz A, Polk BF. 1987.
+plete phenotype becomes obvious. This implies that                               Predictive value of minor anomalies: II. Use in cohort studies to identify
+                                                                                 teratogens. Teratology 36:291–297.
+many morphological anomalies can be missed in new-
+                                                                              Hook EB. 1971. Some general considerations concerning monitoring:
+born infants. We have concluded, there is a great need                           Application to utility of minor defects as markers. In: Hook EB, Janerich
+for a study in older children or adults focused on the                           DT, Porter IH, editors. Monitoring, birth defects, and environment.
+prevalence of mild errors of morphogenesis. Therefore,                           New York London: Academic Press. p 177–197.
+we are presently planning to study a control group                            Ismail B, Cantor-Graae E, McNeil TF. 1998. Minor physical anomalies in
+                                                                                 schizophrenic patients and their siblings. Am J Psychiatry 155:1695–
+constituted from older children from elementary                                  1702.
+schools.
+                                                                              Ismail B, Cantor-Graae E, McNeil TF. 2000. Minor physical anomalies in
+                                                                                 schizophrenia: Cognitive, neurological, and other clinical correlates.
+                                                                                 J Psychiatr Res 34:45–56.
+                   ACKNOWLEDGMENTS
+                                                                              Kobayashi N, Furukawa T, Takatsu T. 1968. Congenital anomalies in
+  We thank John C. Carey and Judith G. Allanson in                               children with malignancy. Paediatria Universitatis Tokyo 16:31–37.
+discussing our initial thoughts about this project, John                      Lane A, Kinsella A, Murphy P, Byrne M, Keenan J, Colgan K, Cassidy B,
+                                                                                 Sheppard N, Horgan R, Waddington JL, Larkin C, O’Callaghan E. 1997.
+M. Opitz and Károly Méhes for excellent and thoughtful                         The anthropometric assessment of dysmorphic features in schizophre-
+comments, and our partners for their exquisite cooking,                          nia as an index of its developmental origins. Psychol Med 27:1155–1164.
+as without this we would not have survived the many                           Lawrie SM, Byrne M, Miller P, Hodges A, Clafferty RA, Cunningham Owens
+evenings we spent working on the classification list.                            DG, Johnstone EC. 2001. Neurodevelopmental indices and the develop-
+                                                                                 ment of psychotic symptoms in subjects at high risk of schizophrenia.
+                                                                                 Br J Psychiatry 178:524–530.
+                          REFERENCES                                          Leppig KA, Werler MM, Cann CI, Cook CA, Holmes LB. 1987. Predictive
+                                                                                 value of minor anomalies. I. Association with major malformations.
+Aase JM. 1990a. Principles of normal and abnormal embryogenesis. In:             J Pediatr 110:531–537.
+   Diagnostic dysmorphology. New York and London: Plenum Medical              Links PS, Stockwell M, Abichandani F, Simeon J. 1980. Minor physical
+   Book Company. p 5–13.                                                         anomalies in childhood autism. Part I. Their relationship to pre- and
+Aase JM. 1990b. The physical examination in dysmorphology. In: Diagnostic        perinatal complications. J Autism Dev Disord 10:273–285.
+   dysmorphology. New York and London: Plenum Medical Book Company.           Lohr JB, Flynn K. 1993. Minor physical anomalies in schizophrenia and
+   p 33–42.                                                                      mood disorders. Schizophr Bull 19:551–556.
+Accardo PJ, Tomazic T, Morrow J, Haake C, Whitman BY. 1991. Minor             Mann JR, Dodd HE, Draper GJ, Waterhouse JA, Birch JM, Cartwright RA,
+   malformations, hyperactivity, and learning disabilities. Am J Dis Child      Hartley AL, McKinney PA, Stiller CA. 1993. Congenital abnormalities in
+   145:1184–1187.                                                               children with cancer and their relatives: Results from a case-control
+Alexander RC, Mukherjee S, Richter J, Kaufmann CA. 1994. Minor physical         study (IRESCC). Br J Cancer 68:357–363.
+   anomalies in schizophrenia. J Nerv Ment Dis 182:639–644.                   Marden PM, Smith DW, McDonald MJ. 1964. Congenital anomalies in the
+Altmann AE, Halliday JL, Giles GG. 1998. Associations between congenital        newborn infant, including minor variations. J Pediatr 64:357–371.
+   malformations and childhood cancer. A register-based case-control          McGrath J, El Saadi O, Grim V, Cardy S, Chapple B, Chant D, Lieberman D,
+   study. Br J Cancer 78:1244–1249.                                             Mowry B. 2002. Minor physical anomalies and quantitative measures
+Coorssen EA, Msall ME, Duffy LC. 1991. Multiple minor malformations as a        of the head and face in patients with psychosis. Arch Gen Psychiatry
+   marker for prenatal etiology of cerebral palsy. Dev Med Child Neurol         59:458–464.
+   33:730–736.                                                                Meggyessy V, Revhelyi M, Méhes K. 1980. Minor malformations in mental
+Fekete G, Rethy L, Batta I. 1987. Occurrence of minor anomalies in children     retardation of various aetiology. Acta Paediatr Acad Sci Hung 21:175–
+   treated for leukemia and malignant tumors. Orv Hetil 128:725–728.            180.
+Firestone P, Peters S, Rivier M, Knights RM. 1978. Minor physical             Merlob P. 1994. Mild errors of morphogenesis: One of the most controversial
+    anomalies in hyperactive, retarded, and normal children and their            subjects in dysmorphology. Issues Rev Teratol 7:57–102.
+    families. J Child Psychol Psychiatry 19:155–160.                          Merlob P, Papier CM, Klingberg MA, Reisner SH. 1985. Incidence of
+Frı́as JL, Carey JC. 1996. Mild errors of morphogenesis. Adv Pediatr 43:         congenital malformations in the newborn, particularly minor abnorm-
+     27–75.                                                                      alities. Prog Clin Biol Res 163C:51–55.
+Green MF, Satz P, Gaier DJ, Ganzell S, Kharabi F. 1989. Minor physical        Mertens AC, Wen W, Davies SM, Steinbuch M, Buckley JD, Potter JD,
+   anomalies in schizophrenia. Schizophr Bull 15:91–99.                          Robison LL. 1998. Congenital abnormalities in children with acute
+Green MF, Bracha HS, Satz P, Christenson CD. 1994a. Preliminary                  leukemia: A report from the Children’s Cancer Group. J Pediatr
+   evidence for an association between minor physical anomalies and              133:617–623.
+   second trimester neurodevelopment in schizophrenia. Psychiatry Res         Miles JH, Hillman RE. 2000. Value of a clinical morphology examination
+   53:119–127.                                                                   in autism. Am J Med Genet 91:245–253.
+Green MF, Satz P, Christenson C. 1994b. Minor physical anomalies in           Mili F, Khoury MJ, Flanders WD, Greenberg RS. 1993a. Risk of childhood
+   schizophrenia patients, bipolar patients, and their siblings. Schizophr       cancer for infants with birth defects. I. A record-linkage study, Atlanta,
+   Bull 20:433–440.                                                              Georgia, 1968–1988. Am J Epidemiol 137:629–638.
+Griffiths TD, Sigmundsson T, Takei N, Frangou S, Birkett PB, Sharma T,        Mili F, Lynch CF, Khoury MJ, Flanders WD, Edmonds LD. 1993b. Risk of
+    Reveley AM, Murray RM. 1998. Minor physical anomalies in familial            childhood cancer for infants with birth defects. II. A record-linkage
+    and sporadic schizophrenia: The Maudsley family study. J Neurol              study, Iowa, 1983–1989. Am J Epidemiol 137:639–644.
+    Neurosurg Psychiatry 64:56–60.                                            Miller RW. 1969. Childhood cancer and congenital defects. A study of U.S.
+Gualtieri CT, Adams A, Shen CD, Loiselle D. 1982. Minor physical                 death certificates during the period 1960–1966. Pediatr Res 3:389–397.
+   anomalies in alcoholic and schizophrenic adults and hyperactive and        Miller G. 1989. Minor congenital anomalies and ataxic cerebral palsy. Arch
+   autistic children. Am J Psychiatry 139:640–643.                               Dis Child 64:557–562.
+Guy JD, Majorski LV, Wallace CJ, Guy MP. 1983. The incidence of minor         Myrianthopoulos NC, Chung CS. 1974. Congenital malformations in
+   physical anomalies in adult male schizophrenics. Schizophr Bull 9:571–        singletons: Epidemiologic survey. Report from the Collaborative
+   582.                                                                          Perinatal project. Birth Defects Orig Artic Ser 10:1–58.
+Hall JG, Froster-Iskenius UG, Allanson JE. 1989. Handbook of normal           Méhes K. 1977. A follow-up study of infants with minor malformations. In:
+   physical measurements. Oxford University Press.                               Szabo G et al., editors. Amsterdam: ExcerptaMedica, International
+Holmes LB. 1982. Minor anomalies in newborn infants. Am J Hum Genet              congress series 428. Medical genetics: Proceedings of the symposium at
+   34:94A.                                                                       Debrecen-Hajdúszoboszló, Hungary: p 483-486.
+230         Merks et al.
+
+Méhes K. 1983. General characterization of minor malformations:                Roganovic J, Radojcic-Badovinac A, Ahel V. 2002. Increased prevalence
+   Epidemiology in the newborn populations. Minor malformations in                 of minor anomalies in children with hematologic malignancies.
+   the neonate. Budapest: Akadémiai Kiadó. p 17–20.                              Med Pediatr Oncol 38:128–130.
+Méhes K. 1988. Informative morphogenetic variants in the newborn infant.       Scutt LE, Chow EW, Weksberg R, Honer WG, Bassett AS. 2001. Patterns of
+   Budapest: Akadémiai Kiadó. p 9.                                               dysmorphic features in schizophrenia. Am J Med Genet 105:713–723.
+Méhes K. 1991. Dysmorphology in children with congenital metabolic             Smith DW, Bostian KE. 1964. Congenital anomalies associated with
+   disorders. Acta Paediatr Jpn 33:440–442.                                        idiopathic mental retardation. J Pediatr 65:189–196.
+Méhes K, Pinter A. 1990. Minor morphological aberrations in children           Spranger J, Benirschke K, Hall JG, Lenz W, Lowry RB, Opitz JM, Pinsky L,
+   with isolated urinary tract malformations. Eur J Pediatr 149:399–               Schwarzacher HG, Smith DW. 1982. Errors of morphogenesis: Concepts
+   402.                                                                            and terms. Recommendations of an international working group.
+Méhes K, Signer E, Pluss HJ, Muller HJ, Stalder G. 1985. Increased                J Pediatr 100:160–165.
+   prevalence of minor anomalies in childhood malignancy. Eur J Pediatr         Stojimirovic E. 1981. Resultati nashich ispitivania naslednich faktora
+   144:243–254.                                                                     u dietze obolele akutnich lymphatitsnich leukemia (Results of our
+Méhes K, Soltesz G, Szabo L, Pap M, Meggyessy V, Karolyi G. 1986.                  examination of hereditary factors in children with acute lymphoblastic
+   Prevalence of minor congenital anomalies in diabetic children. Acta              leukemia [In Serbian]. Srpski Archiv 109:1278–1286.
+   Paediatr Hung 27:85–89.                                                      Trixler M, Tenyi T, Csabi G, Szabo G, Mehes K. 1997. Informative
+Méhes K, Szijjártó L, Kajtar P. 1994. Family investigations of informative       morphogenetic variants in patients with schizophrenia and alcohol-
+   morphogenetic variants in childhood lymphoblastic leukemia. Dysmor-              dependent patients: Beyond the Waldrop Scale. Am J Psychiatry
+   phology and genetics of cardiovascular disorders. Athens: HTA Med                154:691–693.
+   Publ. p 177–183.                                                             Trixler M, Tenyi T, Csabi G, Szabo R. 2001. Minor physical anomalies in
+Méhes K, Kajtar P, Sandor G, Scheel-Walter M, Niethammer D. 1998.                  schizophrenia and bipolar affective disorder. Schizophr Res 52:195–201.
+   Excess of mild errors of morphogenesis in childhood lymphoblastic            Van Karnebeek CD, Scheper FY, Abeling NG, Alders M, Barth PG,
+   leukemia. Am J Med Genet 75:22–27.                                              Hoovers JM, Koevoets C, Wanders RJ, Hennekam RC. 2002a. Aetiology
+Narod SA, Hawkins MM, Robertson CM, Stiller CA. 1997. Congenital                   of mental retardation or borderline cognitive delay in 281 children
+   anomalies and childhood cancer in Great Britain. Am J Hum Genet                 referred to a tertiary care centre: A prospective study. The Netherlands:
+   60:474–485.                                                                     Department of pediatrics/Emma Children’s Hospital and department of
+                                                                                   clinical genetics, Academic Medical Center, University of Amsterdam.
+Nishi M, Miyake H, Takeda T, Hatae Y. 2000. Congenital malformations and           75–108 pp.
+   childhood cancer. Med Pediatr Oncol 34:250–254.
+                                                                                Van Karnebeek CD, van Gelderen I, Nijhof GJ, Abeling NG, Vreken P,
+O’Callaghan E, Buckley P, Madigan C, Redmond O, Stack JP, Kinsella A,              Redeker EJ, van Eeghen AM, Hoovers JM, Hennekam RC. 2002b. An
+   Larkin C, Ennis JT, Waddington JL. 1995. The relationship of minor              aetiological study of 25 mentally retarded adults with autism. J Med
+   physical anomalies and other putative indices of developmental                  Genet 39:205–213.
+   disturbance in schizophrenia to abnormalities of cerebral structure on
+                                                                                Waldrop MF, Goering JD. 1971. Hyperactivity and minor physical anomalies
+   magnetic resonance imaging. Biol Psychiatry 38:516–524.
+                                                                                   in elementary school children. Am J Orthopsychiatry 41:602–607.
+Opitz JM. 1985. Invited editorial comment: Study of minor anomalies
+                                                                                Waldrop MF, Pedersen FA, Bell RQ. 1968. Minor physical anomalies and
+   in childhood malignancy. Eur J Pediatr 144:252–254.
+                                                                                   behavior in preschool children. Child Dev 39:391–400.
+Opitz JM. 2000. Heterogeneity and minor anomalies. Am J Med Genet               Windham GC, Bjerkedal T, Langmark F. 1985. A population-based study of
+   91:254–255.                                                                     cancer incidence in twins and in children with congenital malformations
+Preus M. 1977. A diagnostic index for Down syndrome. Clin Genet 12:47–55.          or low birth weight, Norway, 1967–1980. Am J Epidemiol 121:49–56.
+Quinn PO, Rapoport JL. 1974. Minor physical anomalies and neurologic            Winter RM, Baraitser M. 2001. London Dysmorphology Database. Oxford
+   status in hyperactive boys. Pediatrics 53:742–747.                              University Press. Ref. Type: Computer Program.
+

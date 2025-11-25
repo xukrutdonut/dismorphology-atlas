@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas de Morfología - Terminología Estándar</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .intro-text {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        
+        /* Accordion styles */
+        .accordion {
+            margin-top: 20px;
+        }
+        
+        .accordion-item {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        
+        .accordion-item:hover {
+            box-shadow: 0 3px 15px rgba(102, 126, 234, 0.2);
+        }
+        
+        .accordion-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 25px;
+            cursor: pointer;
+            background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+            transition: all 0.3s;
+            user-select: none;
+        }
+        
+        .accordion-header:hover {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .accordion-header.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .accordion-title {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+        
+        .accordion-emoji {
+            font-size: 1.5em;
+        }
+        
+        .accordion-count {
+            font-size: 0.7em;
+            opacity: 0.8;
+            font-weight: normal;
+        }
+        
+        .accordion-icon {
+            font-size: 1.5em;
+            transition: transform 0.3s;
+        }
+        
+        .accordion-icon.active {
+            transform: rotate(180deg);
+        }
+        
+        .accordion-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
+            background: #fafbfc;
+        }
+        
+        .accordion-content.active {
+            max-height: 5000px;
+            transition: max-height 0.8s ease-in;
+        }
+        
+        .terms-list {
+            padding: 20px 25px;
+        }
+        
+        .intro-section {
+            background: #e8f5e9;
+            border: 2px solid #4caf50;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .intro-section h4 {
+            color: #2e7d32;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+            text-align: center;
+        }
+        
+        .intro-description {
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            font-style: italic;
+            text-align: center;
+        }
+        
+        .intro-item {
+            background: white;
+            border-left: 4px solid #4caf50;
+            padding: 15px 20px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-radius: 5px;
+        }
+        
+        .intro-item:hover {
+            background: #f1f8f4;
+            transform: translateX(5px);
+            box-shadow: 0 3px 10px rgba(76, 175, 80, 0.2);
+        }
+        
+        .term-item {
+            background: white;
+            border-left: 3px solid #667eea;
+            padding: 12px 18px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-radius: 5px;
+        }
+        
+        .term-item:hover {
+            background: #f0f0ff;
+            transform: translateX(5px);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+        }
+        
+        .term-item-name {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 1.05em;
+            margin-bottom: 5px;
+        }
+        
+        .term-item-def {
+            color: #666;
+            font-size: 0.9em;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .reference-badge {
+            display: inline-block;
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.75em;
+            margin-left: 8px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 1.2em;
+        }
+        
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.7);
+            animation: fadeIn 0.3s;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .modal-content {
+            background-color: #fefefe;
+            margin: 2% auto;
+            padding: 0;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 1000px;
+            box-shadow: 0 10px 50px rgba(0,0,0,0.5);
+            animation: slideDown 0.3s;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        
+        @keyframes slideDown {
+            from {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        
+        .modal-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px 15px 0 0;
+            position: relative;
+        }
+        
+        .modal-title {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        
+        .modal-subtitle {
+            opacity: 0.9;
+            font-size: 0.9em;
+        }
+        
+        .close {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            color: white;
+            font-size: 35px;
+            font-weight: bold;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: background 0.3s;
+        }
+        
+        .close:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        .modal-body {
+            padding: 0;
+            display: grid;
+            grid-template-columns: 1fr 1.2fr;
+            min-height: 600px;
+        }
+        
+        .text-column {
+            padding: 30px;
+            background: #f8f9fa;
+            border-right: 1px solid #e9ecef;
+        }
+        
+        .image-column {
+            padding: 30px;
+            background: white;
+        }
+        
+        .definition-section {
+            margin-bottom: 30px;
+        }
+        
+        .definition-title {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        
+        .definition-text {
+            color: #555;
+            line-height: 1.8;
+            font-size: 1.05em;
+        }
+        
+        .images-section {
+            height: 100%;
+        }
+        
+        .images-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+            height: calc(100% - 60px);
+            overflow-y: auto;
+        }
+        
+        .image-container {
+            position: relative;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .image-container:hover {
+            transform: scale(1.05);
+        }
+        
+        .image-container img {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .image-caption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(transparent, rgba(0,0,0,0.8));
+            color: white;
+            padding: 15px 8px 8px;
+            font-size: 0.8em;
+            line-height: 1.2;
+            text-align: center;
+        }
+        
+        .no-images {
+            text-align: center;
+            color: #999;
+            padding: 30px;
+            font-style: italic;
+        }
+        
+        .metadata {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .metadata-item {
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        .metadata-label {
+            font-size: 0.85em;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 5px;
+        }
+        
+        .metadata-value {
+            font-weight: bold;
+            color: #333;
+        }
+        
+        /* Image viewer modal */
+        .image-viewer {
+            display: none;
+            position: fixed;
+            z-index: 2000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.95);
+        }
+        
+        .image-viewer-content {
+            position: relative;
+            margin: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            padding: 40px;
+        }
+        
+        .image-viewer img {
+            max-width: 200%;
+            max-height: 200%;
+            object-fit: contain;
+            cursor: zoom-out;
+        }
+        
+        .image-viewer .close {
+            position: fixed;
+            top: 20px;
+            right: 40px;
+            font-size: 40px;
+            color: white;
+            cursor: pointer;
+            z-index: 2001;
+            background: rgba(0,0,0,0.5);
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.3s;
+        }
+        
+        .image-viewer .close:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        /* Responsive design for modal */
+        @media (max-width: 1024px) {
+            .modal-body {
+                grid-template-columns: 1fr;
+                grid-template-rows: auto 1fr;
+            }
+            
+            .text-column {
+                border-right: none;
+                border-bottom: 1px solid #e9ecef;
+            }
+            
+            .image-column {
+                min-height: 400px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .modal-content {
+                width: 95%;
+                margin: 2% auto;
+                max-height: 95vh;
+            }
+            
+            .images-grid {
+                grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            }
+            
+            .image-container img {
+                height: 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧬 Atlas de Morfología</h1>
+            <p class="subtitle">Terminología Estándar para Fenotipos Humanos</p>
+            <p class="subtitle">Referencia Interactiva de Terminología Médica</p>
+        </header>
+        
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalTerms">-</div>
+                <div class="stat-label">Términos</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalImages">-</div>
+                <div class="stat-label">Imágenes</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalDocs">-</div>
+                <div class="stat-label">Documentos</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalCategories">-</div>
+                <div class="stat-label">Categorías</div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <p class="intro-text">
+                Atlas interactivo de terminología morfológica estándar.<br>
+                Explora términos anatómicos organizados por región del cuerpo.
+            </p>
+            
+            <div class="accordion" id="anatomyAccordion">
+                <div class="loading">Cargando regiones anatómicas...</div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal para ver término completo -->
+    <div id="termModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2 class="modal-title" id="modalTitle"></h2>
+                <p class="modal-subtitle" id="modalCategory"></p>
+            </div>
+            <div class="modal-body">
+                <div class="text-column">
+                    <div class="definition-section">
+                        <h3 class="definition-title">📖 Definición</h3>
+                        <p class="definition-text" id="modalDefinition"></p>
+                    </div>
+                    
+                    <div class="metadata" id="modalMetadata"></div>
+                </div>
+                
+                <div class="image-column">
+                    <div class="images-section" id="imagesSection">
+                        <h3 class="definition-title">🖼️ Imágenes Relacionadas</h3>
+                        <div class="images-grid" id="modalImages"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal para ver imagen en grande -->
+    <div id="imageViewer" class="image-viewer">
+        <span class="close" onclick="closeImageViewer()">&times;</span>
+        <div class="image-viewer-content">
+            <img id="viewerImage" src="" alt="">
+        </div>
+    </div>
+    
+    <script>
+        // Global data
+        let allTerms = [];
+        let allImages = {};
+        let termImageMap = {};  // Precise term-to-image mapping with captions
+        
+        // Anatomical regions with hierarchy (in Spanish)
+        const anatomicalRegions = {
+            'introduction': {
+                name: 'Bases Generales de la Clasificación Anatómica',
+                emoji: '📚',
+                categories: ['introduction', 'phenotypic_variations'],
+                order: 0,
+                isIntro: true
+            },
+            'head_face': {
+                name: 'Cabeza y Cara',
+                emoji: '👤',
+                categories: ['head_face'],
+                order: 1
+            },
+            'ear': {
+                name: 'Oído',
+                emoji: '👂',
+                categories: ['ear'],
+                order: 2
+            },
+            'periorbital': {
+                name: 'Región Periorbital',
+                emoji: '👁️',
+                categories: ['periorbital'],
+                order: 3
+            },
+            'nose_philtrum': {
+                name: 'Nariz y Filtrum',
+                emoji: '👃',
+                categories: ['nose_philtrum'],
+                order: 4
+            },
+            'lips_mouth': {
+                name: 'Labios y Boca',
+                emoji: '👄',
+                categories: ['lips_mouth'],
+                order: 5
+            },
+            'teeth': {
+                name: 'Dientes',
+                emoji: '🦷',
+                categories: ['teeth'],
+                order: 6
+            },
+            'hands_feet': {
+                name: 'Manos y Pies',
+                emoji: '✋',
+                categories: ['hands_feet'],
+                order: 7
+            },
+            'genitalia': {
+                name: 'Genitales Externos',
+                emoji: '🔬',
+                categories: ['genitalia'],
+                order: 8
+            },
+            'general': {
+                name: 'Términos Generales',
+                emoji: '🧬',
+                categories: ['general'],
+                order: 9
+            }
+        };
+        
+        // Load all data
+        async function loadData() {
+            try {
+                // Load summary
+                const summaryResponse = await fetch('data/organized/summary.json');
+                const summary = await summaryResponse.json();
+                
+                // Load terms
+                const termsResponse = await fetch('data/organized/morphology_terms.json');
+                allTerms = await termsResponse.json();
+                
+                // Load images catalog
+                const imagesResponse = await fetch('data/organized/images_catalog.json');
+                allImages = await imagesResponse.json();
+                
+                // Load term-image mapping with captions
+                try {
+                    const mappingResponse = await fetch('data/organized/term_images_with_captions.json');
+                    termImageMap = await mappingResponse.json();
+                    console.log(`Cargado mapeo preciso de imágenes con captions para ${Object.keys(termImageMap).length} términos`);
+                } catch (e) {
+                    console.warn('Mapeo de términos-imágenes con captions no encontrado, intentando mapeo simple');
+                    try {
+                        const simpleResponse = await fetch('data/organized/term_images_simple.json');
+                        const simpleMap = await simpleResponse.json();
+                        // Convertir formato simple a formato mejorado
+                        for (const [term, images] of Object.entries(simpleMap)) {
+                            termImageMap[term] = images.map((img, idx) => ({
+                                image: img,
+                                figure: idx + 1,
+                                caption: `Figura ${idx + 1}`
+                            }));
+                        }
+                    } catch (e2) {
+                        console.warn('No se encontró mapeo de imágenes');
+                    }
+                }
+                
+                // Update stats
+                document.getElementById('totalTerms').textContent = allTerms.length;
+                document.getElementById('totalImages').textContent = summary.total_images;
+                document.getElementById('totalDocs').textContent = summary.total_documents;
+                document.getElementById('totalCategories').textContent = Object.keys(summary.categories).length;
+                
+                // Create accordion
+                createAccordion();
+                
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('terms').innerHTML = '<p class="loading" style="color: red;">Error al cargar los datos.</p>';
+            }
+        }
+        
+        // Create accordion structure
+        function createAccordion() {
+            const accordionContainer = document.getElementById('anatomyAccordion');
+            accordionContainer.innerHTML = '';
+            
+            // Sort regions by order
+            const sortedRegions = Object.entries(anatomicalRegions).sort((a, b) => a[1].order - b[1].order);
+            
+            sortedRegions.forEach(([regionKey, regionData]) => {
+                // Get terms for this region
+                const regionTerms = allTerms.filter(t => regionData.categories.includes(t.category));
+                
+                if (regionTerms.length === 0) return;
+                
+                // Create accordion item
+                const item = document.createElement('div');
+                item.className = 'accordion-item';
+                
+                // Special styling for introduction section
+                if (regionData.isIntro) {
+                    item.style.background = 'linear-gradient(135deg, #f1f8f4 0%, #ffffff 100%)';
+                    item.style.border = '2px solid #4caf50';
+                }
+                
+                const header = document.createElement('div');
+                header.className = 'accordion-header';
+                header.innerHTML = `
+                    <div class="accordion-title">
+                        <span class="accordion-emoji">${regionData.emoji}</span>
+                        <span>${regionData.name}</span>
+                        <span class="accordion-count">(${regionTerms.length} término${regionTerms.length !== 1 ? 's' : ''})</span>
+                    </div>
+                    <span class="accordion-icon">▼</span>
+                `;
+                
+                const content = document.createElement('div');
+                content.className = 'accordion-content';
+                
+                const termsList = document.createElement('div');
+                termsList.className = 'terms-list';
+                
+                // Special handling for introduction section
+                if (regionData.isIntro) {
+                    const introSection = document.createElement('div');
+                    introSection.className = 'intro-section';
+                    introSection.innerHTML = `
+                        <h4>📖 Conceptos Fundamentales y Clasificación</h4>
+                        <div class="intro-description">
+                            Esta sección contiene los términos introductorios y conceptos generales 
+                            sobre la clasificación y terminología estandarizada en morfología humana.
+                        </div>
+                    `;
+                    
+                    regionTerms.forEach(term => {
+                        const introItem = document.createElement('div');
+                        introItem.className = 'intro-item';
+                        introItem.onclick = () => showTermModal(term);
+                        
+                        let defPreview = term.definition.substring(0, 150);
+                        if (term.reference_to) {
+                            defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
+                        }
+                        
+                        introItem.innerHTML = `
+                            <div class="term-item-name">${term.term}</div>
+                            <div class="term-item-def">${defPreview}${term.definition.length > 150 ? '...' : ''}</div>
+                        `;
+                        introSection.appendChild(introItem);
+                    });
+                    
+                    termsList.appendChild(introSection);
+                } else {
+                    // Regular terms for other regions
+                    regionTerms.forEach(term => {
+                        const termItem = document.createElement('div');
+                        termItem.className = 'term-item';
+                        termItem.onclick = () => showTermModal(term);
+                        
+                        let defPreview = term.definition.substring(0, 120);
+                        if (term.reference_to) {
+                            defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
+                        }
+                        
+                        termItem.innerHTML = `
+                            <div class="term-item-name">${term.term}</div>
+                            <div class="term-item-def">${defPreview}${term.definition.length > 120 ? '...' : ''}</div>
+                        `;
+                        
+                        termsList.appendChild(termItem);
+                    });
+                }
+                
+                content.appendChild(termsList);
+                item.appendChild(header);
+                item.appendChild(content);
+                accordionContainer.appendChild(item);
+                
+                // Add click handler
+                header.onclick = () => toggleAccordion(header, content);
+            });
+        }
+        
+        // Toggle accordion
+        function toggleAccordion(header, content) {
+            const isActive = content.classList.contains('active');
+            
+            // Cerrar todos los acordeones
+            document.querySelectorAll('.accordion-content').forEach(c => {
+                c.classList.remove('active');
+            });
+            document.querySelectorAll('.accordion-header').forEach(h => {
+                h.classList.remove('active');
+            });
+            document.querySelectorAll('.accordion-icon').forEach(i => {
+                i.classList.remove('active');
+            });
+            
+            // Abrir el acordeón clickeado si estaba cerrado
+            if (!isActive) {
+                content.classList.add('active');
+                header.classList.add('active');
+                header.querySelector('.accordion-icon').classList.add('active');
+            }
+        }
+        
+        // Get images for a term
+        function getImagesForTerm(term) {
+            // First, try precise mapping with captions
+            if (termImageMap[term.term]) {
+                return termImageMap[term.term];
+            }
+            
+            // Fallback: get images from the document (less precise)
+            const baseName = term.source.replace('.txt', '').replace('data/', '');
+            const matchingImages = [];
+            
+            if (allImages.by_category) {
+                for (const [key, data] of Object.entries(allImages.by_category)) {
+                    if (baseName.includes(key) || key.includes(baseName.split('_').slice(0, 5).join('_'))) {
+                        if (data.all_images) {
+                            // Limit to 6 images if using fallback, return in enhanced format
+                            data.all_images.slice(0, 6).forEach((img, idx) => {
+                                matchingImages.push({
+                                    image: img,
+                                    figure: idx + 1,
+                                    caption: `Imagen del documento (Fig. ${idx + 1})`
+                                });
+                            });
+                        }
+                    }
+                }
+            }
+            
+            return matchingImages;
+        }
+        
+        // Show term modal
+        function showTermModal(term) {
+            const modal = document.getElementById('termModal');
+            
+            // Get region name
+            const regionName = getRegionName(term.category);
+            
+            // Set content
+            document.getElementById('modalTitle').textContent = term.term;
+            document.getElementById('modalCategory').textContent = regionName;
+            
+            // Check if it's a "see" reference
+            const definitionEl = document.getElementById('modalDefinition');
+            if (term.reference_to) {
+                // It's a reference - create clickable link
+                definitionEl.innerHTML = `${term.definition.replace('See:', 'Ver:')} <a href="#" onclick="searchAndOpenTerm('${term.reference_to.replace(/'/g, "\\'")}'); return false;" style="color: #667eea; text-decoration: underline; font-weight: bold;">${term.reference_to}</a>`;
+            } else {
+                definitionEl.textContent = term.definition;
+            }
+            
+            // Set metadata
+            const metadata = document.getElementById('modalMetadata');
+            metadata.innerHTML = `
+                <div class="metadata-item">
+                    <div class="metadata-label">Región Anatómica</div>
+                    <div class="metadata-value">${regionName}</div>
+                </div>
+                <div class="metadata-item">
+                    <div class="metadata-label">Documento</div>
+                    <div class="metadata-value">${term.document}</div>
+                </div>
+                <div class="metadata-item">
+                    <div class="metadata-label">Fuente</div>
+                    <div class="metadata-value">${term.source}</div>
+                </div>
+            `;
+            
+            // Load related images with captions
+            const imagesData = getImagesForTerm(term);
+            const imagesContainer = document.getElementById('modalImages');
+            
+            if (imagesData.length > 0) {
+                imagesContainer.innerHTML = '';
+                const imagesToShow = imagesData.slice(0, 12); // Show up to 12 images
+                imagesToShow.forEach((imgData, index) => {
+                    const imgContainer = document.createElement('div');
+                    imgContainer.className = 'image-container';
+                    imgContainer.onclick = () => viewImage(`images/${imgData.image}`, imgData.caption);
+                    
+                    // Clean caption: remove extra text if too long
+                    let displayCaption = imgData.caption;
+                    if (displayCaption.length > 80) {
+                        displayCaption = displayCaption.substring(0, 77) + '...';
+                    }
+                    
+                    imgContainer.innerHTML = `
+                        <img src="images/${imgData.image}" alt="${term.term}" loading="lazy" onerror="this.parentElement.style.display='none'">
+                        <div class="image-caption" title="${imgData.caption}">${displayCaption}</div>
+                    `;
+                    imagesContainer.appendChild(imgContainer);
+                });
+                
+                // Add info if precise mapping was used
+                if (termImageMap[term.term]) {
+                    const info = document.createElement('p');
+                    info.style.cssText = 'text-align: center; color: #667eea; font-size: 0.9em; margin-top: 15px; font-style: italic;';
+                    info.innerHTML = `✓ ${imagesData.length} figura(s) específica(s) referenciada(s) en la definición`;
+                    imagesContainer.appendChild(info);
+                }
+            } else {
+                imagesContainer.innerHTML = '<p class="no-images">No hay imágenes específicas disponibles para este término</p>';
+            }
+            
+            // Show modal
+            modal.style.display = 'block';
+        }
+        
+        // Get region name for a category
+        function getRegionName(category) {
+            for (const [key, data] of Object.entries(anatomicalRegions)) {
+                if (data.categories.includes(category)) {
+                    return `${data.emoji} ${data.name}`;
+                }
+            }
+            return category;
+        }
+        
+        // Search and open a term by name
+        function searchAndOpenTerm(termName) {
+            // Cerrar modal actual
+            document.getElementById('termModal').style.display = 'none';
+            
+            // Buscar término (case insensitive, exact match first)
+            let term = allTerms.find(t => 
+                t.term.toLowerCase() === termName.toLowerCase()
+            );
+            
+            // If not found, try partial match
+            if (!term) {
+                term = allTerms.find(t => 
+                    t.term.toLowerCase().includes(termName.toLowerCase()) ||
+                    termName.toLowerCase().includes(t.term.toLowerCase())
+                );
+            }
+            
+            // If still not found, try fuzzy match (removing spaces, dashes, commas)
+            if (!term) {
+                const cleanSearch = termName.toLowerCase().replace(/[\s,\-]/g, '');
+                term = allTerms.find(t => {
+                    const cleanTerm = t.term.toLowerCase().replace(/[\s,\-]/g, '');
+                    return cleanTerm.includes(cleanSearch) || cleanSearch.includes(cleanTerm);
+                });
+            }
+            
+            if (term) {
+                // Pequeño delay para permitir que el modal se cierre
+                setTimeout(() => showTermModal(term), 100);
+            } else {
+                console.warn(`Término no encontrado: "${termName}"`);
+                console.log('Términos disponibles similares:', 
+                    allTerms.filter(t => 
+                        t.term.toLowerCase().includes(termName.toLowerCase().substring(0, 5))
+                    ).map(t => t.term).slice(0, 5)
+                );
+                alert(`No se encontró el término: "${termName}"\n\nPor favor, busca el término manualmente en la lista.`);
+            }
+        }
+        
+        // View image in full screen
+        function viewImage(src, caption) {
+            const viewer = document.getElementById('imageViewer');
+            const img = document.getElementById('viewerImage');
+            img.src = src;
+            img.alt = caption || '';
+            img.title = caption || '';
+            viewer.style.display = 'block';
+            
+            // Add click to close on image
+            img.onclick = closeImageViewer;
+        }
+        
+        // Close image viewer
+        function closeImageViewer() {
+            document.getElementById('imageViewer').style.display = 'none';
+        }
+        
+        // Close modal - fix selector to target the term modal specifically
+        document.querySelector('#termModal .close').onclick = function() {
+            document.getElementById('termModal').style.display = 'none';
+        }
+        
+        // Close on outside click
+        window.onclick = function(event) {
+            const modal = document.getElementById('termModal');
+            const viewer = document.getElementById('imageViewer');
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+            if (event.target == viewer) {
+                viewer.style.display = 'none';
+            }
+        }
+        
+        // Close on escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                document.getElementById('termModal').style.display = 'none';
+                document.getElementById('imageViewer').style.display = 'none';
+            }
+        });
+        
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

@@ -1,0 +1,257 @@
+                       SPECIAL ARTICLE
+                                                                                                                                        OFFICIAL JOURNAL
+
+
+
+
+Standard Terminology for Phenotypic Variations: The
+Elements of Morphology Project, Its Current Progress, and                                                                                  www.hgvs.org
+
+Future Directions
+John C. Carey,1 ∗ Judith E. Allanson,2 Raoul C.M. Hennekam,3 and Leslie G. Biesecker4
+1
+ Division of Medical Genetics, Department of Pediatrics, University of Utah, Salt Lake City, Utah; 2 Department of Genetics, Children’s Hospital of
+East Ontario, Ottawa, Canada; 3 Department of Pediatrics, Academic Mental Center, UVA, Amsterdam, the Netherlands; 4 National Human Genome
+Research Institute, National Institutes of Health, Bethesda, Maryland
+For the Deep Phenotyping Special Issue
+Received 1 November 2011; accepted revised manuscript 30 January 2012.
+Published online 13 February 2012 in Wiley Online Library (www.wiley.com/humanmutation).DOI: 10.1002/humu.22053
+
+                                                                                      prevention modalities for patients and their families. In order to
+     ABSTRACT: In 2005, the authors of this article formed                            discuss the role that gene mutations play in the pathogenesis of dis-
+     an international working group to develop standardized                           ease phenotypes, all of the stakeholders in this important process—
+     definitions and terms to describe the physical variations                        clinicians, scientists, and patients and their families—need to have
+     used in human phenotypic analyses. This project, which                           a common language to define the signs, symptoms, and manifesta-
+     came to be known as the Elements of Morphology, re-                              tions of the various conditions, that is, standardized descriptions of
+     sulted in six articles proposing consensus definitions for                       human phenotypic variations. Using similar rationales, the Interna-
+     almost 400 phenotypic variations of the head and face; pe-                       tional Standard Committee on Human Cytogenetic Nomenclature
+     riorbital region; ear, nose, and philtrum; mouth and lips;                       and the Nomenclature Working Group have established standard-
+     and hands and feet. Every variation was accompanied by                           ized definitions in cytogenetics and sequence variations, respectively
+     a representative figure depicting the feature. The articles                      [Carey, 2009].
+     were published in the January 2009 issue of the American                            The advances in molecular biology mentioned above occurred
+     Journal of Medical Genetics Part A and are available for                         because of fruitful collaborations of medical geneticists and labora-
+     free access on both the Journal’s Web page and a National                        tory scientists. During the process of gene discovery, the researchers
+     Institutes of Health-based site. The publication of the Ele-                     identified the need for a language to describe the phenotypes. Al-
+     ments’ definitions has spawned an ongoing dialogue about                         though a number of discussions among clinical geneticists had rec-
+     the proposed terms to describe the phenotype. The work-                          ognized this gap for years, that is, a lack of standardized terminology
+     ing group considered the six articles as only the first step                     for phenotypic variations, it was not until 2004 that formal plans
+     in the process, and four more articles on proposed termi-                        were set forth to convene a working group to propose definitions
+     nology for the trunk, genital region, skin, and remainder                        for the terms used in dysmorphology. In 2005, the authors of this
+     of the limb terms are in preparation. The secondary out-                         article initiated the planning to establish an international group of
+     come of the Elements project is the provision of a working                       clinicians experienced in clinical genetics and dysmorphology with
+     methodology for the establishment of standardized termi-                         the goal of standardizing nomenclature in clinical morphology and
+     nology and definitions for phenotype analysis in general.                        syndromology. Thirty-four individuals representing the three conti-
+     Hum Mutat 33:781–786, 2012. 
+                                 C 2012 Wiley Periodicals, Inc.                       nents, North America, Europe, and Australia, were recruited to join
+                                                                                      six subgroups charged with proposing definitions [Allanson et al.,
+     KEY WORDS: phenotype; definitions; terminology; dys-                             2009a]. Acknowledging this gap in knowledge—a lack of consensus
+     morphology; nomenclature; minor anomalies                                        and standardization of terms—the group formalized the goal of de-
+                                                                                      veloping this needed nomenclature, established a methodology, and
+                                                                                      proposed the standardized definitions through a project that came
+                                                                                      to be known as the Elements of Morphology.
+Introduction                                                                             The aim of the present article is to summarize the methods used
+                                                                                      by this international working group, to highlight the results of the
+   Over the last two decades clinicians, scientists, the media, and                   project, to document some of the outcomes of the project, and
+the general public have witnessed and celebrated remarkable ad-                       to articulate the future directions of the Elements of Morphology
+vances in the molecular basis of human disease. Gene discoveries                      project.
+in laboratories throughout the world in collaboration with medical
+geneticists have detected the underlying genetic cause of more than
+2,000 different human conditions including, for example, cystic fi-                   Methods
+brosis and many congenital malformation syndromes. The inherent
+                                                                                        The original plan of the leaders of the working group was to
+promises of these advances in knowledge of human genetics include
+                                                                                      delineate definitions for all the terms in the London Dysmor-
+improvements in diagnosis and the development of treatment and
+                                                                                      phology Database (LDDB, currently referred to as the Winter–
+                                                                                      Baraitser Dysmorphology Database; http://www.lmdatabases.com),
+    ∗Correspondence to: John C. Carey, American Journal of Medical Genetics, 419      a computerized resource for syndrome diagnosis [Merks et al.,
+Wakara Way, Suite 213, Salt Lake City, UT 84108. E-mail: john.carey@hsc.utah.edu      2003]. The participants agreed that this list of 683 features was
+
+                                                                                                                  
+                                                                                                                  C   2012 WILEY PERIODICALS, INC.
+Figure 1. The drawings show the major anatomical landmarks of the face (left) and anthropological landmarks (right). (These drawings were
+taken from Figs. 1 and 2 in Allanson et al. [2009b] and are reproduced here with permission.)
+
+the right place to initiate the process of definition of phenotypic
+variations; however, completion of this entire list of physical fea-
+tures was a daunting task. Therefore, the group chose to begin the
+project by narrowing the choice of terms to the craniofacial region
+and the hands and feet. The terms for these areas of the body were
+considered to be the most commonly used in the field to describe
+patients and delineate syndromes. This narrowed the list to just over
+400 features in the LDDB.
+   Starting with this list, the 34 members were divided into the six
+working subgroups (see Table I in Allanson et al. [2009a]), which in-
+cluded the head and face; periorbital region; ear, nose, and philtrum;
+lips and mouth; and hands and feet. The group leaders then assigned
+about 10–15 features to each member of their respective subgroup,
+who were charged with defining each feature on their list and propos-
+ing a working definition for the entire group. The working group
+met initially in September 2005 at the National Institutes of Health
+(NIH) and again in November 2006 in Rome, Italy. The process
+of developing the consensus definitions was time consuming and
+stringent; it involved the drafting of the assigned definitions, atten-
+dance at the two meetings, hundreds of E-mails, perusal of over
+400 figures, 2 years of revisions of the proposed definitions, and five
+Web-based conference calls by the four committee chairs who are
+authors of this article. The participants of each of the groups had
+input on all of the definitions in the other areas of the body. The
+committee chairs finalized the definitions and proposed them for
+review and discussion as the process proceeded to its 4-year con-
+clusion and submission of the articles to the American Journal of          Figure 2. This photograph provides an example of a defined variation
+Medical Genetics.                                                          of the face, a Broad Face. See Box 1 for the standardized definition.
+                                                                           (Republished from Allanson et al. [2009b] with permission.)
+
+Results
+   At the first meeting, the group established a standard format and       anthropological landmarks of the region (see Fig. 1 for an example
+template to provide a definition and description to be accompanied         of these drawings). Box 1 displays the standard terminology for a
+by a figure for every variation. In addition, the authors contributed      variation of the face shape, that is, Broad face (Fig. 2) as an ex-
+a series of definitions of the anatomy of that particular region of        ample of the template. Each definition was stated in a dictionary
+the body accompanied by drawings of important anatomical and               format, refers to its accompanying figure, and, whenever possible,
+
+782           HUMAN MUTATION, Vol. 33, No. 5, 781–786, 2012
+                                                                          Figure 4. This photograph displays an example of a Long Finger,
+Figure 3. This drawing illustrates the method used to measure the ear     which can be determined by objective measurement. (Republished from
+length to determine a Long Ear. (Republished from Hunter et al. [2009b]   Biesecker et al. [2009] with permission.)
+with permission.)
+
+
+provided both an objective statement (utilizing means and standard           During the process of consensus building, the working group
+deviations of facial measurement when available) and a subjective         made an effort to eliminate the following from the definitions:
+definition. Comments on the individual features were appended to          all pejorative terms (see Box 2 as an example), bundled terms (a
+the definition when appropriate (see Box 1). The preferred term           term that represents two or more component findings, such as large
+for the feature was always stated but when appropriate, acceptable        nose [Hennekam et al., 2009]), and features requiring radiographs
+synonyms were listed. Terms that were not considered the recom-           to define (e.g., hypodontia and oligodontia) [Carey et al., 2009]).
+mended one for the feature were listed in alphabetical order but          Additionally, the group decided to exclude discussions of either
+then referred to the appropriate term (see Box 1, brows).                 the pathogenesis or the differential diagnosis of the included fea-
+                                                                          tures. These latter aspects are clearly important but were not con-
+ Box 1. Example of a Standardized Definition for Face                     sidered as the objective of this particular project [Allanson et al.,
+ Shape Variation                                                          2009a].
+
+
+ Face                                                                      Box 2. Examples of Removal of Pejorative Terms
+   Brows, prominent: See Supraorbital ridges, prominent
+                                                                           Mouth, Downturned Corners of
+   Brows, underdeveloped: See Supraorbital ridges, underde-
+ veloped                                                                      Definition: Oral commissures positioned inferior to the mid-
+                                                                           line labial fissure (Fig. 21 in Carey et al. [2009]) subjective
+ Face, Broad                                                                  Comment: This finding should be assessed with the mouth
+                                                                           closed, the lips in relaxed contact, and the face relaxed. The
+    Definition: Objective: Bizygomatic (upper face) and bigonial           finding may be difficult to assess if the lower lip is enlarged.
+ (lower face) width greater than 2 SD above the mean.                         Replaces: Carp mouth; Fish mouth (pejorative terms)
+    Subjective: An apparent increase in the width of the face
+    Comments: Objective measurement of upper facial width is
+ made with spreading calipers. The tips of the calipers are passed           Needless to say, there was much discussion and often disagree-
+ over the zygomatic arches until maximum width is determined.             ment; however, a consensus was reached on the inclusion and def-
+ Objective measurement of the lower face is made with spreading           inition of each feature. An example of disagreement is the entry of
+ calipers, with the tips firmly pressed against the inferomedial          Coarse Face. Some members of the group considered coarse face
+ surface of the angle of the mandible. Broad face is distinct from        a pejorative term for patients and families. It was also one of the
+ Round face.                                                              exceptions to the rule of exclusion of bundle terms. However, the
+
+                                                                                      HUMAN MUTATION, Vol. 33, No. 5, 781–786, 2012       783
+Figure 5. These figures demonstrate the anatomical landmarks of the periorbital region and the landmarks used to perform the various
+measurements of the eye. (Republished from Hall et al. [2009] with permission.)
+
+
+consensus of the group was that it was still a “useful term” if used in   many of the standardized definitions: When a gradation from one
+its proper designation [Allanson et al., 2009b].                          end of a spectrum to the other could be demonstrated by the fig-
+   The working group recommended that, when available, the ex-            ure, such a figure range was provided and explained [Hunter et al.,
+aminer or researcher should always use the objective version of the       2009b].
+definition rather than the subjective. Figures 3–5 display figures that
+exemplify this point. Certainly, as is shown in Figures 3 and 4, it is
+better to measure an ear or hand with a ruler and plot the measure-       Discussion
+ment on the published curves rather than refer to either structure
+as “long” [Biesecker et al., 2009; Hunter et al., 2009]. Figure 5 de-        The six articles representing terms for these body regions were
+picts the periorbital anatomy with the appropriate landmarks for          published in the January 2009 issue of the American Journal of Med-
+measuring changes in eye spacing, a commonly used measurement             ical Genetics Part A [Allanson et al., 2009b; Biesecker et al., 2009;
+by clinicians [Hall et al., 2009]. Figure 6 refers to another aspect of   Carey et al., 2009; Hall et al., 2009; Hennekam et al., 2009; Hunter
+
+784           HUMAN MUTATION, Vol. 33, No. 5, 781–786, 2012
+Figure 6. Photographs showing a continuum of alterations of the inferior crus of the antihelix. A: A thin crus, B: An average crus, and C: A
+thickened crus. (Republished from Hunter et al. [2009b] with permission.)
+
+
+et al., 2009b]. The articles are available under the terms of the Cre-        et al. (2009) applied the definitions in assessing the external ear
+ative Commons License, and readers who do not have a subscrip-                in Cornelia de Lange syndrome. Wilson (2010) provided a “user’s
+tion to the American Journal of Medical Genetics Part A can see and           guide” and commented on the application of the Elements terms.
+download the articles. Access to the Elements of Morphology articles          Möhrenschlager et al. (2010) questioned the definition of the term,
+is provided on the Wiley online library Website for the American              central flaring of the eyebrow, and Hall and Hennekam (2010) re-
+Journal of Medical Genetics, Part A (left-hand column, SPECIAL                sponded to the query. In addition, Hunter (2010) proposed defini-
+FEATURES). In addition, one of us (L.G.B.) created a National Hu-             tions of the incisura of the ear, which had not been included in the
+man Genome Research Institute (NHGRI) Website that includes all               original Elements.
+of the individual features in all six articles available on the Elements of      Moreover, one of the authors of this article (J.C.C.) has applied all
+Morphology site (http://elementsofmorphology.nih.gov/index.cgi)               of the definitions in the Elements into the development of a validated
+[Biesecker and Carey, 2011]. In their editorial, Biesecker and Carey          photographic and physical assessment instrument to be used in the
+(2011), editors of the American Journal of Medical Genetics, have             National Children’s Study (NCS, www.nationalchildrensstudy.gov),
+implemented the use of Elements of Morphology terminology in all              a multistate NIH-funded national investigation designed to recruit
+manuscripts that use these related terms submitted to the Journal.            thousands of US women early in pregnancy, track their outcomes,
+In addition, the authors of this present article have contacted the           and examine the effects of environment and genetics on the health
+editors of human and medical genetics journals requesting the inclu-          of children. The abstract describing this project and other related
+sion of the standardized terms into manuscripts submitted to their            abstracts from the NCS will be published in an upcoming conference
+journals and asking for the requirement of usage into the instruc-            report in the American Journal of Medical Genetics.
+tions for authors at their respective journals. The following sister             The NHGRI-hosted Website also includes a comment function
+journals concurred with this recommendation and have required                 that allows users to suggest changes to the terminology. Lastly and
+the use of the Elements terminology in their respective journals: the         notably, the Publishers of the American Journal of Medical Genetics,
+American Journal of Human Genetics, Clinical Genetics, the European           Wiley-Blackwell, have indicated to the authors that there have been
+Journal of Medical Genetics, and Clinical Dysmorphology.                      over 21,000 downloads of the six terminology articles from the
+   A number of international presentations and articles have fol-             Journal’s Web pages as of October 2011 [Paalman, 2011, personal
+lowed the publication of this first portion of the Elements of Mor-           communication].
+phology project: Some of the authors of this article (J.C.C. and J.E.A.)
+presented an overview and examples of the implementation of the               Future Directions
+standardized definitions at an Invited Session of the 2009 American
+Society of Human Genetics meetings in Hawaii. Plans for such ad-                 The publication of the six articles on the Elements of Morphology
+ditional workshops are underway. In 2009, Kosaki orchestrated the             project is only the initial stage of the project. The leaders of the
+translation of all of the definitions in the Elements of Morphology           working group are planning to complete the remaining 380 find-
+into Japanese and published these in the August 2010 issue of the             ings in the LDDB that include the body segments of chest, trunk
+Japanese Journal of Pediatric Medicine (www.tokyo-igakusha.co.jp)             and abdomen, genitalia, the remainder of the limbs, and skin. The
+(Carey, 2010). This included the original figures, accompanied by             working draft of the terminology and definitions for the genital re-
+the definitions translated into Japanese. Discussions to facilitate           gion has now been submitted to the authors (and other experts) and
+publication of the Elements into Polish are currently occurring, and          is currently under critical review before finalization and submission
+plans to publish the Elements of Morphology in other languages are            for publication. Eventually, we would hope that there would be a
+ongoing.                                                                      permanent committee with rotating membership, elected leader-
+   Since the publication of the Elements articles in 2009, numerous           ship, and funded activities. In acknowledgement of the goals of the
+articles have appeared in the American Journal of Medical Genetics            Elements of Morphology project, the American Journal of Medical
+adding to, commenting on, or clarifying the definitions: Hunter               Genetics announced a Call for Articles for December 2011–January
+
+                                                                                           HUMAN MUTATION, Vol. 33, No. 5, 781–786, 2012         785
+2012 on growth charts on individuals with syndromes and on mea-                          Biesecker LG, Carey JC. 2011. Implementing the elements of morphology in the
+surements of individual features.                                                             American Journal of Medical Genetics. Am J Med Genet Part A 155A:969–
+                                                                                              971.
+   The ultimate goal of the Elements project is to provide a frame-
+                                                                                         Carey JC. 2009. Editorial comment: Editor’s foreword to a special issue “Elements of
+work for phenotypic definition and standardization of terms for                               Morphology: Standard Terminology”. Am J Med Genet Part A 149A:1.
+all systems of the body and in all medical arenas. The authors                           Carey JC. 2010. Preface to Special Issue “Elements of Morphology: Standard Ter-
+strongly recommend that all articles in any publication that re-                              minology” Japanese Version, Japanese Journal of Pediatric Medicine 42:1253–
+ports on human mutations include accurate and detailed pheno-                                 1254.
+                                                                                         Carey JC, Cohen MM Jr, Curry CJR, Devriendt K, Holmes LB, Verloes A. 2009. Elements
+typic descriptions of the genotyped individuals. Without that, pre-                           of morphology: standard terminology for the lips, mouth, and oral region. Am J
+cise phenotype–genotype correlations cannot be established.                                   Med Genet Part A 149A:77–92.
+                                                                                         Hall BD, Graham Jr JM, Cassidy SB, Opitz JM. 2009. Elements of morphology: standard
+                                                                                              terminology for the periorbital region. Am J Med Genet Part A 149A:29–39.
+Acknowledgments                                                                          Hall BD, Hennekam RCM. 2010. Response to central flaring of eyebrow by
+                                                                                              Möhrenschlager et al. Am J Med Genet Part A 152A:1601.
+The authors acknowledge and appreciate the efforts and 4 years of hard                   Hennekam RCM, Cormier-Daire V, Hall J, Méhes K, Patton M, Stevenson R. 2009.
+work of all of the participants of the working group. They are grateful for                   Elements of morphology: standard terminology for the nose and philtrum. Am J
+the administrative expertise provided by Feliz Martinez in the preparation                    Med Genet Part A 149A:61–76.
+of this manuscript.                                                                      Hunter AG. 2010. The elements of morphology: ear—an initial approach for the in-
+                                                                                              cisura. Am J Med Genet Part A 152A:401–403.
+    Disclosure Statement: The authors declare no conflict of interest.
+                                                                                         Hunter AG, Collins JS, Deardorff MA, Krantz ID. 2009a. Detailed assessment of the ear
+                                                                                              in Cornelia de Lange syndrome: comparison with a control sample using the new
+                                                                                              dysmorphology guidelines. Am J Med Genet Part A 149A:2181–2192.
+References                                                                               Hunter AG, Frias J, Gillessen-Kaesback G, Hughes H, Jone K, Wilson L. 2009b. Elements
+                                                                                              of morphology: standard terminology for the ear. Am J Med Genet Part A 149A:40–
+Allanson JE, Biesecker LG, Carey JC, Hennekam RCM. 2009a. Elements of morphology:             60.
+     introduction. Am J Med Genet Part A 149A:2–5.                                       Merks JHM, van Karnebeek CDM, Caron HN, Hennekam RCM. 2003. Phenotypic
+Allanson JE, Cunniff C, Hoyme HE, McGaughran J, Muenke M, Neri G. 2009b. Elements             abnormalities: terminology and classification. Am J Med Genet Part A 123A:211–
+     of morphology: standard of terminology for the head and face. Am J Med Genet             230.
+     Part A 149A:6–28.                                                                   Möhrenschlager M, Ring J, Lauener R. 2010. Central flaring of eyebrow. Am J Med
+Biesecker LG, Aase JM, Clericuzio C, Gurrieri F, Temple IK, Toriello H. 2009. Elements        Genet Part A 152A:1600.
+     of morphology: standard terminology for the hands and feet. Am J Med Genet          Wilson GN. 2010. A user’s guide to the elements of standard morphologic terminology:
+     Part A 149A:93–127.                                                                      analysis and database. Am J Med Genet Part A 152A:1627–1629.
+
+
+
+
+786              HUMAN MUTATION, Vol. 33, No. 5, 781–786, 2012
+

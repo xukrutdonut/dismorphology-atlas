@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  morphology-atlas:
+    build: .
+    container_name: morphology-atlas
+    ports:
+      - "8888:80"
+    restart: unless-stopped
+    labels:
+      - "com.morphology.atlas.description=Interactive Morphological Terminology Atlas"
+    healthcheck:
+      test: ["CMD-SHELL", "nc -z localhost 80 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s

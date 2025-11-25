@@ -1,0 +1,337 @@
+                            NIH Public Access
+                            Author Manuscript
+                            Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+                           Published in final edited form as:
+NIH-PA Author Manuscript
+
+
+
+
+                            Am J Med Genet A. 2009 January ; 149A(1): 2–5. doi:10.1002/ajmg.a.32601.
+
+
+
+                           Elements of Morphology: Introduction
+                           Judith E Allansona, Leslie G Bieseckerb, John C Careyc, and Raoul CM Hennekamd
+
+                           a Department of Genetics, Children's Hospital of Eastern Ontario, Ottawa, Canada b National
+
+                           Human Genome Research Institute, National Institutes of Health,, Bethesda, Maryland, USA c
+                           Division of Medical Genetics, Department of Paediatrics, University of Utah, Salt Lake City, USA d
+                           Clinical and Molecular Genetics Unit, Institute of Child Health, Great Ormond Street Hospital,
+                           UCL, London, UK and Department of Paediatrics, Academic Medical Center, UVA, Amsterdam,
+                           The Netherlands
+
+                           Abstract
+                                An international group of clinicians working in the field of dysmorphology has initiated the
+NIH-PA Author Manuscript
+
+
+
+
+                                standardization of terms used to describe human morphology. The goals are to standardize these
+                                terms and reach consensus regarding their definitions. In this way, we will increase the utility of
+                                descriptions of the human phenotype and facilitate reliable comparisons of findings among
+                                patients. Discussions with other workers in dysmorphology and related fields, such as
+                                developmental biology and molecular genetics, will become more precise. Here we describe the
+                                general background of the project and the various issues we have tried to take into account in
+                                defining the terms.
+
+
+                           Keywords
+                                nomenclature; definitions; morphology; dysmorphology; birth defects; malformations; minor
+                                anomalies; common variants
+
+
+                           Introduction
+                                            This issue of the Journal contains six articles that describe the initial results of a project
+                                            intended to develop accurate and clear definitions of terms for the craniofacies in general,
+NIH-PA Author Manuscript
+
+
+
+
+                                            the major components of the face, and the hands and feet (Allanson et al., 2009; Biesecker et
+                                            al, 2009; Carey et al., 2009; Hall et al., 2009; Hennekam et al., 2009; Hunter et al., 2009).
+                                            These articles are the result of a significant amount of planning, organization, negotiation,
+                                            review, and writing, while, at the same time, they are but a start.
+
+                                            Dysmorphology evolved from a small nucleus of clinicians in the 1950s into a recognized
+                                            and widely practiced discipline, and more recently has incorporated translational research
+                                            into developmental biology, molecular genetics, and metabolic medicine. The terms that
+                                            clinicians use to describe a body part have gradually evolved in a haphazard and
+                                            uncoordinated manner, and have not been critically reviewed. Clinicians and researchers
+                                            have always made comparisons among patients and syndromes, and in the last decade it has
+                                            become increasingly possible and necessary to use clinical data for studies of etiology and
+                                            pathogenesis, epidemiology, the isolation of causative gene mutations, and for evaluation of
+
+
+
+                           Correspondence to: Dr RCM Hennekam, Clinical and Molecular Genetics Unit, Institute of Child Health, 30 Guilford Street, London
+                           WC1N 1EH, UK. Tel.: + 44 20 7905 2608; fax: + 44 20 7905 2832. E-mail: r.hennekam@ich.ucl.ac.uk.
+                           Allanson et al.                                                                                             Page 2
+
+
+                                             interventions. Therefore, we need to have uniform and internationally accepted terms to
+                                             describe the human phenotype.
+NIH-PA Author Manuscript
+
+
+
+
+                              Organization of the Project
+                                             Several years ago, after many informal discussions, we brought together an international
+                                             group of clinicians working in the field of dysmorphology with the goal of standardizing this
+                                             nomenclature. The participants were chosen for their knowledge of morphology, syndromes,
+                                             and skills in syndrome delineation. Because we anticipated that the group would need to
+                                             gather several times and we recognized financial constraints, we restricted the group to 34
+                                             individuals and had to accept that many excellent colleagues could not be invited to join the
+                                             project.
+
+                                             Our original goal was to review, revise if necessary, and delineate definitions for all of the
+                                             terms used in the London Dysmorphology Databases (n=683). However, recognizing the
+                                             enormity of the task, we chose to begin the project with the cranium, the face and its
+                                             features, and the hands and feet – the parts of the body that are often used in dysmorphology
+                                             to describe patients and delineate syndromes.
+
+                                             We set out to accomplish this work in six teams, each focused on a particular area of the
+                                             human body. While much of our work has been carried out in small groups using electronic
+                                             communication, we have met as a large group on two occasions: in Bethesda in December,
+NIH-PA Author Manuscript
+
+
+
+
+                                             2005 (host: Leslie G Biesecker) and Rome in November, 2006 (hosts: Giovanni Neri and
+                                             Fiorella Gurrieri) (Fig. 1). These face-to-face meetings were invaluable in expediting the
+                                             process and allowing discussion of principles and initial points of disagreement, of which
+                                             there were many.
+
+                              Attributes of the Terms
+                                             For each feature we provide a preferred term and use a standard format to provide a
+                                             definition and description of how to observe and measure (where possible) the feature. For
+                                             many of the terms, both subjective and objective definitions of terms are provided. When an
+                                             objective assessment can be made, this is always preferable to the subjective. A few terms
+                                             have multiple alternative objective definitions. Typically, this reflects multiple sets of norms
+                                             for a quantitative trait and, in such cases, each definition is equally valid.
+
+                                             Our aim is to formalize, unify, and standardize the approach to clinical assessment in the
+                                             hope that it will become generally accepted and applied. For each term we have added
+                                             relevant comments and synonyms, and indicated terms that should no longer be used. Most
+                                             clinicians have at least a few terms of which they are inordinately fond. In spite of these
+NIH-PA Author Manuscript
+
+
+
+
+                                             personal biases, our goal is to make a universal language to describe morphology. We have
+                                             avoided terms that indicate pathogenesis or an active process; we aspired to simply describe
+                                             what can be observed.
+
+                                             We recognize that a number of terms in common usage may be considered pejorative in
+                                             some or all cultures. We have created alternative descriptors in these cases, even if they are
+                                             not in current common usage. The definitions are intended to be applied broadly, thus we
+                                             avoided obscure terms, flowery language, etc. We have tried to apply a standard format that
+                                             would be readily understandable by a medical student who has completed training in
+                                             physical diagnosis.
+
+                                             In addition to standardized terms and definitions, we aimed to provide clear illustrations of
+                                             each feature. We have used our joint collection of pictures and the extensive Robert J.
+                                             Gorlin slide collection which is the series of digitalized slides that Prof Gorlin gathered
+
+
+                                               Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+                           Allanson et al.                                                                                             Page 3
+
+
+                                             during his long career available to one of us (RCMH). It is important that readers recognize
+                                             that a given photograph may include multiple findings. Where possible, photographs have
+                                             been cropped to avoid showing other signs and to emphasize one feature. We tried to show
+NIH-PA Author Manuscript
+
+
+
+
+                                             variable expression of the features, both mild and severe.
+
+                                             The terms are intended for clinical evaluation of the individual using observation, palpation,
+                                             or simple morphometric techniques (such as measuring of inner canthal distance). We
+                                             provide basic general principles for measuring each of the body parts, and indicate in the
+                                             definitions if a reliable measurement is possible and if norms are available. However,
+                                             extensive description of morphometric techniques is outside the scope of this effort and
+                                             readers should consult authoritative sources for this information (Farkas L Anthropometry of
+                                             the Head and Face in Medicine. Elsevier, 1981; and Hall JG, Allanson JE, Gripp KW,
+                                             Slavotinek AM. Handbook of Physical Measurements, 2nd Edition, OUP, 2007). We have
+                                             referenced the most important standards for each of the body parts. The present project was
+                                             not intended to generate new normative data, novel objective assessment techniques, or
+                                             novel morphologic features. We acknowledge a tremendous lack of data on ethnic groups
+                                             other than Caucasian, and we encourage efforts to address this deficiency.
+
+                                             The use of radiographs as part of morphologic assessments (such as a hand radiograph to
+                                             distinguish a broad thumb from a bifid thumb) was controversial in the group. Although we
+                                             decided not to use radiographic findings in the definitions and only use data obtained
+NIH-PA Author Manuscript
+
+
+
+
+                                             through surface examination, this issue will need to be re-evaluated.
+
+                                             We provide only limited and general anatomical background and have avoided more
+                                             substantive explanations and reviews of what is known (or hypothesized) about the
+                                             mechanism of the genesis of the physical findings. This is for several reasons. First, other
+                                             excellent texts provide thorough discussions of this topic (Sadler TW, Langman J
+                                             Langman's Medical Embryology 8th Ed, Lippincott Williams & Wilkins, 2000; Moore KL,
+                                             Dalley AF Clinical Oriented Anatomy, 5th Ed, Lippincott Williams & Wilkins, 2005).
+                                             Second, our understanding of the genesis of an anatomical finding is likely to change over
+                                             time, and we did not want the definitions to change should this occur. Third, the current
+                                             debate about the proposed genesis of many of the findings could detract from the intended
+                                             goals of this work.
+
+                                             We emphasize that the terms deliberately avoid any commentary about normal or abnormal
+                                             status, even when this is obvious (such as a proboscis). This is because many morphological
+                                             findings are commonly observed as isolated features in the normal population. There can
+                                             also be a remarkable difference in frequency of a finding among various populations. The
+                                             objectively determined findings are by definition abnormal in a normative, statistical sense.
+NIH-PA Author Manuscript
+
+
+
+
+                                             However, even in these cases, the individual should simply be considered to have the
+                                             feature, and no judgment of normal or abnormal status is made.
+
+                                             We have elected not to provide differential diagnoses for the features as such lists could be
+                                             very long or incomplete. Syndromes are typically diagnosed by combinations of features,
+                                             and therefore differential diagnoses of single features are of limited utility. Readers should
+                                             consult databases of medical dysmorphology for this information (London Dysmorphology
+                                             Databases, version 1.0.14, 2008; POSSUM web version 2008).
+
+                                             Bundling is a word we have used to describe a term that represents two or more component
+                                             findings. The term “large nose” can serve as an example of a bundled term as the term
+                                             comprises several distinct features: prominent nose; wide nasal ridge; prominent nasal tip;
+                                             and broad nasal base. We have eliminated most bundled terms as they often include
+                                             presumptions of pathogenesis or association, which may or may not be correct. Bundling is
+                                             also problematic because it can obscure component abnormalities and if individuals are
+
+                                               Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+                           Allanson et al.                                                                                                               Page 4
+
+
+                                             described using both the single bundled term and the component terms, it can lead to
+                                             confusion. A number of terms have remained bundled, as we felt that the utility of the
+                                             bundled term outweighed the potential pitfalls of bundling. If a term is considered to be
+NIH-PA Author Manuscript
+
+
+
+
+                                             bundled, this is mentioned in the definition and the individual components are indicated in
+                                             the description.
+
+                              The Future of the Terminology Project
+                                             While the project thus far has taken more than five years, there is a long road ahead. The
+                                             present series of papers should be considered a starting point, and we enthusiastically solicit
+                                             input from colleagues within and beyond the field of dysmorphology on some of the
+                                             difficult issues described here to correct, edit, modify, or extend the definitions. We
+                                             acknowledge that we are a self-selected special interest group and do not claim to represent
+                                             the international dysmorphology community. We want the definitions to be available and
+                                             useful to a large community of clinicians and researchers. Thus, we plan to distribute them
+                                             to other expert groups including dentists, ophthalmologists, dermatologists and other non-
+                                             geneticists for comments in their area of expertise. Our intent is to use this input to refine the
+                                             terms and definitions, add the body parts that we have not yet defined, and publish the
+                                             complete group of terms needed to describe the human phenotype as a monograph. With
+                                             time we hope to make them available in other languages.
+NIH-PA Author Manuscript
+
+
+
+
+                                             We are presently working on adapting the working groups that established the definitions
+                                             presented here into a permanent international nomenclature committee, such as the ones that
+                                             exist in cytogenetics (International Standard of Cytogenetic Nomenclature) and molecular
+                                             genetics (The Human Genome Variation Society nomenclature recommendations). Such a
+                                             committee could periodically review the definitions and change them where necessary.
+                                             Edward Sapir (1884-1939) is famous for his axiom “Language structures thought”. We hope
+                                             our joint effort will help to structure the language we use in dysmorphology.
+
+                              Acknowledgments
+                                             We are grateful for financial support from the Birth Defects Foundation – Newlife (UK), Institute of Child Health
+                                             (UK), National Foundation of the March of Dimes (USA), National Human Genome Research Institute (USA),
+                                             Catholic University of Rome (Italy), and John Wiley and Sons publishing. In the initial phase of the project Drs
+                                             Heval Ozgen and Jan Maarten Cobben (Amsterdam) provided invaluable input.
+
+
+                              References
+                                             Allanson JE, Cunniff C, Hoyme HE, McGaughran J, Muenke M, Neri G. Elements of morphology:
+                                               head and face. Am J Med Genet. 2009
+NIH-PA Author Manuscript
+
+
+
+
+                                             Biesecker LG, Aase JM, Clericuzio C, Gurrieri F, Temple K, Toriello H. Elements of morphology:
+                                               hands and feet. Am J Med Genet. 2009
+                                             Carey JC, Cohen MM Jr, Curry C, Devriendt K, Holmes L, Verloes A. Elements of morphology: oral
+                                               region. Am J Med Genet. 2009
+                                             Hall BD, Graham JM Jr, Cassidy SB, Opitz JM. Elements of morphology: periorbital area. Am J Med
+                                               Genet. 2009
+                                             Hennekam RCM, Cormier-Daire V, Hall J, Méhes K, Patton M, Stevenson R. Elements of
+                                               morphology: nose and philtrum. Am J Med Genet. 2009
+                                             Hunter A, Frias J, Gillessen-Kaesbach G, Hughes H, Jones K, Wilson L. Elements of morphology:
+                                               Ear. Am J Med Genet. 2009
+
+
+
+
+                                                Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+                           Allanson et al.                                                                                                Page 5
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                             Figure 1.
+                                             Nomenclature group members present in November 2006 in Rome (Suzanne Cassidy was
+                                             also present but could not be depicted on this picture). From left to the right are visible (first
+                                             row) Helga Toriello, Cynthia Curry, Julie McGaughran, M Michael Cohen Jr, Louise
+                                             Wilson, John Carey, Fiorella Gurrieri, Valerie Cormier-Daire, (second row) Jaime Frias,
+                                             Giovanni Neri, Judith Allanson, Judith Hall, Karen Temple, Alain Verloes, (third row)
+                                             Michael Patton, Alasdair Hunter, Gene Hoyme, Helen Hughes, John M Graham Jr, (fourth
+                                             row) Roger Stevenson, Leslie Biesecker, Koen Devriendt, Bryan Hall, and Raoul
+                                             Hennekam.
+NIH-PA Author Manuscript
+
+
+
+
+                                               Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+                           Allanson et al.                                                                                                             Page 6
+
+
+
+
+                                                                                             Table
+                                             Nomenclature Subgroups and their members
+NIH-PA Author Manuscript
+
+
+
+
+                           (the chair of each group is in italics)
+
+                            Head and Face: Judith E. Allanson Chris Cunniff Gene Hoyme Julie McGaughran Max Muenke Giovanni Neri
+                            Hands and Feet: Leslie G. Biesecker Jon M. Aase Carol Clericuzio Fiorella Gurrieri Karen Temple Helga Toriello
+                            Mouth: John C. Carey M. Michael Cohen Jr Cynthia Curry Koen Devriendt Lewis Holmes Alain Verloes
+                            Ear: Alasdair G. W. Hunter Jaime Frias Gabrielle Gillessen-Kaesbach Ken Jones Helen Hughes Louise Wilson
+                            Periorbital structures: Bryan D. Hall John M. Graham Jr Suzanne B. Cassidy John M. Opitz
+                            Nose and Philtrum: Raoul C. M. Hennekam Valerie Cormier-Daire Judith G. Hall Karoly Méhes Michael Patton Roger Stevenson
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+
+
+
+                                                    Am J Med Genet A. Author manuscript; available in PMC 2010 January 1.
+

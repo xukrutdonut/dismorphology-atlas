@@ -1,0 +1,113 @@
+{
+  "total_documents": 22,
+  "total_images": 694,
+  "categories": {
+    "ear": {
+      "document_count": 3,
+      "image_count": 76,
+      "total_text_length": 104261,
+      "titles": [
+        "Ag - 2010 - The elements of morphology ear--an initial approa",
+        "Hunter et al. - 2009 - Elements of morphology Standard terminology for the ear",
+        "Klinger y Merlob - 2009 - Elements of morphology Standard terminology for the ear—Additional features"
+      ]
+    },
+    "introduction": {
+      "document_count": 1,
+      "image_count": 2,
+      "total_text_length": 25356,
+      "titles": [
+        "Allanson et al. - 2009 - Elements of morphology Introduction"
+      ]
+    },
+    "general": {
+      "document_count": 7,
+      "image_count": 4340,
+      "total_text_length": 30135,
+      "titles": [
+        "Allanson et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Biesecker et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Carey et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Hall et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Hennekam et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Hunter et al. - 2009 - Elements of morphology Standard terminology for t",
+        "Klinger y Merlob - 2009 - Elements of morphology Standard terminology for t"
+      ]
+    },
+    "head_face": {
+      "document_count": 1,
+      "image_count": 75,
+      "total_text_length": 93921,
+      "titles": [
+        "Allanson et al. - 2009 - Elements of morphology Standard terminology for the head and face"
+      ]
+    },
+    "hands_feet": {
+      "document_count": 1,
+      "image_count": 103,
+      "total_text_length": 169897,
+      "titles": [
+        "Biesecker et al. - 2009 - Elements of morphology Standard terminology for the hands and feet"
+      ]
+    },
+    "lips_mouth": {
+      "document_count": 1,
+      "image_count": 58,
+      "total_text_length": 77498,
+      "titles": [
+        "Carey et al. - 2009 - Elements of morphology Standard terminology for the lips, mouth, and oral region"
+      ]
+    },
+    "phenotypic_variations": {
+      "document_count": 3,
+      "image_count": 23,
+      "total_text_length": 210084,
+      "titles": [
+        "Carey et al. - 2012 - Standard terminology for phenotypic variations Th",
+        "Carey et al. - 2012 - Standard terminology for phenotypic variations The Elements of Morphology project, its current prog",
+        "Merks et al. - 2003 - Phenotypic abnormalities terminology and classifi"
+      ]
+    },
+    "periorbital": {
+      "document_count": 1,
+      "image_count": 41,
+      "total_text_length": 64688,
+      "titles": [
+        "Hall et al. - 2009 - Elements of morphology Standard terminology for the periorbital region"
+      ]
+    },
+    "nose_philtrum": {
+      "document_count": 1,
+      "image_count": 55,
+      "total_text_length": 79089,
+      "titles": [
+        "Hennekam et al. - 2009 - Elements of morphology Standard terminology for the nose and philtrum"
+      ]
+    },
+    "genitalia": {
+      "document_count": 1,
+      "image_count": 52,
+      "total_text_length": 113324,
+      "titles": [
+        "Hennekam et al. - 2013 - Elements of morphology Standard terminology for the external genitalia"
+      ]
+    },
+    "other": {
+      "document_count": 1,
+      "image_count": 51,
+      "total_text_length": 93873,
+      "titles": [
+        "Hennekam et al_2013_Elements of morphology"
+      ]
+    },
+    "teeth": {
+      "document_count": 1,
+      "image_count": 62,
+      "total_text_length": 733138,
+      "titles": [
+        "de La Dure-Molla et al. - 2019 - Elements of morphology Standard terminology for the teeth and classifying genetic dental disorders"
+      ]
+    }
+  },
+  "total_terms": 128
+}

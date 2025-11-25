@@ -1,0 +1,18 @@
+{
+  "total_images": 1138,
+  "categories": {
+    "ear": 76,
+    "head_face": 75,
+    "hands_feet": 103,
+    "lips_mouth": 58,
+    "periorbital": 41,
+    "nose_philtrum": 55,
+    "genitalia": 52,
+    "teeth": 62,
+    "general": 4340,
+    "phenotypic_variations": 23,
+    "other": 51,
+    "introduction": 2
+  },
+  "image_list": []
+}

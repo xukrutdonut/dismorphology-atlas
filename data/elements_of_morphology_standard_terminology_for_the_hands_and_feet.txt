@@ -1,0 +1,1883 @@
+         RESEARCH ARTICLE
+
+
+Elements of Morphology: Standard Terminology for the
+Hands and Feet
+Leslie G. Biesecker,1* Jon M. Aase,2 Carol Clericuzio,3 Fiorella Gurrieri,4 I. Karen Temple,5
+and Helga Toriello6
+1
+    National Human Genome Research Institute, NIH, Bethesda, Maryland
+2
+    University of New Mexico School of Medicine, Albuquerque, New Mexico
+3
+    University of New Mexico School of Medicine, Albuquerque, New Mexico
+4
+    Institute of Medical Genetics, Catholic University of Rome, Rome, Italy
+5
+    Wessex Clinical Genetics Academic Group, University of Southampton, Southampton, United Kingdom
+6
+    Spectrum Health, Grand Rapids, Michigan
+
+Received 25 September 2008; Accepted 15 October 2008
+
+
+An international group of clinicians working in the field of
+dysmorphology has initiated the standardization of terms used                                                                How to Cite this Article:
+to describe human morphology. The goals are to standardize                                                                   Biesecker LG, Aase JM, Clericuzio C, Gurrieri
+these terms and reach consensus regarding their definitions. In                                                              F, Temple IK, Toriello H. 2009. Elements of
+this way, we will increase the utility of descriptions of the human                                                          morphology: Standard terminology for the
+phenotype and facilitate reliable comparisons of findings among                                                              hands and feet.
+patients. Discussions with other workers in dysmorphology and
+                                                                                                                             Am J Med Genet Part A 149A:93–127.
+related fields, such as developmental biology and molecular
+genetics, will become more precise. Here we introduce the
+anatomy of the hands and feet and define and illustrate the
+terms that describe the major characteristics of the hands and                                                       The similar, but distinct, system of Temtamy and McKusick
+feet. Published 2009 Wiley-Liss, Inc.{                                                                            [1969] was developed. Most of the seven categories that
+                                                                                                                  they defined were subdivided into syndromic and non-
+Key words: congenital abnormalities; terminology; anatomy;                                                        syndromic forms. While this approach is clearly useful when the
+anthropometry; hands; feet; congenital limb deformities; nails;                                                   goal is to define distinct diagnostic entities, it is not appropriate
+malformed nails; dermatoglyphics                                                                                  for a purely descriptive endeavor. The Temtamy and McKusick
+                                                                                                                  system focuses on terms for commonly observed patterns of
+                                                                                                                  anomalies, not individual structures. Findings that do not conform
+                                                                                                                  to commonly recognized patterns cannot be described by their
+                                                                                                                  system.
+INTRODUCTION                                                                                                         Poznanski [1984] lists a glossary of terms used to describe
+This paper is part of a series of six papers defining the morphology                                              abnormalities and variants of the hands (his text does not address
+of regions of the human body [Carey et al., 2009; Hall et al.,                                                    the foot). These definitions are insufficient for a terminological
+2009; Hennekam et al., 2009; Hunter et al., 2009; Allanson et al.,                                                effort such as is undertaken here. However, some are a starting point
+2009b]. The series is accompanied by an introductory article                                                      and others are listed below as being replaced by a more precise term.
+describing general aspects of this study [Allanson et al., 2009a].                                                Finally, the textbook by Aase [1990] includes a number of defi-
+The reader is encouraged to consult the introduction when using                                                   nitions that were also useful.
+the definitions.
+   An early classification of limb anomalies is that of Isidore
+Geoffrey Saint-Hilaire (secondary citation, not reviewed).
+                                                                                                                  *Correspondence to:
+This classification divided anomalies into three categories
+                                                                                                                  Leslie G. Biesecker, National Human Genome Research Institute, National
+(phocomele, hemimele, and ectromele). A more recent classifica-                                                Institutes of Health, 49 Convent Drive 4A80, Bethesda, MD 20892-4472.
+tion is that by Frantz and O’Rahilly [1961]. Modifications of this                                                E-mail: leslieb@helix.nih.gov
+scheme were implemented by others [Swanson et al., 1968; Swan-                                                    Published online 5 January 2009 in Wiley InterScience
+son, 1976]. These schemes are hierarchical classifications and most                                               (www.interscience.wiley.com)
+do not include definitions of the terms.                                                                          DOI 10.1002/ajmg.a.32596
+
+
+
+Published 2009 Wiley-Liss, Inc.
+{
+    This article is a US Government work and, as such, is in the public domain in the United States of America.                                                                      93
+                                                                                                                                                        15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+94                                                                                             AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+General Descriptors and Background                                              asymmetry. Instead, we endorse the approach of defining a
+for the Terms                                                                   body part as small or large, which is less ambiguous and reduces
+                                                                                the number of terms that must be defined.
+                                                                             7. The axes of the limb are specified as per embryological termi-
+1. The use of the word ‘‘digit’’ versus ‘‘finger’’ and ‘‘toe’’ is               nology. Anterior–Posterior (A/P) (from the thumb/great toe to
+   problematic. ‘‘Finger’’ is usually specific to digits 2–5 of the             the little finger/small toe), Dorsal–Ventral (D/V) (from the
+   hand and ‘‘toe’’ to digits 2–5 of the foot whereas ‘‘digit’’ is a            back of the hand/top of the foot to the palm/sole), and
+   more general term that can be used to describe any finger or toe.            Proximo-Distal (P/D) (from the shoulder/hip to the fingers/
+   We generally use the word ‘‘finger’’ to be distinct from                     toes). Note that common medical usage often substitutes the
+   ‘‘thumb’’ (pollex, although this latter term is used rarely in               terms ‘‘preaxial’’ for anterior and ‘‘postaxial’’ for posterior.
+   English) and ‘‘toe’’ is distinct from ‘‘hallux’’ (which, oddly            8. There are some definitions where one term applies only to the
+   enough, is more commonly used in English than is ‘‘great toe’’).             feet and a similar second term applies to the hands. For others, a
+   It is important for the user to read the definition to understand            single term for all limbs may be used with a modifier for ‘‘feet’’
+   the context in which the term ‘‘finger’’ or ‘‘toe’’ is used. We              or ‘‘hands,’’ as appropriate. The terms were set out this way
+   recognize that some languages do not use a term equivalent to                primarily for convenience, as some of the terms, definitions,
+   ‘‘finger’’ and ‘‘toe’’ and instead use a modifier of digit (e.g., dita       and comments are cumbersome or awkward if one tries to
+   della mano). The term ‘‘ray’’ is a yet more general term that can            define them in terms of both hand and foot features. In some
+   refer to a finger, toe, thumb, or hallux, but it also includes               cases, the definitions were substantially different owing to
+   metacarpals/tarsals, whereas ‘‘digit,’’ ‘‘thumb,’’ ‘‘hallux,’’               distinct anatomic features of the hand or foot.
+   ‘‘finger,’’ and ‘‘toe’’ only refers to the phalangeal segments of         9. For a few of the features, the position of the patient is important
+   the ray. The term ‘‘ray’’ is little used in this terminology.                (e.g., pes planus). In those cases, the positioning of the patient is
+2. The proximo-distal axis of the digits is specified according to              discussed in the comments for the term.
+   the name of the underlying bones, for examples, the portion of           10. Note that radiographs are not used in this terminology. See
+   the finger overlying the distal phalangeal bone is the distal                Allanson et al. [2009b] for a discussion of this issue.
+   phalanx of the finger.                                                   11. The terms are organized alphabetically in three sections
+3. The digits are numbered 1–5 (or 6 or more in patients with                   (‘‘Hands and Feet’’, ‘‘Creases’’, and ‘‘Nails’’). We use the
+   polydactyly) from the radial/tibial side of the limb, starting               singular form as the default for all terms. For some terms, the
+   with thumb/pollex (great toe/hallux) to little finger/toe; ‘‘F’’             singular form cannot exist (e.g., Cutaneous syndactyly of
+   denotes that they are fingers, ‘‘T’’ denotes toes. It is acknowl-            the toes). In such cases, the singular and plural forms of a
+   edged that identifying the thumb as ‘‘F1’’ contradicts the                   word are mixed (e.g., ‘‘Toe’’ and ‘‘Toes’’), alphabetized by the
+   notion that this digit is designated as ‘‘thumb’’ instead of                 next word of the term. No attempt was made to hierarchically
+   ‘‘first finger’’, but for simplicity this has been used. In the case         organize the terms. The primary or preferred form of each term
+   of polydactyly, if one can determine the origin of the duplicated            appears in the paper in bold and italic font, except within the
+   digit (e.g., for a partially duplicated thumb where a relatively             comments section for that term.
+   small digit emanates from the distal first metacarpal, and it is
+   clearly a partially duplicated thumb and not an index finger, the
+   duplicated digit is sub-labeled A and B, with A used for the             DEFINITIONS
+   more anterior (radial/tibial) sub-digit. In this case, the six digits
+   are numbered F1A, F1B, F2, F3, F4, and F5. If the origin of the          Hands and Feet
+   supernumerary hand digit cannot be clearly ascertained, the              Acheiria: See Hand, absent
+   digits are labeled F1, F2, . . ., F6. We recognize that the latter
+                                                                            Acromicria: See Hand, small
+   scheme leads to issues comparing pre- and postoperative digit
+   identifiers.
+4. Joint specification: interphalangeal joints ¼ IPJ (which is a            Adactyly
+   general term for fingers and toes but is a specific term for the         Definition: The absence of all phalanges of all digits of a limb and
+   normal thumb and hallux, as they have only a single IPJ) with            the associated soft tissues (Fig. 1). objective
+   use of the more specific terms distal IPJ (DIPJ) for the joint              Comment: This descriptor does not require absence of the
+   between the middle and distal phalanges and proximal IPJ                 metacarpal or metatarsal bones. A qualifying phrase is added to
+   (PIPJ) for the joint between the middle and proximal phalanges           specify which limb has the attribute of adactyly.
+   of any triphalangeal digit. The metacarpal-phalangeal joint is              Replaces: Aphalangy
+   abbreviated as the MCPJ and MTPJ is used for the metatarsal-
+                                                                            Amniotic band: See Digital constriction ring
+   phalangeal joint.
+5. Fingertip. The distal segment of the digit overlying the distal          Aphalangy: See Adactyly
+   phalanx of the finger and including the nail, and dorsal and
+                                                                            Apodia: See Foot, absent
+   ventral surfaces.
+6. Descriptions should specify bilateral vs. right or left for laterally    Arachnodactyly: See Finger, long; Toe, long; Finger, slender; Toe,
+   paired structures. We do not specify terms for findings of               slender
+                                                                                                                                                       15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                                 95
+
+
+                                                                           of the finger/toe should be specified and the directionality of the
+                                                                           deviation. This finding is most common in F5, and is almost always
+                                                                           radial, but can be seen in any digit and can be in either direction. A
+                                                                           similar effect can be created by radial angulation within the distal
+                                                                           phalanx with epiphyseal thickening, which is called Kirner defor-
+                                                                           mity or dystelephalangy [Ozonoff, 1992].
+                                                                              Replaces: Incurved finger
+
+
+
+
+    FIG. 1. Adactyly of the feet, bilateral.
+
+
+
+
+Arch, dropped or fallen: See Pes planus
+Arch, high: See Pes cavus
+Brachytelephalangy: See Finger, short distal phalanx of; Toe, short            FIG. 3. Clinodactyly, radial, F5, bilateral. This person also
+distal phalanx of                                                              has Short finger, F5, bilateral. See also Figures 13 and 20.
+
+
+Camptodactyly
+Definition: The DIPJ and/or PIPJ of the fingers cannot be extended
+to 180 by either active or passive extension (Fig. 2). subjective         Clubbing
+   Comment: Note that some restrict the use of the term to inability       Definition: Broadening of the soft tissues (non-edematous swelling
+to extend the PIP joint of the fifth finger. We do not restrict the term   of soft tissues) of the digital tips in all dimensions associated with an
+in this way. This term should not be used if the patient has Clenched      increased longitudinal and lateral curvature of the nails (Fig. 4).
+hand. A similar effect can be created by radial angulation within the      subjective
+distal phalanx with thickening of the epiphysis, which is called              Comment: This definition does not use specification of nail plate
+Kirner deformity or dystelephalangy [Ozonoff, 1992]. The affected          angles for several reasons. First, there is no agreement on which
+digits should be specified.                                                angle should be measured. Second, there are no known data to
+   Replaces: Streblodactyly
+
+
+
+
+    FIG. 2. Camptodactyly of F45, bilateral.
+
+
+
+
+Clinodactyly
+Definition: A digit that is laterally curved in the plane of the palm
+(Fig. 3). subjective                                                           FIG. 4. Clubbing. Note that the clubbing is best viewed
+   Comment: The curvature in this term is restricted to the                    laterally (e.g., the thumb) whereas it is difficult to
+                                                                               appreciate in the other digits viewed dorsally. See also
+phalanges and does not refer to deviation at the MCPJ/MTPJ
+                                                                               Figures 5 and 63.
+(see Radial deviation of the fingers). Typically involves an abnor-
+mally shaped middle phalanx, but this is not obligate. The identity
+                                                                                                                                                   15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+96                                                                                            AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+establish the range of normality. Third, clinicians rarely perform
+such measurements. Clubbed fingers are often described as resem-
+bling the end of drumsticks. The affected digits should be specified
+as described in the introductory comments. If no subtype identifier
+is specified, it is assumed that all digits are involved. Although
+increased soft tissue is the sole or major component of clubbing,
+some cases may be associated with bone spurs or modest over-
+growth of the distal phalanx. As this is not relevant to the clinical
+(non-radiographic) assessment of clubbing, it is not specified in the
+definition of this term.
+Clubhand: See Hand, radial deviation of; Hand, ulnar devia-
+tion of                                                                       FIG. 6. Digital constriction rings, left hand, F1–5, near MCPJ.
+Digit: See various terms under ‘‘finger’’ or ‘‘toe’’ instead of digit
+
+Digit Pad, Prominent                                                      Finger, Absent
+Definition: A soft tissue prominence of the ventral aspects of the
+                                                                          Definition: The absence of all phalanges of a digit of the hand and
+fingertips or toe tips (Fig. 5). subjective
+                                                                          the associated soft tissues (Fig. 7). objective
+   Comment: The prominence of the finger or toe pads varies
+                                                                             Comment: This term does not require absence of the metacarpal.
+throughout life, being greater in neonates and dependent on the
+                                                                          The affected digits should be specified. This definition excludes
+state of hydration. This term should not be used if the digit has
+                                                                          Partial absence of the finger. Note that it can be challenging to
+clubbing. Note that the synonym ‘‘fetal fingertip pads’’ should not
+                                                                          number the missing digit if it is a central digit that is missing. In
+be interpreted to mean that the prominent pad necessarily was
+                                                                          these cases, it is appropriate to modify the term by adding the phrase
+present in this individual since fetal life. We do not endorse the use
+                                                                          ‘‘non-thumb.’’ In contrast, it will be obvious that the thumb is
+of the term ‘‘Persistent fetal pads’’ as this term implies knowledge of
+                                                                          present or absent. It may also be difficult to distinguish an absent
+the natural history of this finding, which may or may not be known.
+                                                                          finger from two digits with an extreme degree of osseous and
+   Synonym: Fetal finger/toe tip pads; Fetal finger/toe tip pads
+                                                                          cutaneous syndactyly. If a patient is missing all digits of a limb,
+   Replaces: Persistent fetal pads
+                                                                          the term Adactyly should be used. The term oligodactyly may be
+                                                                          used as a synonym, but only in situations where the missing digit is
+                                                                          not specified. For example, to state that a patient has Oligodactyly
+                                                                          F5 is awkward because the oligodactyly refers to the digits that are
+                                                                          present and the F5 refers to the digit that is absent, which could
+                                                                          become confusing with higher order deficiencies. If a digit that
+                                                                          cannot be identified is missing, the term can be modified with a
+                                                                          cardinal number, for example, ‘‘Absent fingers, two.’’
+                                                                             Replaces: Hypodactyly
+                                                                             Synonym: Oligodactyly
+     FIG. 5. Prominent digit pads, right hand, F3,4. Note that this
+     patient also has Clubbing and a Single transverse palmar
+     crease.
+
+
+
+
+Digital Constriction Ring
+Definition: A narrow segment of significantly reduced circumfer-
+ence of a digit (Fig. 6). subjective
+   Comment: The description should specify the hand and digit
+that is affected and the approximate location of the band relative to
+the phalanges. It may be described as partial, if it does not involve
+the entire circumference of the digit.                                        FIG. 7. Finger, absent, right hand. Note here that the
+   Replaces: Amniotic bands                                                   identity of the missing digit is not specified, as there are
+                                                                              no clinical data to allow this to be determined. See also
+Ectrodactyly: See Foot, split; Hand, split                                    Figure 68.
+Fetal fingertip pads: See Digit pad, prominent
+                                                                                                                                                         15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                                   97
+
+
+Finger, Broad                                                               The affected digits should be specified. Note that the unqualified
+Definition: Increased width of a non-thumb digit of the hand                term ‘‘syndactyly’’ is no longer allowed as it is unclear whether this
+(Fig. 8). subjective                                                        refers to bony or cutaneous syndactyly.
+   Comment: Note that the girth may be increased in a broad finger,            Replaces: Syndactyly (without adjective); Zygodactyly
+but this must be distinguished from Macrodactyly, because there
+the length is also increased. This distinction can be subtle. This term
+should not be used when the increased width is limited to the distal
+phalanges, instead use Broad fingertips. The affected digit should be
+specified by the numbering scheme in the introduction. This term is
+not used for the first digit, see Broad thumbs. When a thumb and
+one or more fingers are affected, it may be more economical to
+specify ‘‘Broad fingers, F1–5’’ instead of separately specifying
+‘‘Broad thumb’’ and ‘‘Broad fingers F2–5.’’
+   Synonym: Wide fingers
+   Replaces: Pachydactyly; Thick fingers
+
+
+
+
+                                                                                FIG. 9. A: Cutaneous syndactyly of F2–5, left hand,
+                                                                                complete. Note that this patient also has a Broad thumb,
+                                                                                and Postaxial polydactyly of the hand, type B and Fused
+                                                                                nails F2–5. B: This patient has Cutaneous syndactyly of
+                                                                                F2–4, partial. See also Figure 14.
+
+    FIG. 8. Broad fingers, right hand. Appreciate that the
+    dorsal–ventral dimension of these digits is not increased,
+    whereas the lateral (proximo-distal) dimension is                       Finger, hypoplastic: See Finger, small
+    increased. See also Figure 99.
+                                                                            Finger, incurved: See Clinodactyly
+
+                                                                            Fingers, Long
+Fingers, Cutaneous Syndactyly of                                            Definition: The middle finger is more than 2 SD above the mean for
+Definition: A soft tissue continuity in the A/P axis between two            newborns 27–41 weeks EGA or above the 97th centile for children
+fingers that extends distally to at least the level of the PIPJ (Fig. 9).   from birth to 16 years of age AND the five digits retain their normal
+objective OR                                                                length proportions relative to each other (i.e., it is not the case that
+   A soft tissue continuity in the A/P axis between two fingers that        the middle finger is the only lengthened digit) (Fig. 10). subjective
+lies significantly distal to the flexion crease that overlies the meta-     OR
+carpophalangeal joint of the adjacent fingers. subjective                      Fingers that appear disproportionately long compared to the
+   Comment: We have set an arguably arbitrary threshold to                  palm of the hand. subjective
+distinguish the objective from the subjective finding. While severe            Comment: The first definition is recognized to be problematic,
+degrees of cutaneous syndactyly are clearly objective, more subtle          because it implies that the other fingers are all as relatively long as is
+degrees are subjective. We set this threshold to distinguish these two      the middle finger. As the determination of the proportionality of the
+situations. The digits (or parts of) are joined together by tissue that     other four digits is clearly subjective, the term must be regarded as
+is not normally present between the digits at that point in the P/D         subjective. The term arachnodactyly has been abandoned as it is
+axis. A modifier of ‘‘complete’’ may be used if the cutaneous               bundled (narrow and long digits) and is sometimes used for only
+syndactyly extends to the distal end of the nail bed of the digits.         narrow or only long digits. The term ‘‘long hand’’ should not be
+                                                                                                                                                15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+98                                                                                             AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+
+
+     FIG. 10. Long fingers, right hand.
+                                                                               FIG. 11. A: Overlapping fingers, right hand, F54, F56. Note
+                                                                               that this patient also has Mesoaxial polydactyly and
+                                                                               Postaxial polydactyly, type B. B: Overlapping fingers, right
+used, as it is a bundled definition of two readily separable terms,            hand, F23, F54. See also Figures 37, 45, and 58A.
+Long fingers, and Long palm. If only a subset of the digits of a limb is
+lengthened, the affected digits should be specified.
+   Replaces: Arachnodactyly
+Finger, narrow: See Finger, slender
+
+Fingers, Overlapping
+Definition: A finger resting on the dorsal surface of an adjacent digit
+when the hand is at rest (Fig. 11). objective
+   Comment: This descriptor is ordered depending on which digits
+are involved (see figure legend for examples). The affected digits
+should be specified. The ordering of the numbers specifies which
+digit is dorsal, that is, with dorsum of the hand facing upward
+the digit on top is/are recorded first separated by a comma from the
+digit that is/are overlapped. Fingers that are laterally deviated, but         FIG. 12. Partial absence of fingers, left hand, F2–5,
+do not rest on top of adjacent fingers should be coded as                      proximal. Note that this patient also has Small nails, F1–5.
+Clinodactyly.
+
+Finger, Partial Absence of
+Definition: The absence of a phalangeal segment of a finger
+(Fig. 12). objective                                                       proximal phalanges). In this situation the location adjective will
+    Comment: The part that is absent may be specified. The ‘‘distal’’      have to be removed. This finding is distinct from Short fingers.
+modifier specifies the loss of the distal phalanx; clinically this is        Replaces: Hypophalangy
+defined by the absence of the nail. The ‘‘proximal’’ modifier
+specifies the loss of the proximal or middle phalanx with the nail
+still present and/or the radiographic finding of a remaining phalanx       Finger, Radial Deviation of
+that is similar to a distal phalanx. It may be difficult to determine      Definition: Angulation of a digit toward the anterior axis (radial
+which phalanx is absent without X-rays and even then, there are            side) of the limb (Fig. 13). subjective
+circumstances where the missing bone may not be exactly identified            Comment: The deviation is at the MCPJ. The affected digits
+(note that no attempt is made to distinguish missing middle from           should be specified. This finding is distinct from Clinodactyly.
+                                                                                                                                                        15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                                   99
+
+
+                                                                            the distal phalanges are judged to be proportionately shortened, the
+                                                                            additional term of Short distal phalanges of the fingers should not
+                                                                            be used. If the digit is short overall and the distal phalanx is
+                                                                            disproportionately shorter than are the finger overall, then both
+                                                                            terms should be used.
+                                                                               Synonym: Brachydactyly of the hand
+
+                                                                            Finger, Short Distal Phalanx of
+                                                                            Definition: Short distance from the end of the finger to the most
+                                                                            distal interphalangeal crease or DIPJ flexion point (Fig. 15).
+                                                                            subjective
+                                                                               Comment: This term differs from Partial absence of the finger
+                                                                            because in that term, the phalanx must be missing, whereas in this
+    FIG. 13. Radial deviation of the finger, left hand, F2. Note            term it may be small, but present. Distal phalangeal lengths can be
+    that this patient also has Clinodactyly, F2, radial and that            assessed subjectively by comparing the digit segment to the rest of
+    these two findings are distinct. See also Figure 47.                    the digit, to other normal digits in the patient, or to typical patients
+                                                                            of the same age or build. Regarding the subjective definition, for
+                                                                            individuals who do not have flexion creases, one may determine this
+                                                                            by flexing the DIPJ and estimating the length of the terminal
+Finger, Short                                                               segment of the digit. Alternatively, one may be able to palpate the
+                                                                            joint.
+Definition: The middle finger is more than 2 SD below the mean for
+                                                                               Synonym: Brachytelephalangy
+newborns 27–41 weeks EGA or below the 3rd centile for children
+                                                                               Replaces: Short terminal phalanges; Short terminal finger
+from birth to 16 years of age AND the five digits retain their normal
+length proportions relative to each (i.e., it is not the case that the
+middle finger is the only shortened digit) (Fig. 14). subjective OR
+   Fingers that appear disproportionately short compared to the
+hand. subjective
+   Comment: This is an acknowledged bundled term as the defini-
+tion in most anthropometric sources assumes that the other fingers
+are all as relatively short as is the middle finger. As the determination
+of the proportionality of the other four digits is clearly subjective,
+the term must be regarded as subjective. The Bell classification of
+brachydactyly (summarized in Temtamy and McKusick [1969]) is a
+complex assessment of hand patterning—that usage of the word
+‘‘brachydactyly’’ is independent of the use here. When
+‘‘Brachydactyly type x’’ is used, this refers to the Bell classification
+patterns. When Brachydactyly of the hand is used, it solely refers to
+reduced length of the specified digits. ‘‘Short hand’’ should not be
+used as it is a bundled definition of Short fingers and Short palm. If
+
+                                                                                FIG. 15. Short distal phalanx of the finger, left hand, F1. Note
+                                                                                that this patient also has a Short nail, F1. See also
+                                                                                Figure 60A.
+
+
+
+
+                                                                            Finger, Slender
+                                                                            Definition: Digits are disproportionately narrow (reduced girth)
+                                                                            for the hand/foot size or build of the individual (Fig. 16). subjective
+                                                                               Comment: The affected digits should be specified as described.
+                                                                            The assessment of this finding is difficult when the digits are long.
+    FIG. 14. Short fingers. See also Figures 3, 47, 69, and 99.             The bundled and pejorative term ‘‘arachnodactyly’’ is replaced
+    Note that this patient also has Short palms and cutaneous
+                                                                            by the separate descriptors Long finger and Slender finger.
+    syndactyly of F4,5, right hand.
+                                                                               Synonym: Narrow digits; Narrow fingers
+                                                                               Replaces: Thin digits; Arachnodactyly
+                                                                                                                                                            15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+100                                                                                             AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                            Fingers, Splayed
+                                                                            Definition: Divergence of digits along the A/P axis (in the plane of
+                                                                            the palm) (Fig. 18). subjective
+                                                                               Comment: This may be associated with Macrodactyly, but this
+                                                                            should be assessed and coded separately. The affected digits should
+                                                                            be specified.
+                                                                               Synonym: Spreading of the fingers
+
+
+
+
+      FIG. 16. Slender fingers, right hand, F2–5. Note that only
+      some of the digits are clearly shown in this figure.
+
+
+
+
+Finger, Small                                                                   FIG. 18. Splayed fingers, left hand, F23, F34. Note that this
+                                                                                patient also has Macrodactyly F2–4.
+Definition: Significant reduction in both length and girth of the
+finger compared to the contralateral finger, or alternatively, com-
+pared to a typical finger size for an age-matched individual (Fig. 17).
+subjective
+   Comment: This is a bundled term, comprising Short finger and             Fingers, spreading of: See Fingers, splayed
+Slender digit, but it is so widely used that it is included. This term is
+only used if the finger has the normal number of phalangeal                 Finger, Tapered
+segments. An appropriate alternative term for the first digit is
+                                                                            Definition: The gradual reduction in girth of the digit from
+Small thumb, when it is the only digit affected. When a thumb
+                                                                            proximal to distal (Fig. 19). subjective
+and one or more fingers are affected, it may be more economical to
+                                                                               Comment: If the digits are not uniformly affected, the affected
+specify ‘‘Small fingers, F1–5’’ instead of separately specifying ‘‘Small
+                                                                            fingers should be specified. If not specified, it refers to all the digits of
+thumb’’ and ‘‘Small fingers F2–5.’’
+                                                                            the hand.
+   Replaces: Underdeveloped finger; Hypoplastic finger
+
+
+
+
+      FIG. 17. Fingers, small, left hand, F3,4. This patient also has           FIG. 19. A: Tapered finger, left hand, F4. B: Tapered fingers,
+      Deep palmar creases.                                                      right hand, F2–5. See also Figures 42, 44, and 93.
+                                                                                                                                                     15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                               101
+
+
+Finger, thick: See Finger, broad
+Finger, thin: See Finger, slender
+
+
+Finger, Ulnar Deviation of
+Definition: Angulation of the digit towards the posterior or post-
+axial axis (ulnar) of the limb (Fig. 20). subjective
+   Comment: The deviation is at the MCPJ. The affected digits
+should be specified. This finding is independent of Clinodactyly.
+
+
+
+
+                                                                             FIG. 21. A: Broad fingertip, right hand, F1. Note how the digit
+                                                                             widens at the IPJ. B: Broad fingertips, left hand, F3,4. See
+                                                                             also Figure 93.
+
+
+
+    FIG. 20. Ulnar deviation of finger, right hand, F4. Note that
+    this patient also has Clinodactyly of F4, ulnar. Note that           Foot, Absent
+    his middle finger manifests Clinodactyly radial, F3, but
+    that this finger is not deviated, demonstrating the                  Definition: The total absence of the foot, with no bony elements
+    distinction of these two features. See also Figure 45.               distal to the tibia or fibula (Fig. 22). objective
+                                                                            Comment: See Foot, partial absence of, for a related definition.
+                                                                            Synonym: Apodia
+                                                                         Foot, brachydactyly of: See Toe, short
+Finger, underdeveloped: See Finger, small
+
+Finger, wide: See Finger, broad                                          Foot, Broad
+Finger-like thumb: See Thumb, triphalangeal                              Definition: A foot for which the measured width is above the 95th
+                                                                         centile for age (Fig. 23). objective OR
+                                                                             A foot that appears disproportionately wide for its length.
+                                                                         subjective
+Fingertip, Broad                                                             Comment: Note that the normative data [Malina et al., 1973;
+Definition: Increased width of the distal segment of a finger            Hall et al., 2007] only include 4–16 year olds. Since foot width is still
+(Fig. 21). subjective                                                    increasing at the 16-year-old age point on the graphs, extrapolation
+   Comment: This term should be reserved for use when the distal         is not recommended. Therefore, persons more than 16 years of age
+digit is significantly broader than the middle part. It should not be    or less than 4 years of age can only be assessed subjectively (until
+used if the digit has Clubbing or Macrodactyly or if the entire finger   appropriate norms are identified or generated). The Hall et al.
+is broad; instead use Finger, broad.                                     [2007] handbook (pp. 238–239) states that foot width should be
+   Synonym: Wide fingertips                                              measured from the medial aspect of the first MTPJ to the lateral
+   Replaces: Spatulate fingertips                                        aspect of the fifth MTPJ. The subjective definition should be used
+                                                                         with caution in patients with Short feet. In persons with polydactyly
+Fingertip, spatulate: See Fingertip, broad                               that includes a supernumerary metatarsal, the measurement defi-
+Fingertip, wide: See Fingertip, broad                                    nition from Hall et al. [2007] would need to be modified to account
+                                                                         for the supernumerary digit (i.e., if the patient had postaxial
+Fingertip pads, fetal: See Digit, prominent pad                          polydactyly, measure from the sixth MTPJ). It may be argued that
+                                                                                                                                                  15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+102                                                                                         AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                        Foot, Long
+                                                                        Definition: Foot length more than 2 SD above the mean for a
+                                                                        newborn of 27–41 weeks gestation (Fig. 24). objective OR
+                                                                           Foot length above the 97th centile for individuals from birth to 16
+                                                                        years of age objective OR
+                                                                           A foot that appears longer than expected for age. subjective
+                                                                           Comment: Note that for females over the age of 16 years, the
+                                                                        curves are essentially flat by 15 years of age, so the 16-year-old
+                                                                        norms and distribution can be used for older individuals [Anderson
+                                                                        et al., 1956; Hall et al., 2007]. However, the male norms still have
+                                                                        significant growth at 16 years, where the graph ends. Therefore, only
+                                                                        subjective assessments can be made for males over the age of
+                                                                        16 years. For infants, the norms are specified in SD, per the primary
+                                                                        source [Merlob et al., 1984]. Because of the wide range of normal for
+                                                                        foot measurements, it may be hard to discriminate a long foot of
+                                                                        normal width from that of a narrow foot of normal length, thus the
+                                                                        subjective definition is substantially inferior. If the toes are also
+                                                                        long, that should be coded separately.
+
+
+
+      FIG. 22. Absent foot, right. Note that this is the same patient
+      as is shown in Figure 27. One limb has partial absence of
+      the foot and the other complete.
+
+
+
+
+                                                                            FIG. 24. Long feet. Note that this patient also has Long toes.
+
+
+
+
+                                                                        Foot, Narrow
+                                                                        Definition: A foot for which the measured width is below the
+                                                                        5th centile for age (Fig. 25). objective OR
+                                                                           A foot that appears disproportionately narrow for its length.
+                                                                        subjective
+                                                                           Comment: The normative data [Hall et al., 2007] only include
+                                                                        4–16 year olds. Since the foot width is still increasing at the 16 year
+                                                                        old age point on the graphs, extrapolation is not recommended.
+                                                                        Therefore, persons more than 16 years or less than 4 years of age can
+                                                                        only be assessed subjectively (until appropriate norms are identified
+                                                                        or generated). Foot width should be measured from the medial
+                                                                        aspect of the first MTPJ to the lateral aspect of the fifth MTPJ [Hall
+      FIG. 23. Broad foot, left. In this example, the forefoot          et al., 2007]. It does not seem sensible to apply this term to
+      appears more broad than does the midfoot, but this                individuals with polydactyly that includes a duplicated metatarsal.
+      distinction is not noted in the nomenclature.
+
+                                                                        Foot, Osseous Syndactyly of
+                                                                        Definition: Lateral (A/P) fusion of the digits (phalanges and/or
+                                                                        metatarsals) by hard tissue (cartilage and/or bone) (Fig. 26).
+this is double counting polydactyly as a wide foot, as the norms are
+                                                                        objective
+derived from those with pentadactylous limbs.
+                                                                           Comment: Metatarsal syndactyly can be demonstrated by the
+   Synonym: Wide foot
+                                                                        inability to independently manipulate the two metatarsals
+Foot, cleft: See Foot, split                                            (see Polydactyly, mesoaxial for a description of this maneuver)
+                                                                                                                                                   15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                             103
+
+
+                                                                        Foot, Partial Absence of
+                                                                        Definition: An incomplete absence of the foot, with no bony
+                                                                        elements distal to the tarsals, but with preservation of some or all
+                                                                        of the tarsals (Fig. 27). objective
+                                                                           Comment: See Foot, absent for a related term.
+
+
+
+
+    FIG. 25. Narrow foot, left.
+
+
+
+
+or the continuity of two metatarsals is demonstrated [Biesecker,
+                                                                            FIG. 27. Foot, partial absence of, left. Note that this is the
+2007]. The description should include the bones that are fused.
+                                                                            same patient as is shown in Figure 22. One limb has
+Osseous syndactyly is distinct from Symphalangism, where the                complete absence of the foot and the other partial.
+phalanges are fused at the joint longitudinally (P/D axis). The exact
+nature of the bony anomaly may not be definable without X-ray
+evidence. Note that the unqualified term ‘‘syndactyly’’ is no longer
+allowed as it is unclear whether this refers to bony or cutaneous
+syndactyly.
+   Replaces: Syndactyly (without adjective)
+
+
+                                                                        Foot, Postaxial Polydactyly of
+                                                                        Definition: Presence of a supernumerary digit that is not a hallux
+                                                                        (Fig. 28). objective
+                                                                           Comment: Although it is appealing to believe in many cases that
+                                                                        the supernumerary (non-hallux) digit is the most fibular, there may
+                                                                        be no evidence for this. When the digit is de minimus, this seems
+                                                                        reasonable by parsimony. When it is fully formed, associated with a
+                                                                        supernumerary metatarsal, and fully functional, it may be impos-
+                                                                        sible to determine which toe is supernumerary. Nevertheless, the
+                                                                        designation as postaxial is reasonable given the tradition of this
+                                                                        designation. Postaxial polydactyly has been divided into two types:
+                                                                        A (a fully formed digit) and B (digitus minimus, or a pedunculated,
+                                                                        non-articulating, non-functional appendage). We recognize these
+                                                                        subtypes but note that post-axial polydactyly actually represents a
+                                                                        spectrum from type A to type B. When the type is indeterminate, no
+    FIG. 26. Osseous syndactyly of the foot. This figure shows          subtype is specified. The term uses the word ‘‘postaxial’’ instead of
+    the maneuver used to detect this finding. The abnormal              the embryologic ‘‘posterior’’ because the former is established in
+    finding is not shown. The examiner grasps two adjacent              clinical medicine.
+    metatarsal and alternately moves them to determine if
+                                                                           Synonym: Posterior polydactyly
+    they are fused or independent.
+                                                                           Replaces: Posterior duplication of the limb/foot; fibular
+                                                                        polydactyly
+                                                                                                                                                        15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+104                                                                                            AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                            (metatarsal and both phalanges) and ‘‘complete’’ for a digit that has
+                                                                            complete duplication of all three bones.
+                                                                              Synonym: Anterior polydactyly
+                                                                              Replaces: Anterior duplication of the limb; Tibial polydactyly
+
+                                                                            Foot, Rocker Bottom
+                                                                            Definition: The presence of both a ‘‘prominent heel’’ and a ‘‘convex
+                                                                            contour of the sole’’ (Fig. 30). subjective
+                                                                              Comment: The term is a bundled definition but is in common
+                                                                            usage. For that reason, it was included by consensus of the group.
+
+
+      FIG. 28. Postaxial polydactyly of the left foot. Note that this
+      patient also has Small nails.
+
+
+
+
+Foot, Preaxial Polydactyly of
+Definition: Duplication of all or part of the first ray (Fig. 29).
+objective                                                                       FIG. 30. Rocker bottom foot, left.
+   Comment: There is a wide spectrum of this malformation. The
+mild end of the spectrum is a bifid (not cleft) nail or a distal phalanx
+of the hallux with a central lacuna or bifid tip. Broadened halluces
+without a recognizable anterior/posterior cleft should be coded as          Foot, Short
+Broad hallux. Note that toe number may be affected by the finding
+                                                                            Definition: A measured foot length that is more than 2 SD below the
+of preaxial polydactyly. See the introductory comments for guid-
+                                                                            mean for a newborn of 27–41 weeks gestation (Fig. 31). objective OR
+ance on digit numbering. It is optional to modify the term by adding
+                                                                               A foot that is less than the 3rd centile for individuals from birth to
+‘‘partial’’ to a duplicated hallux that involves less than the entire ray
+                                                                            16 years of age. objective OR
+                                                                               A foot that appears disproportionately short. subjective
+                                                                               Comment: Note that for females over the age of 16 years, the
+                                                                            curves are essentially flat by 15 years of age, so the 16-year-old
+                                                                            norms and distribution can be used for older individuals [Anderson
+                                                                            et al., 1956; Hall et al., 2007]. However, the male norms still show
+                                                                            significant growth at 16 years, where the graph ends. Therefore, only
+                                                                            subjective assessments can be made for older males. For infants, the
+                                                                            norms are specified in SD, per the primary source [Merlob et al.,
+                                                                            1984]. Foot length includes the relatively long calcaneus and tarsal
+                                                                            bones as well as the metatarsals and first toe, and so the hand and
+                                                                            foot measurements may reflect different growth abnormalities.
+                                                                            Foot length should be interpreted with caution if the individual
+                                                                            has either Pes cavus or Pes planus.
+
+
+
+
+      FIG. 29. A: Preaxial polydactyly of the right foot. Note that
+      this duplication is nearly complete. B: Preaxial
+      polydactyly of the right foot. This patient has the same
+      finding, but the duplicated digits are more separated than
+      in Figure 29A.                                                            FIG. 31. Short feet.
+                                                                                                                                                  15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                           105
+
+
+Foot, Split
+Definition: Longitudinal deficiency of a digital ray of the foot
+except rays 1 or 5 (Fig. 32). subjective
+    Comment: The threshold for this deficiency should be that all of
+the phalanges in the ray are absent and at least part of the metatarsal.
+If just the phalanges that are missing, this should be coded as Absent
+toe. The absence of a central ray or rays frequently yields a cleft
+appearance of the foot. This term is preferred to ‘‘ectrodactyly of the
+foot’’ as this has been used (more appropriately) for various forms
+of phalangeal hypoplasia or amputation. ‘‘Lobster claw deformity’’
+is neither descriptive nor acceptable. There is wide variation in the
+affected feet, but the common factor is the absent central ray,
+justifying Split foot as a clinical designation.
+    Synonym: Cleft foot
+    Replaces: Ectrodactyly; Lobster claw deformity
+
+                                                                               FIG. 33. Absent hallux, right.
+
+
+
+
+                                                                           Hallux, Broad
+                                                                           Definition: Visible increase in width of the hallux without an
+                                                                           increase in the dorso-ventral dimension (Fig. 34). subjective
+                                                                              Comment: Note that girth may be increased in a broad hallux,
+                                                                           but this must be distinguished from Macrodactyly because there the
+                                                                           length is also increased. This assessment may be difficult when the
+                                                                           hallux is short. Note the separate definition for Broad toes. When a
+                                                                           great toes and one or more other toes are affected, it may be more
+                                                                           economical to specify Broad toes, T1–5 instead of separately
+                                                                           specifying Broad hallux and Broad toes T2–5.
+                                                                              Synonym: Broad great toe
+
+
+    FIG. 32. A: Split foot, left. B: Split feet. Note that this patient
+    has a more severe, deeper notch in the feet than does the
+    patient in (A). The shape and numbers of other affected
+    digits is highly variable.
+
+
+
+
+Foot, wide: See Foot, broad
+
+
+Hallux, Absent
+Definition: The absence of both phalanges of a hallux and the
+associated soft tissues (Fig. 33). objective
+   Comment: This descriptor does not require absence of the
+metatarsal. The definition excludes partial absent hallux. Oligo-
+dactyly and hypodactyly are replaced with more specific terms to
+allow the distinction of loss of a preaxial digit (thumb or great toe)         FIG. 34. Broad hallux, right. See also Figure 60B.
+from loss of digits 2–5. When a great toe and one or more other toes
+are absent, it may be more economical to specify Absent toes, T1–3
+instead of separately specifying Absent hallux and Absent toes
+T2–3.                                                                      Hammertoe
+   Synonym: Absent great toe                                               Definition: Hyperextension of the MTPJ with hyperflexion of the
+   Replaces: Hypodactyly; Oligodactyly                                     PIPJ (Fig. 35). subjective
+                                                                                                                                             15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+106                                                                                      AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                        Comment: See Hand, partial absence for a related term.
+                                                                        Synonym: Acheiria
+                                                                      Hand, brachydactyly of: See Finger, short
+                                                                      Hand, cleft: See Hand, split
+
+
+
+                                                                      Hand, Clenched
+                                                                      Definition: All digits held completely flexed at the metacarpopha-
+                                                                      langeal and interphalangeal joints (Fig. 37). subjective
+                                                                         Comment: Is distinguished from Camptodactyly, as that term
+                                                                      may describe fewer than five digits of a eudactylous hand and does
+                                                                      not involve the MCPJ. The digits may overlap when they lie flexed in
+                                                                      the palm. It is not necessary to specify the overlapping fingers
+                                                                      finding separately.
+
+      FIG. 35. Hammertoe, T3, left. See also Figure 57.
+
+
+
+
+   Comment: This term replaces the phrase ‘‘dorsiflexed toe’’
+as that term is an incomplete description of the abnormality
+[Young et al., 2005]. Note that this is not a synonym of
+mallet toe.
+   Replaces: Dorsiflexed toe
+
+Hand, Absent
+Definition: The total absence of the hand, with no bony elements          FIG. 37. Clenched hand, right. Note that the left hand does
+distal to the radius or ulna (Fig. 36). objective                         not warrant the term because not all of the digits are
+                                                                          completely flexed at the MCPJ and IPJ. The left hand would
+                                                                          warrant the finding of Overlapping fingers F23, F54, left.
+
+
+
+
+                                                                      Hand, long: See Palm, long
+                                                                      Hand, narrow: See Palm, narrow
+
+
+                                                                      Hand, Osseous Syndactyly of
+                                                                      Definition: Lateral (A/P) fusion of the digits (phalanges and/or
+                                                                      metacarpals) by hard tissue (cartilage and/or bone) (Fig. 38).
+                                                                      objective
+                                                                         Comment: Metacarpal syndactyly can be demonstrated by either
+                                                                      a maneuver whereby the two metacarpals cannot be independently
+                                                                      manipulated by the examiner (see Mesoaxial polydactyly for a
+                                                                      description of this maneuver). Phalangeal syndactyly (typically seen
+                                                                      in what used to be called a ‘‘mitten hand’’) may be difficult to
+                                                                      demonstrate without X-rays. The description may include the
+                                                                      bones that are fused. Osseous syndactyly is distinct from Sympha-
+      FIG. 36. Absent hand, left. Note that this patient also has a   langy where the phalanges are fused at the joint longitudinally (P/D
+      shortened radius and ulna, although that finding is not
+                                                                      axis). See Mesoaxial polydactyly for discussion of the use of this
+      required for this finding.
+                                                                      term with polydactyly.
+                                                                         Replaces: Syndactyly (without adjective)
+                                                                                                                                                 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                           107
+
+
+                                                                      be no evidence for this. When the digit is de minimus, this seems
+                                                                      reasonable by parsimony. When it is fully formed with a supernu-
+                                                                      merary metacarpal and functional, it may be impossible to deter-
+                                                                      mine which of the fingers is supernumerary. Nevertheless, the
+                                                                      designation as postaxial is reasonable given the tradition of this
+                                                                      designation. Postaxial polydactyly has been divided into two types:
+                                                                      A (a fully formed digit) and B (digitus minimus, or a pedunculated,
+                                                                      non-articulating, non-functional appendage). We recognize these
+                                                                      subtypes but note that post-axial polydactyly actually represents a
+                                                                      spectrum from type A to type B. When the type is indeterminate, no
+                                                                      subtype is specified.
+                                                                         Synonym: Posterior polydactyly
+                                                                         Replaces: Ulnar polydactyly; Posterior duplication of the limb/
+                                                                      hand
+    FIG. 38. Osseous syndactyly of the hand. This figure shows
+    the maneuver used to detect this finding. The abnormal
+    finding is not shown. The examiner grasps two adjacent
+                                                                      Hand, Preaxial Polydactyly of
+    metacarpals and alternately moves them to determine if            Definition: Duplication of all or part of the first ray (Fig. 40).
+    they are fused or independent.                                    objective
+                                                                         Comment: There is a wide spectrum of this malformation. The
+                                                                      mild end of the spectrum is a bifid (not cleft) nail or a distal phalanx
+Hand, Postaxial Polydactyly of                                        of the thumb with a central lacuna or bifid tip. Broadened thumbs
+Definition: Presence of a supernumerary digit that is not a thumb
+(Fig. 39). objective
+   Comment: Although it is appealing to believe in many cases that
+the supernumerary (non-thumb) digit is the most ulnar, there may
+
+
+
+
+    FIG. 39. A: Postaxial polydactyly of the right hand, type A. B:
+    Postaxial polydactyly of the right hand. Note that this
+    patient has a digit that is intermediate between type A and
+    type B, so that is not specified. See also Figures 49A, 58A,
+    and 73A. See Figures 9A and 11A for examples of Postaxial             FIG. 40. A: Preaxial polydactyly of the left hand, partial. B:
+    polydactyly, type B.                                                  Preaxial polydactyly of the right hand.
+                                                                                                                                                     15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+108                                                                                         AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+without a recognizable line of anterior/posterior clefting should be       Comment: This is acknowledged to be a bundled term, but it is
+coded as Thumb, broad. Note that finger numbering may be                sufficiently common that it was felt to be too cumbersome to
+affected by the finding of preaxial polydactyly. See the introductory   describe the component findings. It is arguably superior to code a
+comments for guidance on digit numbering. It is optional to modify      patient as having objectively determined Short fingers, Short
+the term by adding ‘‘partial’’ to a duplicated thumb that involves      palms, and Narrow palms instead of this bundled term. Note that
+less than the entire ray (metacarpal and both phalanges) and            there are no objective standards that can be used for this assessment,
+‘‘complete’’ for a digit that has complete duplication of all three     only for middle finger and palm length and palm width. The term
+bones.                                                                  acromicria is discouraged because in some definitions, this term
+   Synonym: Anterior polydactyly                                        also includes small head or facial features; in others it only includes
+   Replaces: Anterior duplication of the limb/hand; Radial              the fingers and toes.
+polydactyly                                                                Replaces: Acromicria
+
+Hand, Radial Deviation of                                               Hand, Split
+Definition: Divergence of the longitudinal axis of the hand at the
+                                                                        Definition: Longitudinal deficiency of a digital ray of the hand
+wrist in a anterior (radial) direction (Fig. 41). subjective
+                                                                        except rays 1 or 5 (Fig. 43). subjective
+   Comment: This finding may be associated with a short or absent
+                                                                           Comment: The threshold for this deficiency should be that all of
+radius, but that is not required and should be coded separately. The
+                                                                        the phalanges of a central ray (not F1 or F5) are absent and at least
+term ‘‘clubhand’’ is replaced because it was felt to be pejorative.
+                                                                        part of the associated metacarpal (if it is just the phalanges that are
+   Replaces: Radial clubhand; Clubhand
+                                                                        missing, this should be coded as Absent finger). The absence of a
+                                                                        central ray or rays frequently yields a cleft appearance of the hand.
+                                                                        This term is preferred to ‘‘ectrodactyly of the hand’’ as this has been
+                                                                        used (more appropriately) for forms of phalangeal hypoplasia or
+                                                                        amputation but it is acknowledged that this is a commonly used
+                                                                        term. ‘‘Lobster claw deformity’’ is neither descriptive nor accept-
+                                                                        able due to its pejorative nature. There is wide variation in the hands
+                                                                        of affected individuals, but the common factor seems to be the
+                                                                        absence of the central ray, justifying the use of Split hand as a clinical
+                                                                        designation.
+                                                                           Synonym: Cleft hand
+                                                                           Replaces: Ectrodactyly; Lobster claw deformity
+      FIG. 41. Radial deviation of the hand, right.
+
+
+
+Hand, short: See Palm, short; Finger, short
+
+Hand, Small
+Definition: A normally proportioned hand (i.e., the various ele-
+ments of the hand are in proportion to each other) that is overall
+small for age or overall body size (Fig. 42). subjective
+
+
+
+
+                                                                            FIG. 43. Split hand, right.
+
+
+
+                                                                        Hand, Trident
+                                                                        Definition: Splaying of F2–4 along the A/P axis (in the plane of the
+                                                                        palm) with relatively normal positioning of F1 and F5 (Fig. 44).
+                                                                        subjective
+      FIG. 42. Small hands. Note that this patient also has
+                                                                           Comment: This term is a subtype of splaying of the digits, but its
+      Tapered fingers.
+                                                                        diagnostic utility warrants a separate definition. Note is made that
+                                                                        there were a number of different definitions of this term among the
+                                                                                                                                                    15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                            109
+
+
+
+
+                                                                              FIG. 46. Prominent heels.
+
+
+
+    FIG. 44. Trident hand, left. Note that this patient also has
+    Tapered fingers, but that is not required for the finding.            Hypothenar Eminence, Small
+                                                                          Definition: Reduced muscle mass on the ulnar side of the palm
+                                                                          (Fig. 47). subjective
+                                                                             Comment: The reduced soft tissue is typically abductor digiti
+terminology group members. However, this definition was the               minimi and flexor digiti minimi brevis. This may be even more
+consensus.                                                                difficult to discern than is Small thenar eminence, but the same
+                                                                          considerations outlined in that definition apply.
+Hand, Ulnar Deviation of
+Definition: Divergence of the longitudinal axis of the hand at the
+wrist in a posterior (ulnar) direction (Fig. 45). subjective
+   Comment: May be associated with a short or absent ulna, but
+that is not required.
+   Replaces: Ulnar clubhand; Clubhand
+
+
+
+
+                                                                              FIG. 47. Small hypothenar eminence, left hand. Note that
+                                                                              this patient also has Short fingers F2–5 and Radial
+    FIG. 45. Ulnar deviation of the right hand. Note that this                deviation of fingers F2–3.
+    patient also has Ulnar deviation of the fingers, F2–3 and
+    Overlapping fingers F45.
+
+                                                                          Limb, anterior duplication of: See Foot, preaxial polydactyly of;
+                                                                          Hand, preaxial polydactyly of
+Hand, wide: See Hand, broad
+                                                                          Lobster claw deformity: See Foot, split; Hand, split
+
+Heel, Prominent
+Definition: Exaggerated or marked projection of the posterior pole        Macrodactyly
+of the heel (Fig. 46). subjective                                         Definition: Significant increase in the length and girth of most or all
+    Comment: No sensible thresholds or landmarks could be iden-           of a digit compared to its contralateral digit (if unaffected) or
+tified for this finding so the examiners must rely on their experience.   compared to what would be expected for age/body build. The
+Hypodactyly: See Finger, absent; Hallux, absent; Thumb, absent;           increased girth is accompanied by an increase in the dorso-ventral
+Toe, absent                                                               dimension AND the lateral dimension of the digit (Fig. 48).
+                                                                          subjective
+Hypophalangy: See Finger, partial absence of; Toe, partial                   Comment: There are no recognized standards for the girth of
+absence of                                                                digits and this finding can vary substantially in the population. This
+                                                                                                                                                  15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+110                                                                                          AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                         Metacarpal, Short
+                                                                         Definition: Diminished length of one or more metacarpal bones in
+                                                                         relation to the others of the same hand or to the contralateral
+                                                                         metacarpal (Fig. 49). subjective
+                                                                            Comment: Short metacarpals can involve any of the metacarpal
+                                                                         bones, and the affected ray should be specified. The assessment of
+                                                                         isolated short metacarpal can be made by viewing the dorsum
+                                                                         of the hand when clenched. Note that if metacarpals F2–5 are
+                                                                         affected, the correct term is Short palm. The affected digits should
+                                                                         be specified.
+
+
+
+
+      FIG. 48. A: Macrodactyly of F2-3, left hand. Note that this
+      person also has Clinodactyly, but that finding should be
+      coded separately. B: Macrodactyly of T1-2, right foot. This
+      patient also has Widely spaced toes. See also Figures 18,
+      81, and 83.
+
+                                                                             FIG. 49. A: Short metacarpal, F5, left hand. Note that
+                                                                             this patient also has a Postaxial polydactyly. B: Short
+                                                                             metacarpals, F34, left hand F4, right hand. Note that
+                                                                             this patient’s hands are shown in dorsal view, with the
+                                                                             fingers flexed, which can facilitate the recognition of this
+assessment relies on the judgment of the examiner to recognize               finding.
+when the difference between the expected and the observed is
+significant. The affected digits should be specified. The definition
+does not mandate the component of the increased size (bone,
+connective tissue, etc.), but should exclude edema. The require-
+ment that the girth is most, or all, of the digit is intended to
+distinguish this from broad fingertips. This should be distinguished     Metatarsal, Short
+from Broad fingers or Broad fingertips as the girth is circumferen-
+                                                                         Definition: Diminished length of a metatarsal, with resultant
+tial in macrodactyly, which is not the case for broad fingers or broad
+                                                                         proximal displacement of the associated toe (Fig. 50). subjective
+fingertips, which are increased only (or predominantly) in their
+                                                                            Comment: This is a subjective assessment and one generally
+lateral (A/P) width.
+                                                                         compares the position of the MTP joint to that of the contralateral
+   Replaces: Megalodactyly; Pachydactyly
+                                                                         digit or the putatively shortened ray in proportion to the other rays.
+Megalodactyly: See Macrodactyly                                          The affected digits should be specified.
+                                                                                                                                                15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                          111
+
+
+
+
+    FIG. 50. Short metatarsals, T3,4, bilateral.
+
+                                                                           FIG. 52. Broad palm, left. Note that this patient had normal
+                                                                           palm length, so that this is not an example of a short palm
+                                                                           with only an apparently broad palm.
+Metatarsus Adductus
+Definition: The metatarsals are deviated medially (tibially)
+(Fig. 51). subjective
+   Comment: This is considered subjective, as there is no objective    subjective assessment as short metacarpals can mimic a broad palm.
+threshold for the finding.                                             In persons with polydactyly that includes a supernumerary meta-
+                                                                       carpal, that should be separately coded and the measurement
+                                                                       technique from Hall et al. [2007] would need to be modified to
+                                                                       account for the supernumerary digit (i.e., with postaxial polydac-
+                                                                       tyly, measure to the sixth MCPJ).
+                                                                          Synonym: Wide palm
+
+                                                                       Palm, Long
+                                                                       Definition: For children from birth to 16 years of age the length of
+                                                                       the palm is more than the 97th centile (Fig. 53). objective OR
+                                                                          The length of the palm appears relatively long compared to the
+                                                                       finger length or the limb length. subjective
+                                                                          Comment: Palm length standards are found in Feingold and
+                                                                       Bossert [1974] and Hall et al. [2007]. The palm is measured from the
+                                                                       distal wrist flexion crease to the flexion crease of the F3 MCPJ. The
+                                                                       term ‘‘long hand’’ should not be used as it is a bundled definition of
+
+    FIG. 51. Metatarsus adductus, left. Note that this patient
+    also has a Sandal gap.
+
+
+
+
+Oligodactyly: See Finger, absent; Toe, absent
+Pachydactyly: See Finger, broad; Macrodactyly
+
+Palm, Broad
+Definition: For children from birth to 4 years of age the palm width
+is more than 2 SD above the mean; for children from 4 to 16 years of
+age the palm width is above the 95th centile (Fig. 52). objective OR       FIG. 53. Long palms. Note that this patient had normal palm
+   The width of the palm appears disproportionately wide for the           width, so that this is not an example of a narrow palm with
+length. subjective                                                         only an apparently broad palm. Note that this image
+                                                                           illustrates a number of other features, which are not
+   Comment: Hand width is measured across the palm at the level
+                                                                           delineated. See also Figures 63 and 85.
+of the MCPJ (radial aspect of the second MCPJ to the ulnar aspect of
+the fifth MCPJ) [Hall et al., 2007]. Caution is advised with the
+                                                                                                                                                   15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+112                                                                                          AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+two readily separable terms, Long fingers (which, as noted above,
+can itself be a bundled term) and Long palm.
+  Replaces: Long hand
+
+Palm, Narrow
+Definition: For children from birth to 4 years of age, the palm width
+is more than 2 SD below the mean; for children from 4 to 16 years of
+age the palm width is below the 5th centile (Fig. 54). objective OR
+   The width of the palm appears disproportionately narrow for its
+length. subjective                                                           FIG. 55. Short palms. Note that this patient also has Short
+   Comment: Palm width is measured across the palm at the level of           fingers. This patient does not warrant a finding of Small
+the MCPJ (radial aspect of the F2 MCPJ to the ulnar aspect of the F5         hands, because the fingers are of normal caliber. See also
+MCPJ). Norms are specified in Hall et al. [2007]. Caution is advised         Figure 14.
+for the subjective assessment as the breadth may be in the normal
+range with disproportionately increased length, which appears
+narrow. This finding may be associated with elongated/slender
+limbs in general, but that finding does not bear on the coding of this
+feature. Proximal narrowing may indicate small thenar or hypoth-           Replaces: Short hand
+enar eminences. This term replaces ‘‘narrow hands’’ as that term
+may leave the impression that it includes the thumb, which it            Palm, wide: See Palm, broad
+does not.
+   Replaces: Narrow hand                                                 Pes Cavus
+                                                                         Definition: The presence of an unusually high plantar arch
+                                                                         (Fig. 56). subjective
+                                                                            Comment: This is a subjective definition for which we could
+                                                                         identify no thresholds or standards. Examiners must rely on their
+                                                                         experience to make this assessment.
+                                                                            Replaces: High arch
+
+
+
+
+      FIG. 54. Narrow palms. Note that this patient had normal
+      palm width, so that this is not an example of a long palms
+      with only apparently narrow palms.
+
+
+
+
+Palm, Short
+Definition: For children from birth to 16 years of age the length of         FIG. 56. Pes cavus. Note that this patient could also be said
+the palm is less than the 3rd centile (Fig. 55). objective OR                to have pes equinus, but that term is not included in the
+   The length of the palm appears relatively small compared to the           current terminology set.
+finger length or the limb length. subjective
+   Comment: Palm length is measured as described in Feingold and
+Bossert [1974] and Hall et al. [2007]. This term is reserved for
+individuals with shortening of all four metacarpals 2–5. Individuals     Pes Planus
+with fewer than four shortened metacarpals (in a eudactylous hand,       Definition: A foot where the arch is in contact with the ground or
+the metacarpals of F2–5) should be coded as Short metacarpal. See        floor when the individual is standing (Fig. 57). objective OR
+the entry for Small hand for a discussion of this finding. ‘‘Short          In a patient lying supine, a foot where the arch is in contact with
+hand’’ should not be used as it is a bundle of two readily separable     the surface of a flat board pressed against the sole of the foot by the
+terms, Short fingers (which, as noted above, can itself be a bundled     examiner with a pressure similar to that expected from weight
+term) and Short palm.                                                    bearing. objective OR
+                                                                                                                                                    15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                             113
+
+
+    The height of the arch is reduced. subjective
+    Comment: The second definition was conceived by this working
+group based on a common-sense analysis of how one could
+generalize the first definition to a non-ambulatory individual.
+There are no data on this assessment and we invite feedback on
+its utility.
+    Replaces: Dropped arches; Fallen arches
+
+
+
+
+    FIG. 57. Pes planus, left foot.
+
+                                                                             FIG. 58. A: Mesoaxial polydactyly of the hand, right. Note
+                                                                             that this patient has heptadactyly, manifesting as well
+                                                                             Postaxial polydactyly, type B. The figure also shows Small
+Pollex: See various terms under the heading of ‘‘Thumb’’                     nail, F6 and Overlapping fingers F56. See also Figure 11A.
+                                                                             B: Mesoaxial polydactyly of the right foot. This patient also
+Polydactyly, anterior: See Foot, preaxial polydactyly of; Hand,              has Cutaneous syndactyly of the toes, partial, T23.
+preaxial polydactyly of
+Polydactyly, central: See Polydactyly, mesoaxial
+Polydactyly, insertional: See Polydactyly, mesoaxial                     Polydactyly, Mirror Image
+Polydactyly, intercalary: See Polydactyly, mesoaxial                     Definition: A hand or foot with more than five digits that has a
+                                                                         recognizable A/P axis of symmetry. The axis can lie within a
+                                                                         normally formed or partially duplicated digit resembling a middle
+                                                                         finger, index finger, thumb, toe, or hallux. Alternatively, the axis can
+Polydactyly, Mesoaxial                                                   be in an interdigital space with a flanking pair of digits that resemble
+                                                                         a middle finger, index finger, thumb, toe or hallux. The most lateral
+Definition: The presence of a supernumerary finger or toe (not a         digits on each side of the hand typically resemble fifth fingers/toes
+thumb or hallux) involving the third or fourth metacarpal/tarsal         (Fig. 59). subjective
+with associated osseous syndactyly (Fig. 58). objective                     Comment: This is considered to be a subjective assessment.
+    Comment: To determine this finding in the hand without using a       Although polydactyly is obviously objective, the assessment of the
+radiograph [see Allanson et al., 2009b this issue, for a discussion of
+the use of radiographs], the examiner grasps two adjacent meta-
+carpals, each with a thumb and index finger on the dorsum and
+palmar aspect of the hand and attempts to independently maneuver
+the metacarpals. If they cannot be independently manipulated,
+osseous syndactyly is present [Biesecker, 2007]. Consensus could
+not be reached on the utility of the bundled term of Mesoaxial
+polydactyly, so it is specified in the terminology for the time being.
+It is arguably superior to describe the two separate terms (e.g.,
+Osseous syndactyly of F3,4 (metacarpal) and Postaxial polydactyly
+of the hand, type A). The term ‘‘insertional polydactyly’’ may be less
+desirable because the word ‘‘insertion’’ implies mechanism, which
+is unlikely to be an insertion. The utility of this term should be           FIG. 59. Mirror image polydactyly, right foot. Note that this
+reviewed over time.                                                          patient also has Cutaneous syndactyly of numerous
+                                                                             digits, notable on the right foot.
+    Synonym: Central polydactyly; Intercalary polydactyly
+    Replaces: Insertional polydactyly
+                                                                                                                                                  15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+114                                                                                         AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+A/P symmetry component is arguably subjective. It may be associ-            Comment: This descriptor requires, in addition to the absence of
+ated with a forearm that has two ulnae, but this is not required for     the phalanges, absence of the metacarpal or metatarsal. Compare
+the finding to be made.                                                  this to Absent thumb, Absent hallux, Absent toes, and Absent
+                                                                         fingers. In most cases, the absent metacarpal or metatarsal can be
+Polydactyly, fibular: See Foot, postaxial polydactyly of
+                                                                         assessed by palpation, but in some cases radiographs may be useful.
+Polydactyly, posterior: See Foot, postaxial polydactyly of; Hand,        This definition excludes Split hand and Split foot. If a patient meets
+postaxial polydactyly of                                                 the definition of either of those terms, they should be used and
+                                                                         Absent ray should not.
+Polydactyly, radial: See Hand, preaxial polydactyly of
+Posterior duplication: See Foot, postaxial polydactyly of; Hand,
+postaxial polydactyly of
+                                                                         Sandal Gap
+                                                                         Definition: A widely spaced gap between the first toe (the great toe)
+Radial clubhand: See Hand, radial deviation of                           and the second toe (Fig. 61). subjective
+                                                                            Comment: The term is a subjective one but should be used when
+Ray, Absent                                                              the gap between the toes is as wide as the second toe is broad.
+Definition: The absence of all phalanges of a digit and the associated
+metacarpal /metatarsal (Fig. 60). objective
+
+
+
+
+                                                                             FIG. 61. A: Sandal gap, right foot. B: Sandal gaps. See also
+                                                                             Figures 48 and 51.
+
+
+
+
+                                                                         Sole, Convex Contour of
+                                                                         Definition: The contour of the foot in lateral profile has a convex
+                                                                         shape (Fig. 62). subjective
+                                                                           Comment: This term was established as the convex contour may
+                                                                         occur without the prominent heel, which together comprise the
+      FIG. 60. A: Absent ray, right hand. Note that this patient also    bundled term Rocker bottom foot.
+      has Short distal phalanges of the fingers and Short nails.
+      B: Absent ray, left foot. Note that this patient also              Streblodactyly: See Camptodactyly
+      manifests a Broad hallux, which should be coded
+                                                                         Syndactyly; See Fingers, cutaneous syndactyly of; Toes, cuta-
+      separately.
+                                                                         neous syndactyly of; Foot, osseous syndactyly of; Hand, osseous
+                                                                         syndactyly of
+                                                                                                                                                    15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                            115
+
+
+                                                                       Thenar hypoplasia: See Thenar eminence, small
+                                                                       Thumb abducted: See Thumb, hitchhiker
+
+                                                                       Thumb, Absent
+                                                                       Definition: The absence of both phalanges of a thumb and the
+                                                                       associated soft tissues (Fig. 64). objective
+                                                                          Comment: This descriptor does not require absence of the
+                                                                       metacarpal. This definition excludes Partial absence of the thumb.
+                                                                       Oligodactyly and hypodactyly have been replaced with more spe-
+                                                                       cific terms to allow the distinction of loss of a thumb from loss of
+    FIG. 62. Convex contour of the sole right foot. Note the heel      F2–5. The term ‘‘oligodactyly’’ is replaced because oligodactyly
+    in this patient is not sufficiently prominent to warrant the       refers to the digits that remain, and so ‘‘oligodactyly of the thumb’’
+    descriptor of Rocker bottom foot.                                  or ‘‘oligodactyly F1’’ is nonsensical.
+                                                                          Replaces: Hypodactyly; Oligodactyly
+
+
+Thenar Eminence, Small
+Definition: Reduced palmar soft tissue mass surrounding the base
+of the thumb (Fig. 63). subjective
+   Comment: The reduced soft tissue is typically abductor pollicis
+brevis and flexor pollicis brevis muscle bulk. Detection of this
+abnormality entails clinical judgment, especially in mild cases. The
+bulk of the muscle mass around the base of the thumb is diminished,
+and there may be a mild concavity over the volar aspect of the first
+metacarpal. When the deficiency is unilateral, comparison between
+the two hands will point up the often-subtle change in contour of
+the thenar muscles. If the degree of involvement is severe, the palm
+may taper in width proximally.
+   Replaces: Thenar hypoplasia
+
+
+
+
+                                                                           FIG. 64. Absent thumb, left.
+
+
+
+
+                                                                       Thumb, Adducted
+                                                                       Definition: In the resting position, the tip of the thumb is on, or
+                                                                       near, the palm, close to the base of the fourth or fifth finger (Fig. 65).
+                                                                       subjective
+                                                                          Comment: The thumb is both flexed and adducted. Lesser
+                                                                       degrees of adduction than that specified here may warrant the use
+                                                                       of this term, for example, when the tip of the thumb lies near the
+    FIG. 63. Small Thenar eminence right hand. Note that this          base of F2 or F3.
+    person also has Clubbing (visible in the thumb only). This
+    patient also has Long palm, right hand.
+                                                                       Thumb, Broad
+                                                                       Definition: Increased thumb width without increased dorso-ven-
+                                                                       tral dimension (Fig. 66). subjective
+Terminal phalanx, short: See Finger, short distal phalanx of;             Comment: There is substantial variability in thumb width and it
+Hallux, short distal phalanx of; Thumb, short distal phalanx of;       may be difficult to determine the threshold for this finding. As it is
+Toe, short distal phalanx of                                           commonly bilateral, comparing to the contralateral digit will not be
+                                                                                                                                                    15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+116                                                                                            AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+
+
+      FIG. 65. Thumb, adducted, right.                                          FIG. 67. Hitchhiker thumb, right.
+
+
+
+
+helpful. Some have suggested using a definition of thumb width              Thumb, Partial Absence of
+measured at the IP joint of >1.5X the width of the index finger             Definition: The absence of a phalangeal segment of a thumb
+measured at the DIPJ, but no data to support this are available. Note       (Fig. 68). objective
+that this term should not be used for thumbs that meet the                     Comment: The part that is absent may be specified. The ‘‘distal’’
+definition for Macrodactyly. There is a standard for thumb width            modifier specifies the loss of the distal phalanx; clinically this is
+at birth of 9.8 0.5 mm (1 SD) (see Saul et al. [1998], p 45), but this is   defined by the absence of the nail. The ‘‘proximal’’ modifier
+not widely used and does not take into account gestational age, or a        specifies the loss of the proximal phalanx. This finding is distinct
+body who is small for gestational age. The assessment is difficult          from Short thumb.
+when the thumb is short.                                                       Replaces: Hypophalangy
+   Synonym: Broad pollex; Wide thumb
+
+
+
+
+      FIG. 66. Broad thumbs. See also Figure 9A.
+
+
+                                                                                FIG. 68. Thumb, partial absence of, right. Note that this
+                                                                                patient also has Absent fingers, F2–4, and Absent finger
+Thumb, digitalized: See Thumb, triphalangeal                                    F5, partial.
+
+
+
+Thumb, Hitchhiker
+Definition: With the hand relaxed and the thumb in the plane of the         Thumb, Proximal Placement of
+palm, the axis of the thumb forms an angle 90 degrees with the             Definition: Thumb placement index >0.55 (Fig. 69). objective OR
+long axis of the hand (Fig. 67). objective                                     The base of the thumb appears closer to the wrist than is typical.
+   Replaces: Abducted thumb                                                 subjective.
+                                                                                                                                                        15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                                117
+
+
+                                                                             Toe, Absent
+                                                                             Definition: The absence of all phalanges of a non-hallux digit of the
+                                                                             foot and the associated soft tissues (Fig. 71). objective
+                                                                                Comment: Note that this descriptor does not require absence of
+                                                                             the metatarsal. The affected digits should be specified, although this
+                                                                             may be difficult. In the latter case, the specified term should be
+                                                                             ‘‘Absent toe, right foot’’ (with the identity of the missing toe not
+                                                                             specified). This definition excludes Partial absence of the toe. This
+                                                                             absent toe definition excludes Absent hallux because it is usually
+                                                                             obvious if the missing digit is a hallux. It may be difficult to
+                                                                             distinguish an absent toe from two digits with an extreme degree
+                                                                             of osseous and cutaneous syndactyly. If all digits are missing, the
+                                                                             term Adactyly should be used. The term Oligodactyly may be used
+                                                                             as a synonym, but only in situations where the missing digit is not
+                                                                             specified. For example, to state that a patient has Oligodactyly F5 is
+                                                                             incorrect because the oligodactyly refers to the digits that are
+    FIG. 69. Thumb, proximal placement of, right hand. Note that
+                                                                             present and the F5 refers to the digit that is absent. This is awkward
+    this patient also has Short finger, F2.
+                                                                             and could be confused with higher order deficiencies.
+                                                                                Replaces: Hypodactyly
+                                                                                Synonym: Oligodactyly
+   Comment: The technique for the thumb placement index is
+described in detail [Malina et al., 1973; Hall et al., 2007]. Briefly, the
+thumb placement index is the distance from the proximal crease of
+the index finger to the angle of the first interdigital space divided by
+the distance from the proximal crease of the index finger to the wrist
+flexion crease at the base of the thumb. This term should not be used
+with Preaxial polydactyly.
+
+Thumb, Triphalangeal
+Definition: A thumb with three phalanges in a single, proximo-
+distal axis (Fig. 70). objective
+   Comment: The requirement for a single PD axis relates to the                  FIG. 71. Absent toe, right.
+issue that partial forms of Preaxial polydactyly may comprise a
+partially duplicated thumb with two distal phalanges and a single
+proximal phalanx. That finding is instead coded as a mild form of
+thumb polydactyly. Note that this finding can be readily assessed by         Toe, Broad
+examination and/or physical manipulation of the thumb.
+                                                                             Definition: Visible increase in width of the non-hallux digit without
+   Replaces: Digitalized thumb; Finger-like thumb
+                                                                             an increase in the dorso-ventral dimension (Fig. 72). subjective
+                                                                                Comment: Note that the girth may be increased in a broad toe,
+                                                                             but this must be distinguished from Macrodactyly because in
+                                                                             Macrodactyly the length is increased as well. The affected digit
+                                                                             should be specified. Note that this assessment may be difficult when
+                                                                             the toes are short. This term is not used for the first digit, see Broad
+                                                                             hallux. If all five digits are broad, both terms should be used for that
+                                                                             patient.
+
+                                                                             Toes, Cutaneous Syndactyly of
+                                                                             Definition: A soft tissue continuity in the A/P axis between adjacent
+                                                                             foot digits that involves at least half of the P/D length of one of the
+                                                                             two involved digits (Fig. 73). objective OR
+                                                                                A soft tissue continuity in the A/P axis between two digits of the
+    FIG. 70. Triphalangeal thumb, right.                                     foot that does not meet the prior objective criteria. subjective
+                                                                                Comment: The digits (or part of) are joined together by soft
+                                                                             tissue that is not normally present between the digits at that point in
+Tibial polydactyly: See Foot, preaxial polydactyly of                        the P/D axis. The definition of toe syndactyly is subtly different from
+                                                                                                                                              15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+118                                                                                    AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                    that of the hand. The definition used for the hands was thought to be
+                                                                    difficult with toes, as the phalangeal lengths are small and an
+                                                                    assessment of the degree of syndactyly is impractical. A modifier
+                                                                    of ‘‘complete’’ may be used if the syndactyly extends to the distal end
+                                                                    of the nail bed. The affected digits should be specified.
+                                                                        Replaces: Syndactyly (without specification); Zygodactyly
+                                                                    Toe, great; all terms referring to the first toe are listed under
+                                                                    Hallux or Toe
+                                                                    Toe, hypoplastic: See Toe, small
+
+                                                                    Toe, Long
+                                                                    Definition: Digits that appear disproportionately long compared to
+                                                                    the foot (Fig. 74). subjective
+                                                                       Comment: This finding must be distinguished from digits that
+                                                                    are thin but of normal length and that of a short mid and hind foot
+                                                                    with normal digit lengths. The affected digits should be specified.
+                                                                    The term arachnodactyly should be discontinued as it may be
+                                                                    considered disparaging to liken a patient’s digits to that of a spider.
+                                                                    If only a subset of the digits of a limb is lengthened, the affected
+      FIG. 72. Toe, broad, left, T1. See also Figures 92, 94,
+                                                                    digits should be specified.
+      and 101.                                                         Replaces: Arachnodactyly
+
+
+
+
+                                                                        FIG. 74. Long toes, left foot. See also Figures 24 and 79.
+
+
+
+      FIG. 73. A: Cutaneous syndactyly of the toes, complete,       Toe, narrow: See Toe, slender
+      TT1–6, left. See also Figures 58B, 59, 78, 92, 94, and 101.
+      Note that his patient also has Preaxial polydactyly of the    Toes, Overlapping
+      foot, left. B: Cutaneous syndactyly of the toes, T2–4,        Definition: Describes a foot digit resting on the dorsal surface of an
+      bilateral. As specified in the definitions, this finding is   adjacent digit when the foot is at rest (Fig. 75). objective
+      objective if the syndactyly extends more than half the
+                                                                       Comment: This descriptor is ordered depending on which toes
+      proximo-distal length of the digits.
+                                                                    are involved. The overriding toe is labeled, as specified in the
+                                                                    introduction (item 3): for example, T3,4. The ordering of the
+                                                                                                                                                    15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                             119
+
+
+                                                                         still present. It may be difficult to know which phalanx is absent
+                                                                         without X-rays and even then, the missing bone may not be
+                                                                         identified (note no attempt is made to distinguish missing middle
+                                                                         from proximal phalanges). In this situation the location adjective
+                                                                         should be removed. Note that this finding is distinct from Short
+                                                                         toes, (which are reduced in length but have the normal number of
+                                                                         phalangeal segments). Partial absence of the hallux is an alternative
+                                                                         term that may be used for the first toe.
+                                                                             Replaces: Hypophalangy
+
+                                                                         Toe, Short
+                                                                         Definition: Digits that appear disproportionately short compared
+                                                                         to the foot (Fig. 77). subjective
+                                                                            Comment: This finding must be distinguished from digits that
+                                                                         are of increased girth but of normal length and that of a long mid-
+    FIG. 75. Overlapping toes T45, bilateral.                            and hind foot with normal digit lengths. The affected digits should
+                                                                         be specified as described in the introductory comments. Note that
+                                                                         we designate brachydactyly as a synonym, but this use of the term is
+                                                                         distinct from the use of the same word in Bell’s classification (see
+                                                                         Short fingers).
+numbers specifies which toe is dorsal, that is, with dorsum of the          Synonym: Brachydactyly of the foot
+foot facing upward the toe on top is/are recorded first separated by a
+comma from the digit that is/are overlapped. Toes that are laterally
+deviated, but do not rest on top of adjacent toes should be coded as
+Clinodactyly.
+
+
+Toe, Partial Absence of
+Definition: The absence of a phalangeal segment of a toe or hallux
+(Fig. 76). objective
+   Comment: The part that is absent may be specified. The ‘‘distal’’
+modifier specifies the loss of the distal phalanx; clinically this is
+defined by the absence of the nail. The ‘‘proximal’’ modifier
+specifies the loss of the proximal or middle phalanx with the nail
+
+
+
+
+                                                                             FIG. 77. Short toes, T1–5, right foot. Note that this patient
+                                                                             also has Short distal phalanges of toes T2,3.
+
+
+
+
+                                                                         Toe, Short Distal Phalanx of
+                                                                         Definition: Short distance from the end of the toe to the most distal
+                                                                         interphalangeal crease or DIPJ flexion point (Fig. 78). subjective
+                                                                            Comment: This term differs from Partial absence of the toe
+                                                                         because in that term the phalanx must be missing, whereas here it
+                                                                         may be small, but present. Relative shortening of the distal phalan-
+                                                                         ges of the toes can be harder to assess than in the fingers, as they are
+                                                                         normally quite short. Distal phalangeal lengths can be assessed
+    FIG. 76. Toes, partial absence of, right foot, T2,4. Note that       subjectively by comparing that digit segment to the rest of the digit,
+    this is the same image as in Figure 82, Toe, tapered.
+                                                                         to other normal digits in that patient, or to typical patients of that
+                                                                         age or build. Although flexion creases can be useful in the hand
+                                                                                                                                                  15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+120                                                                                           AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                          Toe, Small
+                                                                          Definition: Significant reduction in both length and girth of the toe
+                                                                          compared to the contralateral toe, or alternatively, compared to a
+                                                                          typical toe size for an age-matched individual (Fig. 80). subjective
+                                                                             Comment: This is an acknowledged bundled term. There are no
+                                                                          standards for this finding, clinical judgment must be used. The
+                                                                          affected toes should be numbered.
+
+
+
+
+      FIG. 78. Short distal phalanges of toes T2–4, right foot. Note
+      that this patient also has Cutaneous syndactyly of toes
+      T23. See also Figure 77.
+
+
+
+
+(see Short distal phalanx of the finger), this may not be practical in
+the foot. Alternatively, one may be able to palpate the joint.
+   Synonym: Brachytelephalangy
+   Replaces: Short terminal phalanx of the hallux
+                                                                              FIG. 80. Small toe, T1, left foot. See also Figure 81.
+Toe, Slender
+Definition: Digits are disproportionately narrow (reduced girth)
+for the hand/foot size or build of the individual (Fig. 79). subjective   Toes, Splayed
+   Comment: The affected digits should be specified. The assess-          Definition: Divergence of digits along the A/P axis (in the plane of
+ment of this finding is difficult when the digits are long. The bundled   the sole) (Fig. 81). subjective
+and pejorative term ‘‘arachnodactyly’’ is replaced by the separate           Comment: This may be associated with Macrodactyly but this
+descriptors Long toe and Slender toe.                                     should be recorded separately. The affected digits should be
+   Synonym: Narrow digit; Narrow toe                                      specified.
+   Replaces: Thin digits; Arachnodactyly                                     Synonym: Spreading of the digits
+
+
+
+
+                                                                              FIG. 81. Splayed toes, T23 right foot, T12, left foot. Note that
+                                                                              this finding differs from Toes, widely spaced, because in
+                                                                              splayed toes the toes have a divergent axis of orientation.
+                                                                              This patient also has Small toe, T1, right and Macrodactyly
+                                                                              of T2,3, right, and T1,2, left.
+
+
+
+      FIG. 79. Slender toes, T2–5, right foot. Note that this patient     Toe, Tapered
+      also has Long toes T1–5.
+                                                                          Definition: The gradual reduction in girth of the digit from
+                                                                          proximal to distal (Fig. 82). subjective
+                                                                                                                                                 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                         121
+
+
+                                                                           Comment: This description is based on the width of the gap
+                                                                        between the toes. It is usually used when the width of the toes
+                                                                        remains normal rather than to describe a situation where the toes
+                                                                        are thin or narrow. This term should not be used for the situation
+                                                                        where the finding is limited to a gap between T1,2 (see Sandal gap).
+                                                                        Ulnar clubhand: See Hand, ulnar deviation of
+                                                                        Ulnar polydactyly: See Hand, postaxial polydactyly of
+                                                                        Zygodactyly: See Fingers, cutaneous syndactyly of; Toes, cutaneous
+                                                                        syndactyly of
+
+
+                                                                        CREASES
+                                                                        See Fig. 84 for a diagram of the three major palmar creases. One end
+                                                                        of the distal transverse crease is on the radial side of the hand
+                                                                        proximal to the base of the index finger or the second interdigital
+                                                                        space and extends toward the ulnar side of the palm. One end of the
+    FIG. 82. Toe, tapered, T5. Note that this is the same image as
+    in Figure 76, Toe, partial absence.                                 proximal transverse crease begins on the radial (anterior) side of the
+                                                                        palm in the first interdigital space and extends across the palm
+                                                                        towards, but does not typically reach, the ulnar side of the palm.
+   Comment: If the digits are not uniformly affected, they should be    One end of the thenar crease is typically coincident with the radial
+specified. If not specified, it refers to all the digits of the foot.   part of the proximal transverse crease and extends proximally
+                                                                        toward the wrist.
+Toe, thick: See Toe, broad                                                 Crease, simian: See Palmar crease, single transverse
+Toe, thin: See Toe, slender
+Toe, wide: See Toe, broad
+
+Toes, Widely Spaced
+Definition: An overall widening of the spaces between the digits
+(Fig. 83). subjective
+
+
+
+
+                                                                            FIG. 84. Normal palmar creases. See text for explanatory
+                                                                            material.
+
+
+
+
+                                                                        Palmar Crease, Absent
+                                                                        Definition: The absence of a major crease of the palm (distal
+                                                                        transverse crease, proximal transverse crease, or thenar crease)
+    FIG. 83. Toes, widely spaced, T1,2, T4,5. Note that this
+                                                                        (Fig. 85). subjective
+    patient also has Macrodactyly of T1,2.
+                                                                           Comment: This term is not used to describe the ‘‘missing’’ crease
+                                                                        in the case of a patient with a single transverse palmar crease.
+                                                                                                                                                15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+122                                                                                            AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+
+
+      FIG. 85. Palmar creases, absent, left hand. Note that this
+      patient also has Long palm, left and Single transverse
+      crease, right hand.
+
+
+
+
+Palmar Crease, Bridged
+                                                                               FIG. 87. Palmar creases, decreased, right hand.
+Definition: A crease that connects the proximal and distal trans-
+verse palmar creases (Fig. 86). objective
+   Comment: The crease that connects the two transverse creases
+should itself be more in the transverse (antero-posterior) than
+longitudinal (proximo-distal) orientation.
+   Synonym: Transitional palmar crease
+
+
+
+
+                                                                               FIG. 88. Palmar creases, deep. See also Figure 17.
+
+
+
+                                                                           Palmar Crease, Single Transverse
+                                                                           Definition: The distal and proximal transverse palmar creases are
+                                                                           merged into a single transverse palmar crease (Fig. 89). objective
+      FIG. 86. Bridged palmar crease, right hand.
+
+
+
+
+Palmar Creases, Decreased
+Definition: Poorly defined or shallow palmar creases (Fig. 87).
+subjective
+   Comment: This is a completely subjective term, requiring an
+experienced observer to distinguish this finding from common
+variation in creases. It refers to an overall diminution of the creases,
+not to diminution of a subset of the creases.
+   Replaces: Smooth palms
+
+Palmar Crease, Deep
+Definition: Excessively deep creases of the palm (Fig. 88). subjective
+  Comment: Like the term Decreased palmar creases, this assess-
+                                                                               FIG. 89. Single transverse palmar crease, right hand. See also
+ment requires an experienced observer to distinguish this from
+                                                                               Figures 5 and 85.
+common crease variation. One view is that deep creases are those in
+which lint could still get stuck, even if the palm is fully opened.
+                                                                                                                                                      15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                                123
+
+
+   Comment: The term ‘‘five finger crease’’ for the proximal              Comment: The proximal transverse (five finger) crease starts on
+transverse crease is sourced from [Hall et al., 2007]. The subtypes    the radial side of the hand near the base of the index finger and
+of single transverse palmar crease are not recognized here [Hook       extends toward the ulnar side of the palm, but does not reach the
+et al., 1974]. Replaces the term ‘‘Simian crease’’ as that term is     ulnar side. In this finding, the crease extends completely to the ulnar
+disparaging and less descriptive.                                      margin of the palm.
+   Replaces: Simian crease
+Palmar crease, transitional: See Palmar crease, bridged                NAILS
+Palms, smooth: See Palmar creases, decreased                           Brachyonychia: See Short nail
+                                                                       Koilonychia: See Nail, concave
+Plantar Crease, Deep Longitudinal
+                                                                       Micronychia: See Nail, small
+Definition: Narrow, paramedian longitudinal depressions in the
+plantar skin of the forefoot (Fig. 90). subjective
+   Comment: As described for a number of other terms, there are        Nail, Bifid
+no thresholds or guides for the clinician to assess this finding.      Definition: A digit with two nails, with at least some soft tissue
+Instead, the clinician must rely on experience.                        between them (Fig. 92). subjective
+
+
+
+
+                                                                           FIG. 92. Nail, bifid, T1, left foot. See also Figure 99. Note that
+                                                                           this patient also has a Broad toe, T1 and Cutaneous
+    FIG. 90. Deep longitudinal plantar crease, right foot.                 syndactyly, partial, T23.
+
+
+
+
+Sydney Crease                                                            Comment: See the Preaxial polydactyly definition for a related
+Definition: Extension of the proximal transverse crease (five finger   point on bifid nails. The affected digits should be specified. If the
+crease) to the ulnar edge of the palm (Fig. 91). objective             patient has a partially duplicated digit with two completely separate
+                                                                       nails, this term should not be used.
+
+                                                                       Nail, Concave
+                                                                       Definition: The natural longitudinal (P/D) convex arch is not
+                                                                       present or is inverted (Fig. 93). subjective
+                                                                           Comment: This often results in a saucer- or spoon-shaped nail
+                                                                       and the free edge of the nail is typically everted. The affected digits
+                                                                       should be specified. Note that the bundled term koilonychia is an
+                                                                       abnormal shape of the fingernail where the nail has raised ridges and
+                                                                       is thin and concave.
+                                                                           Replaces: Koilonychia; Spoon shaped nails
+                                                                       Nails, dystrophic: The term ‘‘dystrophic’’ is no longer accepted as a
+                                                                       descriptor for nails with an unusual morphology. The specific
+                                                                       characteristic should be described.
+
+                                                                       Nails, Fused
+                                                                       Definition: A nail plate that has a longitudinal separation with
+    FIG. 91. Sydney crease, left hand.
+                                                                       partially separated nails, each with a separate lateral radius of
+                                                                       curvature (Fig. 94). subjective
+                                                                                                                                                 15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+124                                                                                           AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+
+
+                                                                              FIG. 95. Nails, hyperconvex, left, F3,4. See also Figure 102.
+
+
+
+      FIG. 93. Nail, concave, left hand, F4. See also Figure 103.         Nail Narrow
+      Note that this image also shows Tapered fingers, left, F23,         Definition: Decreased width of nail (Fig. 96). subjective
+      and Broad fingertip, left, F4.                                        Comment: Standards for newborns were identified [Seaborg and
+                                                                          Bodurtha, 1989] but none were identified for older persons.
+                                                                          Therefore, for newborns, this could be objective, but this is rarely
+                                                                          measured. The affected digits should be specified.
+
+
+   Comment: The use of the word ‘‘fused’’ is not meant to imply
+that pathogenetically these nails were separate and merged. This is
+distinct from a split or cleaved nail, where the two parts of the nails
+share the same radius of curvature. The involved digits should be
+specified. It may be associated with underlying syndactylous digits,
+but these are coded separately.
+
+
+
+
+                                                                              FIG. 96. Nail, narrow, T2, left foot. Note that the length of
+                                                                              this nail is normal, so it is coded as narrow, not small.
+
+
+
+
+      FIG. 94. Nail, fused, T1, right foot. See also Figure 9A. This      Nail Pits
+      patient also has a Broad toe, left, T1 and Cutaneous
+                                                                          Definition: Small (typically about 1 mm or less in size) depressions
+      syndactyly, partial, left, T23.
+                                                                          on the dorsal nail surface (Fig. 97). subjective
+                                                                            Comment: The affected digits should be specified.
+
+Nail, hypoplastic: See Nail, small
+
+
+Nail, Hyperconvex
+Definition: When viewed on end (with the digit tip pointing toward
+the examiner’s eye) the curve of the nail forms a tighter curve of
+convexity (Fig. 95). subjective
+   Comment: No objective standards were identified for this
+finding. Another way to describe this finding is to say that the
+                                                                              FIG. 97. Nails, pitted, F2-4, right hand.
+observed curve has a smaller radius than does the typical nail. The
+affected digits should be specified.
+                                                                                                                                                     15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                               125
+
+
+
+
+    FIG. 98. Nails, ridged, F1, bilateral.                                   FIG. 100. Nails, small, left foot. See also Figures 12, 28, and
+                                                                             58A.
+
+
+
+Nail, Ridged                                                             are reduced, although it may be preferable to code the patient as
+Definition: Longitudinal, linear prominences in the nail plate           having both Short nail and Narrow nail. Standards for newborns
+(Fig. 98). subjective                                                    were identified [Seaborg and Bodurtha, 1989] but none were
+   Comment: There may be only one, or several ridges. The affected       identified for older persons. Therefore, for newborns, this could
+digits should be specified.                                              be objective, but this is rarely measured. The affected digits should
+                                                                         be specified.
+                                                                            Replaces: Hypoplastic nails
+Nail, Short                                                                 Synonym: Micronychia
+Definition: Decreased length of nail (Fig. 99). subjective
+   Comment: Use this designation when the length is reduced but          Nail, Split
+the width is normal. Standards for newborns were identified
+[Seaborg and Bodurtha, 1989] but none were identified for older          Definition: A nail plate that has a longitudinal separation and the
+persons. Therefore, for newborns, this could be objective, but this is   two sections of the nail share the same lateral radius of curvature
+rarely measured. The affected digits should be specified.                (Fig. 101). subjective
+   Synonym: Brachyonychia                                                   Comment: This is distinct from Fused nail, where the two parts
+                                                                         of the nail have a separate radius of curvature. The affected digits
+                                                                         should be specified as described in the introductory comments.
+
+
+
+
+                                                                             FIG. 101. Nail, split, T1, left foot. Note that this image also
+                                                                             shows a Broad toe, T1, left foot and Cutaneous syndactyly,
+                                                                             partial, T23, left foot.
+    FIG. 99. Nails, short, F1,5, left hand. See also Figures 15 and
+    60A. Note that this patient also has Bifid nail, F5 left hand;
+    Broad finger, F5, left hand; Short finger, left hand, F1; and        Nails, spoon shaped: See Nail, concave
+    Short metacarpal, F5 (see Fig. 49).
+
+                                                                         Nail, Thick
+                                                                         Definition: Nail that appears thick when viewed on end (Fig. 102).
+Nail, Small                                                              subjective
+Definition: A nail that is diminished in length and width (Fig. 100).       Comment: No objective standard for nail thickness could be
+subjective                                                               identified although an unsupported claim suggests that nails
+   Comment: This is a bundled term but is retained because of its        are 0.5 mm in females and 0.6 mm in males (http://www.
+common usage. This term may be used when the width and length            emedicine.com/orthoped/topic421.htm). There is a build up of
+                                                                                                                                                          15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+126                                                                                            AMERICAN JOURNAL OF MEDICAL GENETICS PART A
+
+
+                                                                           ACKNOWLEDGMENTS
+                                                                           This paper was reviewed and edited by the co-Chairs of the
+                                                                           International Dysmorphologic Terminology working group
+                                                                           (Judith Allanson, Leslie G. Biesecker, John Carey, and Raoul
+                                                                           C.M. Hennekam). This review and editing was necessary to increase
+                                                                           the consistency of formatting and content among the six
+                                                                           manuscripts [Carey et al., 2009; Hall et al., 2009; Hennekam
+                                                                           et al., 2009; Hunter et al., 2009; Allanson et al., 2009b] and this
+                                                                           paper. While the authors of the papers are responsible for the
+                                                                           original definitions and drafting of the papers, final responsibility
+                                                                           for the content of each paper is shared by the authors and the four
+      FIG. 102. Nails, thick, right hand, F1–5. Note that this image       co-Chairs. Images were provided by several of the authors, Raoul
+      also shows Hyperconvex nails.                                        C.M. Hennekam, Helen Hughes, and Julia Fekecs. The efforts of
+                                                                           LGB were supported by the Intramural Research Program of the
+                                                                           National Human Genome Research Institute of the National In-
+                                                                           stitutes of Health.
+
+
+
+keratin causing the nail plate to lift away from the nail bed. The         REFERENCES
+thickened nail plate is usually very hard.
+   Replaces: Onychogryposis; Pachyonychia                                  Aase JM. 1990. Diagnostic dysmorphology. New York: Plenum Medical
+                                                                            Book Co. 299 p.
+                                                                           Allanson JE, Biesecker LG, Carey JC, Hennekam RCM. 2009a. Elements of
+                                                                             morphology: Introduction. Am J Med Genet Part A 149A:2–5.
+Nail, Thin
+                                                                           Allanson JE, Cunniff C, Hoyme HE, McGaughran J, Muenke M, Neri G.
+Definition: Nail that appears thin when viewed on end (Fig. 103).            2009b. Elements of morphology: Standard terminology for the head and
+subjective                                                                   face. Am J Med Genet Part A 149A:6–28.
+   Comment: No objective standard for nail thickness could be              Anderson M, Blais MM, Green WT. 1956. Lengths of the growing foot.
+identified. An unsupported claim suggests that nails are 0.5 mm in          J Bone Joint Surg Am 38-A:998–1000.
+females and 0.6 mm in males (http://www.emedicine.com/                     Biesecker LG. 2007. A maneuver to assess the presence of metacarpal or
+orthoped/topic421.htm). Thin nails are usually brittle, may easily           metatarsal osseous syndactyly: A physical finding useful for the differen-
+fray, or break at the free edge. Thin nails usually grow slowly but this     tial diagnosis of polydactyly. Am J Med Genet Part A 143A:1788–
+definition does not require slow growth of the nail. Note that the           1789.
+term koilonychia is an abnormal shape of the fingernail where the          Carey JC, Cohen MM Jr, Curry CJR, Devriendt K, Holmes LB, Verloes A.
+nail has raised ridges and is thin and concave. Since it include other      2009. Elements of morphology: Standard terminology for the lips,
+characteristics besides thin nails, it should not be used to indicate       mouth, and oral region. Am J Med Genet Part A 149A:77–92.
+this. The affected digits should be specified.                             Feingold M, Bossert WH. 1974. Normal values for selected physical
+                                                                             parameters: An aid to syndrome delineation. Birth Defects Orig Artic
+                                                                             Ser 10:1–16.
+                                                                           Frantz CH, O’Rahilly R. 1961. Congenital skeletal limb deficiencies. J Bone
+                                                                             Joint Surg Am 43A:1202–1224.
+                                                                           Hall BD, Graham JM Jr, Cassidy SB, Opitz JM., 2009. Elements of
+                                                                            morphology: Standard terminology for the periorbital region. Am J Med
+                                                                            Genet Part A 149A:29–39.
+                                                                           Hall JG, Allanson J, Gripp KW, Slavotinek A. 2007. Handbook of physical
+                                                                            measurements. Oxford: Oxford University Press. 507 p.
+                                                                           Hennekam RCM, Cormier-Daire V, Hall J, Mehes K, Patton M, Stevenson
+                                                                            R. 2009. Elements of morphology: Standard terminology for the nose and
+                                                                            philtrum. Am J Med Genet Part A 149A:61–76.
+      FIG. 103. Nails, thin, F2,5, right hand. This image also shows
+      Concave nail, F2, left hand.                                         Hook EB, Bonenfant R, Powers ML, Greenberg M, Shapiro LR. 1974.
+                                                                            The human simian crease and its variants. A model for investigation of
+                                                                            serious congenital malformation. Birth Defects Orig Artic Ser 10:
+                                                                            7–16.
+                                                                           Hunter A, Frias J, Gillessen-Kaesbach G, Hughes H, Jones K, Wilson L.
+Onychogryposis: See Nails, thick                                            2009. Elements of morphology: Standard terminology for the ear. Am J
+                                                                            Med Genet Part A 149A:40–60.
+Pachyonychia: See Nails, thick
+                                                                                                                                                      15524833, 2009, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32596 by Spanish Cochrane National Provision (Ministerio de Sanidad), Wiley Online Library on [09/11/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+BIESECKER ET AL.                                                                                                                              127
+
+
+Malina RM, Hamill PVV, Lemeshow S. 1973. In: Roche AF, Malina RM,           Seaborg B, Bodurtha J. 1989. Nail size in normal infants. Establishing
+ editors. Manual of physical status and performance in childhood. New         standards for healthy term infants. Clin Pediatr (Phila) 28:142–145.
+ York: Plenum. pp. 1048-1056.
+                                                                            Swanson AB. 1976. A classification for congenital limb malformations. J
+Merlob P, Sivan Y, Reisner SH. 1984. Lower limb standards in newborns.       Hand Surg [Am] 1:8–22.
+ Am J Dis Child 138:140–142.
+                                                                            Swanson AB, Barsky AJ, Entin MA. 1968. Classification of limb malfor-
+Ozonoff MB. 1992. Pediatric orthopedic radiology. Philadelphia: Saunders.    mations on the basis of embryological failures. Surg Clin North Am
+ xii, 803 p.                                                                 48:1169–1179.
+Poznanski AK. 1984. The hand in radiologic diagnosis. 2nd edition.          Temtamy S, McKusick VA. 1969. Synopsis of hand malformations with
+ Philadelphia: Saunders. pp. 266–278.                                        particular emphasis on genetic factors. Birth Defects Orig Artic Ser
+                                                                             5:125–184.
+Saul RA, Seaver LH, Sweet KM, Geer JS, Phelan MC, Mills CM. 1998.
+  Growth references: Third trimester to adulthood. Greenville: Keys         Young CC, Niedfeldt MW, Morris GA, Eerkes KJ. 2005. Clinical examina-
+  Printing.                                                                  tion of the foot and ankle. Prim Care 32:105–132.
+
