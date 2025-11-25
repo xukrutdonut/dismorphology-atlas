@@ -601,8 +601,6 @@
                         <h3 class="definition-title">📖 Definición</h3>
                         <p class="definition-text" id="modalDefinition"></p>
                     </div>
-                    
-                    <div class="metadata" id="modalMetadata"></div>
                 </div>
                 
                 <div class="image-column">
@@ -907,12 +905,9 @@
         function showTermModal(term) {
             const modal = document.getElementById('termModal');
             
-            // Get region name
-            const regionName = getRegionName(term.category);
-            
             // Set content
             document.getElementById('modalTitle').textContent = term.term;
-            document.getElementById('modalCategory').textContent = regionName;
+            document.getElementById('modalCategory').textContent = getRegionName(term.category);
             
             // Check if it's a "see" reference
             const definitionEl = document.getElementById('modalDefinition');
@@ -922,23 +917,6 @@
             } else {
                 definitionEl.textContent = term.definition;
             }
-            
-            // Set metadata
-            const metadata = document.getElementById('modalMetadata');
-            metadata.innerHTML = `
-                <div class="metadata-item">
-                    <div class="metadata-label">Región Anatómica</div>
-                    <div class="metadata-value">${regionName}</div>
-                </div>
-                <div class="metadata-item">
-                    <div class="metadata-label">Documento</div>
-                    <div class="metadata-value">${term.document}</div>
-                </div>
-                <div class="metadata-item">
-                    <div class="metadata-label">Fuente</div>
-                    <div class="metadata-value">${term.source}</div>
-                </div>
-            `;
             
             // Load related images with captions
             const imagesData = getImagesForTerm(term);
