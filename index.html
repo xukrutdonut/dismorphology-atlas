@@ -54,43 +54,7 @@
             line-height: 1.4;
         }
         
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 40px;
-            padding: 80px 40px;
-            background: #f8f9fa;
-            margin: 0;
-        }
-        
-        .stat-card {
-            background: white;
-            padding: 40px 30px;
-            border-radius: 0;
-            text-align: center;
-            box-shadow: none;
-            transition: transform 0.2s ease;
-            border: 1px solid #f0f0f0;
-        }
-        
-        .stat-card:hover {
-            transform: translateY(-2px);
-        }
-        
-        .stat-number {
-            font-size: 2.5em;
-            font-weight: 700;
-            color: #111;
-            margin-bottom: 10px;
-        }
-        
-        .stat-label {
-            color: #767676;
-            font-size: 0.875em;
-            text-transform: none;
-            letter-spacing: 0;
-            font-weight: 400;
-        }
+
         
         .content {
             padding: 80px 40px;
@@ -496,7 +460,7 @@
             color: #111;
         }
         
-        /* Image viewer modal */
+        /* Advanced Image viewer modal */
         .image-viewer {
             display: none;
             position: fixed;
@@ -506,45 +470,104 @@
             width: 100%;
             height: 100%;
             background-color: rgba(0,0,0,0.95);
+            overflow: hidden;
         }
         
         .image-viewer-content {
             position: relative;
-            margin: auto;
+            width: 100%;
+            height: 100%;
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100%;
-            padding: 40px;
+            overflow: hidden;
         }
         
         .image-viewer img {
-            max-width: 200%;
-            max-height: 200%;
+            max-width: none;
+            max-height: none;
             object-fit: contain;
-            cursor: zoom-out;
+            cursor: grab;
+            transition: transform 0.1s ease-out;
+            user-select: none;
+        }
+        
+        .image-viewer img:active {
+            cursor: grabbing;
         }
         
         .image-viewer .close {
             position: fixed;
             top: 20px;
-            right: 40px;
-            font-size: 40px;
+            right: 20px;
+            font-size: 30px;
             color: white;
             cursor: pointer;
             z-index: 2001;
-            background: rgba(0,0,0,0.5);
+            background: rgba(0,0,0,0.7);
             border-radius: 50%;
-            width: 60px;
-            height: 60px;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.3s;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        .image-viewer .close:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        .zoom-controls {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            z-index: 2001;
+            background: rgba(0,0,0,0.7);
+            padding: 10px 20px;
+            border-radius: 25px;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        
+        .zoom-btn {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: bold;
             display: flex;
             align-items: center;
             justify-content: center;
             transition: background 0.3s;
         }
         
-        .image-viewer .close:hover {
-            background: rgba(255,255,255,0.2);
+        .zoom-btn:hover {
+            background: rgba(255,255,255,0.4);
+        }
+        
+        .zoom-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .zoom-level {
+            color: white;
+            padding: 0 15px;
+            display: flex;
+            align-items: center;
+            font-size: 14px;
+            font-weight: 500;
+            min-width: 60px;
+            text-align: center;
+            justify-content: center;
         }
         
         /* Responsive design for modal */
@@ -588,24 +611,7 @@
             <p class="subtitle">Terminología estándar para fenotipos humanos</p>
         </header>
         
-        <div class="stats" id="stats">
-            <div class="stat-card">
-                <div class="stat-number" id="totalTerms">-</div>
-                <div class="stat-label">Términos</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number" id="totalImages">-</div>
-                <div class="stat-label">Imágenes</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number" id="totalDocs">-</div>
-                <div class="stat-label">Documentos</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number" id="totalCategories">-</div>
-                <div class="stat-label">Categorías</div>
-            </div>
-        </div>
+
         
         <div class="content">
             <p class="intro-text">
@@ -644,11 +650,16 @@
         </div>
     </div>
     
-    <!-- Modal para ver imagen en grande -->
+    <!-- Modal para ver imagen en grande con zoom avanzado -->
     <div id="imageViewer" class="image-viewer">
         <span class="close" onclick="closeImageViewer()">&times;</span>
         <div class="image-viewer-content">
             <img id="viewerImage" src="" alt="">
+        </div>
+        <div class="zoom-controls">
+            <button class="zoom-btn" id="zoomOut" onclick="zoomImage(-0.2)">-</button>
+            <div class="zoom-level" id="zoomLevel">100%</div>
+            <button class="zoom-btn" id="zoomIn" onclick="zoomImage(0.2)">+</button>
         </div>
     </div>
     
@@ -772,11 +783,7 @@
                     }
                 }
                 
-                // Update stats
-                document.getElementById('totalTerms').textContent = allTerms.length;
-                document.getElementById('totalImages').textContent = summary.total_images;
-                document.getElementById('totalDocs').textContent = summary.total_documents;
-                document.getElementById('totalCategories').textContent = Object.keys(summary.categories).length;
+                // Stats removed from UI
                 
                 // Create accordion
                 createAccordion();
@@ -1059,22 +1066,180 @@
             }
         }
         
-        // View image in full screen
+        // Advanced image viewer with zoom and pan
+        let currentZoom = 1;
+        let isDragging = false;
+        let dragStartX = 0;
+        let dragStartY = 0;
+        let imgTranslateX = 0;
+        let imgTranslateY = 0;
+        
         function viewImage(src, caption) {
             const viewer = document.getElementById('imageViewer');
             const img = document.getElementById('viewerImage');
+            
+            // Reset zoom and position
+            currentZoom = 1;
+            imgTranslateX = 0;
+            imgTranslateY = 0;
+            
             img.src = src;
             img.alt = caption || '';
             img.title = caption || '';
             viewer.style.display = 'block';
             
-            // Add click to close on image
-            img.onclick = closeImageViewer;
+            // Wait for image to load, then fit to screen
+            img.onload = function() {
+                fitImageToScreen();
+                updateZoomLevel();
+            };
+            
+            // Remove click to close, add drag functionality
+            img.onclick = null;
+            setupImageDragging(img);
+        }
+        
+        function fitImageToScreen() {
+            const img = document.getElementById('viewerImage');
+            const viewer = document.getElementById('imageViewer');
+            
+            const viewerRect = viewer.getBoundingClientRect();
+            const viewerWidth = viewerRect.width;
+            const viewerHeight = viewerRect.height;
+            
+            // Calculate scale to fit screen (with some padding)
+            const scaleX = (viewerWidth * 0.9) / img.naturalWidth;
+            const scaleY = (viewerHeight * 0.9) / img.naturalHeight;
+            currentZoom = Math.min(scaleX, scaleY);
+            
+            // Don't go below original fit scale
+            currentZoom = Math.max(currentZoom, 0.1);
+            
+            updateImageTransform();
+        }
+        
+        function setupImageDragging(img) {
+            img.addEventListener('mousedown', startDrag);
+            document.addEventListener('mousemove', drag);
+            document.addEventListener('mouseup', stopDrag);
+            
+            // Touch events for mobile
+            img.addEventListener('touchstart', startDrag);
+            document.addEventListener('touchmove', drag);
+            document.addEventListener('touchend', stopDrag);
+        }
+        
+        function startDrag(e) {
+            if (currentZoom <= 1) return; // Only allow drag when zoomed in
+            
+            isDragging = true;
+            const clientX = e.clientX || e.touches[0].clientX;
+            const clientY = e.clientY || e.touches[0].clientY;
+            
+            dragStartX = clientX - imgTranslateX;
+            dragStartY = clientY - imgTranslateY;
+            
+            e.preventDefault();
+        }
+        
+        function drag(e) {
+            if (!isDragging) return;
+            
+            const clientX = e.clientX || e.touches[0].clientX;
+            const clientY = e.clientY || e.touches[0].clientY;
+            
+            imgTranslateX = clientX - dragStartX;
+            imgTranslateY = clientY - dragStartY;
+            
+            updateImageTransform();
+            e.preventDefault();
+        }
+        
+        function stopDrag() {
+            isDragging = false;
+        }
+        
+        function zoomImage(delta) {
+            const newZoom = currentZoom + delta;
+            
+            // Limit zoom range
+            if (newZoom >= 0.1 && newZoom <= 5) {
+                currentZoom = newZoom;
+                
+                // Reset position if zooming out to fit screen
+                if (currentZoom <= 1) {
+                    imgTranslateX = 0;
+                    imgTranslateY = 0;
+                }
+                
+                updateImageTransform();
+                updateZoomLevel();
+                updateZoomButtons();
+            }
+        }
+        
+        function updateImageTransform() {
+            const img = document.getElementById('viewerImage');
+            img.style.transform = `scale(${currentZoom}) translate(${imgTranslateX/currentZoom}px, ${imgTranslateY/currentZoom}px)`;
+        }
+        
+        function updateZoomLevel() {
+            const zoomLevel = document.getElementById('zoomLevel');
+            zoomLevel.textContent = Math.round(currentZoom * 100) + '%';
+        }
+        
+        function updateZoomButtons() {
+            const zoomIn = document.getElementById('zoomIn');
+            const zoomOut = document.getElementById('zoomOut');
+            
+            zoomIn.disabled = currentZoom >= 5;
+            zoomOut.disabled = currentZoom <= 0.1;
+        }
+        
+        // Mouse wheel zoom
+        function setupMouseWheelZoom() {
+            const viewer = document.getElementById('imageViewer');
+            viewer.addEventListener('wheel', function(e) {
+                if (viewer.style.display !== 'block') return;
+                
+                e.preventDefault();
+                const delta = e.deltaY > 0 ? -0.1 : 0.1;
+                zoomImage(delta);
+            });
+        }
+        
+        // Keyboard controls
+        function setupKeyboardControls() {
+            document.addEventListener('keydown', function(e) {
+                const viewer = document.getElementById('imageViewer');
+                if (viewer.style.display !== 'block') return;
+                
+                switch(e.key) {
+                    case 'Escape':
+                        closeImageViewer();
+                        break;
+                    case '+':
+                    case '=':
+                        zoomImage(0.2);
+                        break;
+                    case '-':
+                        zoomImage(-0.2);
+                        break;
+                    case '0':
+                        fitImageToScreen();
+                        updateZoomLevel();
+                        updateZoomButtons();
+                        break;
+                }
+            });
         }
         
         // Close image viewer
         function closeImageViewer() {
             document.getElementById('imageViewer').style.display = 'none';
+            currentZoom = 1;
+            imgTranslateX = 0;
+            imgTranslateY = 0;
         }
         
         // Close modal - fix selector to target the term modal specifically
@@ -1102,8 +1267,10 @@
             }
         });
         
-        // Load data on page load
+        // Initialize application
         loadData();
+        setupMouseWheelZoom();
+        setupKeyboardControls();
     </script>
 </body>
 </html>
