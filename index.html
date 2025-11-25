@@ -272,6 +272,19 @@
             border: 1px solid #0073aa;
         }
         
+        .image-indicator {
+            display: inline-block;
+            margin-right: 8px;
+            font-size: 0.9em;
+            opacity: 0.7;
+            transition: opacity 0.3s;
+        }
+        
+        .term-item:hover .image-indicator,
+        .intro-item:hover .image-indicator {
+            opacity: 1;
+        }
+        
         .loading {
             text-align: center;
             padding: 40px;
@@ -725,22 +738,33 @@
                 
                 // Load term-image mapping with captions
                 try {
-                    const mappingResponse = await fetch('data/organized/term_images_with_captions.json');
-                    termImageMap = await mappingResponse.json();
-                    console.log(`Cargado mapeo preciso de imágenes con captions para ${Object.keys(termImageMap).length} términos`);
-                } catch (e) {
-                    console.warn('Mapeo de términos-imágenes con captions no encontrado, intentando mapeo simple');
-                    try {
-                        const simpleResponse = await fetch('data/organized/term_images_simple.json');
-                        const simpleMap = await simpleResponse.json();
-                        // Convertir formato simple a formato mejorado
-                        for (const [term, images] of Object.entries(simpleMap)) {
-                            termImageMap[term] = images.map((img, idx) => ({
-                                image: img,
-                                figure: idx + 1,
-                                caption: `Figura ${idx + 1}`
-                            }));
+                    const mappingResponse = await fetch('data/organized/term_image_mapping.json');
+                    const fullMapping = await mappingResponse.json();
+                    
+                    // Convert to simple format for the app
+                    termImageMap = {};
+                    for (const [term, mappings] of Object.entries(fullMapping)) {
+                        if (mappings && mappings.length > 0) {
+                            termImageMap[term] = [];
+                            mappings.forEach(mapping => {
+                                if (mapping.images && mapping.images.length > 0) {
+                                    mapping.images.forEach(img => {
+                                        termImageMap[term].push({
+                                            image: img,
+                                            figure: mapping.figure,
+                                            caption: mapping.caption || `Figura ${mapping.figure}`
+                                        });
+                                    });
+                                }
+                            });
                         }
+                    }
+                    console.log(`Cargado mapeo de imágenes para ${Object.keys(termImageMap).length} términos`);
+                } catch (e) {
+                    console.warn('Mapeo de términos-imágenes no encontrado, intentando mapeo simple');
+                    try {
+                        const simpleResponse = await fetch('data/organized/term_images_with_captions.json');
+                        termImageMap = await simpleResponse.json();
                     } catch (e2) {
                         console.warn('No se encontró mapeo de imágenes');
                     }
@@ -824,8 +848,12 @@
                             defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
                         }
                         
+                        // Check if term has images
+                        const hasImages = termImageMap[term.term] && termImageMap[term.term].length > 0;
+                        const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
+                        
                         introItem.innerHTML = `
-                            <div class="term-item-name">${term.term}</div>
+                            <div class="term-item-name">${imageIcon}${term.term}</div>
                             <div class="term-item-def">${defPreview}${term.definition.length > 150 ? '...' : ''}</div>
                         `;
                         introSection.appendChild(introItem);
@@ -844,8 +872,12 @@
                             defPreview = `<span class="reference-badge">Ver: ${term.reference_to}</span> ` + defPreview;
                         }
                         
+                        // Check if term has images
+                        const hasImages = termImageMap[term.term] && termImageMap[term.term].length > 0;
+                        const imageIcon = hasImages ? '<span class="image-indicator" title="Contiene imágenes">🖼️</span>' : '';
+                        
                         termItem.innerHTML = `
-                            <div class="term-item-name">${term.term}</div>
+                            <div class="term-item-name">${imageIcon}${term.term}</div>
                             <div class="term-item-def">${defPreview}${term.definition.length > 120 ? '...' : ''}</div>
                         `;
                         
