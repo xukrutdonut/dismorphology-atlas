@@ -1,10 +1,10 @@
-# 🧬 Morphology Atlas
+# 🧬 Dismorphology Atlas
 
-Atlas interactivo de terminología morfológica basado en "Elements of Morphology" - Standard Terminology.
+Atlas interactivo de terminología dismorfológica basado en "Elements of Morphology" - Standard Terminology.
 
 ## 📋 Descripción
 
-Este proyecto contiene una extracción completa y organizada de términos morfológicos de los documentos "Elements of Morphology" publicados en American Journal of Medical Genetics. Incluye **128 términos médicos** con sus definiciones, **694 imágenes PNG** de alta calidad extraídas automáticamente, y una **aplicación web interactiva** con diseño moderno para explorar el contenido médico.
+Este proyecto contiene una extracción completa y organizada de términos dismorfológicos de los documentos "Elements of Morphology" publicados en American Journal of Medical Genetics. Incluye **128 términos médicos** con sus definiciones, **694 imágenes PNG** de alta calidad extraídas automáticamente, y una **aplicación web interactiva** con diseño moderno para explorar el contenido médico.
 
 ### 🆕 Nuevas Características (Noviembre 2025)
 - ✅ **Extracción automatizada completa** de 22 documentos PDF
@@ -15,7 +15,7 @@ Este proyecto contiene una extracción completa y organizada de términos morfol
 
 ## ✨ Características
 
-- 🔍 **128 términos morfológicos** extraídos y verificados con definiciones completas
+- 🔍 **128 términos dismorfológicos** extraídos y verificados con definiciones completas
 - 🖼️ **694 imágenes PNG** de alta calidad extraídas automáticamente de los PDFs
 - 🔗 **190 relaciones término-imagen** creadas mediante análisis inteligente de captions
 - 📚 **7 categorías anatómicas** organizadas (ear, hands_feet, head_face, lips_mouth, etc.)
@@ -255,12 +255,13 @@ Este proyecto organiza y presenta contenido académico publicado bajo licencia C
 
 ## 🎯 Uso Recomendado
 
-Este atlas es ideal para:
+Este atlas de dismorfología es ideal para:
 - 👨‍⚕️ Estudiantes de medicina
 - 👨‍🔬 Genetistas clínicos
 - 👨‍💻 Desarrolladores de aplicaciones médicas
 - 📚 Investigadores en dismorfología
 - 🏥 Profesionales de la salud
+- 🧬 Especialistas en genética médica
 
 ## 🤝 Contribuciones
 

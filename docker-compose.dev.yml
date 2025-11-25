@@ -1,13 +1,13 @@
 version: '3.8'
 
 services:
-  morphology-atlas:
+  dismorphology-atlas:
     build:
       context: .
       dockerfile: Dockerfile
       args:
         NGINX_ENV: dev
-    container_name: morphology-atlas-dev
+    container_name: dismorphology-atlas-dev
     ports:
       - "8888:80"
     restart: unless-stopped
